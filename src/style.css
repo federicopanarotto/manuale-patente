@@ -46,6 +46,9 @@
     color: #312f2f;
     text-decoration: underline;
 }
+.footer a:hover {
+    color: #689e7f;
+}
 
 /* PARTE CAPITOLI ======================================================== */
 
