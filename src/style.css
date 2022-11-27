@@ -1,0 +1,261 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;0,1000;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900;1,1000&display=swap');
+
+/* PARTE GLOBALE ======================================================== */
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+}
+.top {
+    display: flex;
+    height: 100px;
+    background-color: #75c094;
+    font-family: 'Nunito', sans-serif;
+    font-size: 40px;
+    align-items: center;
+    justify-content: center;
+    color: #dfe9e1;
+    text-shadow: 2px 2px 1px #00000060;
+}
+.content {
+    background-color: #ddffeb;
+    padding: 30px;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+.footer {
+    height: 180px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #555555;
+    flex-direction: column;
+}
+.footer h2 {
+    font-size: 20px;
+    font-family: 'Nunito', sans-serif;
+    color: #839185;
+}
+.footer a {
+    color: #312f2f;
+    text-decoration: underline;
+}
+
+/* PARTE CAPITOLI ======================================================== */
+
+.zona-capitoli {
+    background-color: #c8e9cb;
+    box-shadow: 2px 2px 5px #00000060;
+    border-radius: 10px;
+    padding: 20px;
+    width: 1650px;
+}
+.back-arrow {
+    margin-top: 20px;
+    height: 60px;
+    background-color: #90cea3;
+    border-radius: 10px;
+    padding: 10px;
+    width: 1650px;
+    font-family: 'Nunito', sans-serif;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #5f5f5f;
+    box-shadow: 2px 2px 5px #00000060;
+}
+@media screen and (max-width: 1727px) {
+    .zona-capitoli {
+        width: 1325px;
+    }
+    .back-arrow {
+        width: 1325px;
+    }
+}
+@media screen and (max-width: 1402px) {
+    .zona-capitoli {
+        width: 1000px;
+    }
+    .back-arrow {
+        width: 1000px;
+    }
+}
+.zona-capitoli #cap {
+    height: 60px;
+    font-family: 'Nunito', sans-serif;
+    font-size: 40px;
+    color: #689e7f;
+    text-shadow: 1px 1px 1px #00000060;
+    margin-bottom: 20px;
+}
+.zona-capitoli list {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 25px;
+    margin: 5px;
+    padding-bottom: 25px;
+}
+.zona-capitoli list a {
+    height: 400px;
+    width: 300px;
+    background-color: #8db19c94;
+    border-radius: 5px;
+    box-shadow: 1px 1px 3px #00000060;
+    padding: 10px;
+    text-align: center;
+}
+.zona-capitoli list a element h1 {
+    text-decoration: none;
+    font-size: 30px;
+    font-family: 'Nunito', sans-serif;
+    color: #fffff6;
+    padding-bottom: 13px;
+}
+.zona-capitoli list a element img {
+    height: 250px;
+    padding-bottom: 13px;
+}
+.zona-capitoli list a element p {
+    font-size: 23px;
+    font-family: 'Nunito', sans-serif;
+    color: #464646;
+}
+
+/* PARTE ARGOMENTI ====================================================== */
+
+.zona-argomenti {
+    background-color: #c8e9cb;
+    box-shadow: 2px 2px 5px #00000060;
+    border-radius: 10px;
+    padding: 20px;
+    width: 1650px;
+}
+@media screen and (max-width: 1727px) {
+    .zona-argomenti {
+        width: 1325px;
+    }
+}
+@media screen and (max-width: 1402px) {
+    .zona-argomenti {
+        width: 1000px;
+    }
+}
+.zona-argomenti #cap {
+    height: 60px;
+    font-family: 'Nunito', sans-serif;
+    font-size: 40px;
+    color: #689e7f;
+    text-shadow: 1px 1px 1px #00000060;
+    margin-bottom: 20px;
+}
+.zona-argomenti list {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 25px;
+    margin: 5px;
+    padding-bottom: 25px;
+}
+.zona-argomenti list a {
+    /* height: 150px; */
+    width: 100%;
+    background-color: #8db19c94;
+    border-radius: 5px;
+    box-shadow: 1px 1px 3px #00000060;
+    padding: 15px;
+}
+.zona-argomenti list element {
+    display: flex;
+    align-items: center;
+    width: 100%;
+}
+.zona-argomenti list element h1 {
+    text-decoration: none;
+    font-size: 30px;
+    font-family: 'Nunito', sans-serif;
+    color: #fffff6;
+    padding-left: 15px;
+    height: 155px;
+    width: calc(100% - 210px);
+    align-items: center;
+    display: flex;
+}
+.zona-argomenti list element .container-img {
+    height: 155px;
+    width: 210px;
+    border-radius: 8px;
+    overflow: hidden;
+    box-shadow: 2px 2px 5px #00000060;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #ebe6e6;
+}
+.zona-argomenti list element img {
+    width: 210px;
+}
+
+
+/* PARTE ARGOMENTO ====================================================== */
+
+.zona-argomento {
+    background-color: #c8e9cb;
+    box-shadow: 2px 2px 5px #00000060;
+    border-radius: 10px;
+    padding: 20px;
+    width: 1650px;
+}
+@media screen and (max-width: 1727px) {
+    .zona-argomento {
+        width: 1325px;
+    }
+}
+@media screen and (max-width: 1402px) {
+    .zona-argomento {
+        width: 1000px;
+    }
+}
+.zona-argomento #cap {
+    height: 60px;
+    font-family: 'Nunito', sans-serif;
+    font-size: 40px;
+    color: #689e7f;
+    text-shadow: 1px 1px 1px #00000060;
+    margin-bottom: 20px;
+}
+.zona-argomento element {
+    display: flex;
+    align-items: center;
+    width: 100%;
+    flex-direction: column;
+}
+.zona-argomento element .container-img {
+    height: 400px;
+    width: 630px;
+    background-color: #464646;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    overflow: hidden;
+    border-radius: 14px;
+    box-shadow: 2px 2px 7px #00000060;
+}
+.zona-argomento element .container-img img {
+    height: 500px;
+}
+.zona-argomento element div {
+    font-size: 24px;
+    padding-top: 35px;
+    display: flex;
+    font-family: 'Nunito', sans-serif;
+    padding-bottom: 70px;
+    display: flex;
+    flex-direction: column;
+    width: 900px;
+}
+
+ul {
+    padding-left: 25px;
+}
