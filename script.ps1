@@ -3,10 +3,13 @@ $min=$args[0];
 $max=$args[1];
 $capNum=$args[2];
 
-# custom variables
+# Custom variables
 $copyFile='argomento.html';
 $path_to_file='../../';
 $totalpath=''+$path_to_file+$copyFile;
+
+# Create img directory if not present
+mkdir img;
 
 # Generate "Capitolo" file
 $capfileName='capitolo'+$capNum+'.html';
@@ -15,8 +18,12 @@ $outputString='../../output.txt';
 Copy-Item $capfilePath $capfileName;
 $cmd='C:\Users\federick\Documents\Dev\GitHub\patente\manuale-patente\exebro.exe';
 Start-Process -Wait $cmd -ArgumentList "$min, $max, $outputString" -NoNewWindow;
+# Changing page title
+(Get-Content $capfileName).Replace('<title>Capitolo 0</title>', '<title>Capitolo '+$capNum+'</title>') | Set-Content $capfileName;
 # Insert string created in capitolo file
 (Get-Content $capfileName).Replace('changehere', (Get-Content $outputString)) | Set-Content $capfileName;
+
+Write-Host "";
 
 # Generate "Argomento" files
 for ($counter=$min; $counter -lt $max+1; $counter++) {
@@ -40,6 +47,8 @@ for ($counter=$min; $counter -lt $max+1; $counter++) {
     $fileprec=$prec+'_'+$copyFile;
     $filesucc=$succ+'_'+$copyFile;
     Copy-Item $totalpath $filename
+    Write-Host "Created file" $filename;
+    
     # Change file text
     # Change Chapter name
     (Get-Content $filename).Replace('<title>Capitolo 0</title>', '<title>Capitolo '+$capNum+'</title>') | Set-Content $filename;
