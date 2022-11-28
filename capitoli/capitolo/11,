@@ -1,0 +1,72 @@
+<!-- ARGOMENTO 1 -->
+<a href="01_argomento.html">
+	<element>
+		<div class="container-img">
+			<img src="img/01.png" alt="">
+		</div>
+	<h1>text</h1>
+	</element>
+</a>
+<!-- ARGOMENTO 2 -->
+<a href="02_argomento.html">
+	<element>
+		<div class="container-img">
+			<img src="img/02.png" alt="">
+		</div>
+	<h1>text</h1>
+	</element>
+</a>
+<!-- ARGOMENTO 3 -->
+<a href="03_argomento.html">
+	<element>
+		<div class="container-img">
+			<img src="img/03.png" alt="">
+		</div>
+	<h1>text</h1>
+	</element>
+</a>
+<!-- ARGOMENTO 4 -->
+<a href="04_argomento.html">
+	<element>
+		<div class="container-img">
+			<img src="img/04.png" alt="">
+		</div>
+	<h1>text</h1>
+	</element>
+</a>
+<!-- ARGOMENTO 5 -->
+<a href="05_argomento.html">
+	<element>
+		<div class="container-img">
+			<img src="img/05.png" alt="">
+		</div>
+	<h1>text</h1>
+	</element>
+</a>
+<!-- ARGOMENTO 6 -->
+<a href="06_argomento.html">
+	<element>
+		<div class="container-img">
+			<img src="img/06.png" alt="">
+		</div>
+	<h1>text</h1>
+	</element>
+</a>
+<!-- ARGOMENTO 7 -->
+<a href="07_argomento.html">
+	<element>
+		<div class="container-img">
+			<img src="img/07.png" alt="">
+		</div>
+	<h1>text</h1>
+	</element>
+</a>
+<!-- ARGOMENTO 8 -->
+<a href="08_argomento.html">
+	<element>
+		<div class="container-img">
+			<img src="img/08.png" alt="">
+		</div>
+	<h1>text</h1>
+	</element>
+</a>
