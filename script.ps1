@@ -6,10 +6,15 @@ $totalpath=''+$path+$arg
 
 for (; $min -lt $max+1; $min++) {
     if ($min -lt 10) {
-        $filename="0"+$min+"_"+$arg
+        $num="0"+$min
     } else {
-        $filename=""+$min+"_"+$arg
+        $num=""+$min
     }
-    cp $totalpath $filename
+    $filename=''+$num+"_"+$arg
+    Copy-Item $totalpath $filename
+    $newstring0='<img src="img/00.png" alt="">'
+    $newstring1='<img src="img/'+$num+'.png" alt="">'
+    $command='"s/'+$newstring0+'/'+$newstring1+'/"'
+    sed -i $command $filename
 }
 
