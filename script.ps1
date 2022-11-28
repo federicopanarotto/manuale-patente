@@ -1,5 +1,5 @@
 $min=1;
-$max=14;
+$max=39;
 $arg="argomento.html"
 $path="../../"
 $totalpath=''+$path+$arg
