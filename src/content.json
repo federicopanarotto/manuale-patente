@@ -263,72 +263,72 @@
                 {
                     "val": 24,
                     "title": "Animali domestici vaganti",
-                    "content": ""
+                    "content": "E' un segnale di pericolo che preannuncia (di norma a 150 metri) un tratto di strada con probabile attraversamento di animali domestici. <br><br>Richiede di rallentare o di arrestarsi (e non suonare) se gli animali attraversano la strada, danno segno di spavento o non si spostano."
                 },
                 {
                     "val": 25,
-                    "title": "",
-                    "content": ""
+                    "title": "Animali selvatici vaganti",
+                    "content": "E' un segnale di pericolo che preannuncia (di norma a 150 metri) un tratto di strada con probabile e improvviso attraversamento di animali selvatici. <br><br>Richiede di rallentare o di arrestarsi (e non suonare) se gli animali attraversano la strada, danno segno di spavento o non si spostano."
                 },
                 {
                     "val": 26,
-                    "title": "",
-                    "content": ""
+                    "title": "Doppio senso di circolazione",
+                    "content": "E' un segnale di pericolo che preannuncia (di norma a 150 metri) che una carreggiata a senso unico, diventa a doppio senso di circolazione e quindi si potranno incontrare veicoli che marciano in senso opposto. <br>Indica quindi che termina il senso unico di circolazione e occorrerà usare maggiore prudenza. <br><br>Se a fondo giallo, è posto in presenza di lavori in corso. <br>Il sorpasso, se consentito, deve essere effettuato con particolare prudenza. <br><br>Non è vero che preannuncia un senso unico alternato o il diritto di precedenza nei sensi unici alternati o che impone di dare la precedenza ai veicoli provenienti in senso contrario."
                 },
                 {
                     "val": 27,
-                    "title": "",
-                    "content": ""
+                    "title": "Circolazione rotatoria",
+                    "content": "E' un segnale di pericolo che preannuncia (di norma a 150 metri) un incrocio di due o più strade (urbane o extraurbane) regolato con circolazione rotatoria."
                 },
                 {
                     "val": 28,
-                    "title": "",
-                    "content": ""
+                    "title": "Sblocco su molo o su argine",
+                    "content": "E' un segnale di pericolo che preannuncia (di norma a 150 metri) lo sbocco della strada su una banchina portuale, un molo, l'argine di un fiume o di un canale, e quindi il pericolo di caduta in acqua. <br><br>Bisogna usare particolare prudenza, soprattutto di notte, per evitare di cadere in acqua specialmente se si dovranno effettuare manovre di retromarcia. <br><br>Non è vero che preannuncia lo sbocco su un ponte mobile o si riferisce soltanto alle autovetture."
                 },
                 {
                     "val": 29,
-                    "title": "",
-                    "content": ""
+                    "title": "Materiale instabile sulla carreggiata",
+                    "content": "E' un segnale di pericolo che preannuncia (di norma a 150 metri) un tratto di strada sulla cui pavimentazione stradale può trovarsi del pietrisco. <br>Questo, oltre a diminuire l'aderenza del veicolo, può essere scagliato a distanza al passaggio del veicolo, diventando pericoloso per altri veicoli o per i pedoni. <br><br>Richiede quindi di mantenere una distanza maggiore dal veicolo che precede e procedere con cautela in presenza di pedoni, anche se si trovano fuori dalla carreggiata. <br><br>Non è vero che preannuncia un tratto di strada soggetto a frana (o caduta massi) o che, se a fondo giallo, preannuncia un tratto di strada non percorribile per la presenza di cantieri stradali."
                 },
                 {
                     "val": 30,
-                    "title": "",
-                    "content": ""
+                    "title": "Caduta massi da sinistra",
+                    "content": "E' un segnale di pericolo che preannuncia (di norma a 150 metri) il pericolo di caduta di pietre da sinistra con conseguente loro presenza sulla carreggiata. <br><br>E' opportuno moderare la velocità per evitare di urtare eventuali massi caduti sulla carreggiata, evitare lunghe soste e far attenzione a possibili brusche frenate da parte dei veicoli che precedono. <br><br>Non è vero che è vietato il sorpasso."
                 },
                 {
                     "val": 31,
-                    "title": "",
-                    "content": ""
+                    "title": "Caduta massi da destra",
+                    "content": "E' un segnale di pericolo che preannuncia (di norma a 150 metri) il pericolo di caduta di pietre da destra con conseguente loro presenza sulla carreggiata. <br><br>E' opportuno moderare la velocità per evitare di urtare eventuali massi caduti sulla carreggiata, evitare lunghe soste e far attenzione a possibili brusche frenate da parte dei veicoli che precedono. <br><br>Non è vero che non si può circolare ad oltre 30 km/h."
                 },
                 {
                     "val": 32,
-                    "title": "",
-                    "content": ""
+                    "title": "Semaforo con dischi in verticale",
+                    "content": "E' un segnale di pericolo che preannuncia (di norma a 150 metri) un semaforo con disposizione delle luci in verticale: bisogna moderare la velocità per potersi all'occorrenza fermare. <br><br>Il disco giallo può essere sostituito da una luce gialla lampeggiante. <br>Se a fondo giallo è posto prima di un cantiere stradale. <br>E' obbligatorio sulle strade extraurbane prima di un semaforo. <br><br>Non è vero che può avere al centro una luce gialla fissa o il disco rosso sostituito da una luce rossa lampeggiante."
                 },
                 {
                     "val": 33,
-                    "title": "",
-                    "content": ""
+                    "title": "Semaforo con dischi in orizzontale",
+                    "content": "E' un segnale di pericolo che preannuncia (di norma a 150 metri) un semaforo con disposizione delle luci in orizzontale: bisogna moderare la velocità per potersi all'occorrenza fermare. <br><br>Il disco giallo può essere sostituito da una luce gialla lampeggiante. <br>Se a fondo giallo è posto prima di un cantiere stradale. <br><br>E' obbligatorio sulle strade extraurbane prima di un semaforo. <br>Non è vero che può avere al centro una luce gialla fissa o il disco rosso sostituito da una luce rossa lampeggiante."
                 },
                 {
                     "val": 34,
-                    "title": "",
-                    "content": ""
+                    "title": "Aeromobili",
+                    "content": "E' un segnale di pericolo che preannuncia (di norma a 150 metri) zone dove può avvenire il volo a bassa quota di aeroplani e quindi la possibilità di un improvviso abbagliamento o forte rumore. <br><br>E' posto nelle vicinanze di aeroporti e piste per l'atterraggio e il decollo di aeroplani."
                 },
                 {
                     "val": 35,
-                    "title": "",
-                    "content": ""
+                    "title": "Forte vento laterale",
+                    "content": "E' un segnale di pericolo che preannuncia (di norma a 150 metri) un tratto di strada soggetto ad improvvise e forti raffiche di vento laterale (ad esempio l'uscita di una galleria, un viadotto, un ponte). <br>Indica di procedere con prudenza tenendo saldamente il volante e prevedere possibili sbandamenti dei veicoli provenienti dal senso opposto. <br><br>Il pericolo è maggiore per i veicoli a due ruote e per tutti quelli che hanno un’ampia superficie laterale, specie se viaggiano scarichi. <br><br>Maggior pericolo per i veicoli:<ul>    <li>telonati</li>    <li>furgonati</li>    <li>che trainano rimorchi o con bagagli voluminosi sopra il tetto (perché il vento esercita una maggiore forza ribaltante)</li></ul><br>Per questi veicoli vige l'obbligo di rallentare e all’occorrenza fermarsi. <br>Non è vero che il pericolo è maggiore all'entrata delle gallerie o è maggiore all'uscita. <br>Non è vero che indica da quale direzione proviene il vento."
                 },
                 {
                     "val": 36,
-                    "title": "",
-                    "content": ""
+                    "title": "Pericolo di incendio",
+                    "content": "E' un segnale di pericolo che preannuncia (di norma a 150 metri) la vicinanza di zone laterali alla strada ad alto rischio d'incendio (ad esempio un bosco facilmente infiammabile). <br>E' obbligatoriamente integrato dal pannello ESTESA che indica la lunghezza del tratto di strada interessato. <br><br>Se il conducente o gli eventuali passeggeri non rispettano il divieto di gettare sigarette accese dal finestrino, può verificarsi un incendio. <br>E' opportuno non fermarsi sulla sterpaglia con veicolo munito di marmitta catalitica (in quanto la marmitta catalitica raggiunge elevate temperature). <br><br>Non è vero che vieta il transito ai veicoli che trasportano esplosivi o prodotti facilmente infiammabili."
                 },
                 {
                     "val": 37,
-                    "title": "",
-                    "content": ""
+                    "title": "Altri pericoli",
+                    "content": "E' un segnale di pericolo che preannuncia (di norma a 150 metri) un pericolo generico, diverso da quelli indicati dagli altri segnali di pericolo. <br><br>Sotto al segnale è obbligatorio un pannello integrativo che specifica il tipo di pericolo. <br><br>Esempio: <ul>    <li>'ATTRAVERSAMENTO BINARI'</li>    <li>'GHIACCIO'</li>    <li>'SGOMBRANEVE IN AZIONE'</li>    <li>'MEZZI DI LAVORO IN AZIONE'</li>    <li>etc.</li></ul><br>Può essere usato senza pannelli integrativi per indicare un pericolo generico in caso di emergenza. <br>Indica di procedere con prudenza."
                 }
             ]
         },
@@ -338,73 +338,73 @@
             "argomenti": [
                 {
                     "val": 0,
-                    "title": "",
-                    "content": ""
+                    "title": "Dare la precedenza a destra ed a sinistra",
+                    "content": "E' un segnale di prescrizione (precedenza). <br>Obbliga a dare precedenza ai veicoli provenienti sia da destra che da sinistra sulla strada che si incrocia. <br><br>Si può trovare (sia fuori che dentro i centri abitati) ad esempio:<ul>    <li>su strada secondaria che non ha il diritto di precedenza</li>    <li>sulle corsie di accelerazione per l'immissione in autostrada</li>    <li>sulle rampe di raccordo per l'immissione in autostrada </li>    <li>abbinato ad un semaforo, in tal caso vale quando il semaforo funziona a luce gialla lampeggiante</li></ul><br>Impone l'uso della massima prudenza al fine di evitare incidenti, moderare particolarmente la velocità e all'occorrenza fermarsi. <br>Non è obbligatorio fermarsi all'incrocio se, rallentando, si ha modo di vedere che non vi sono veicoli in arrivo, sia da destra che da sinistra. <br><br>Può essere installato prima dell'incrocio entro 10 metri in città ed entro 25 metri fuori città. <br>Su strade extraurbane è preceduto dal segnale 'PREAVVISO DI DARE PRECEDENZA'. <br>Non è vero che può essere preceduto dal segnale 'DIRITTO DI PRECEDENZA' o che si trova sulle strade con diritto di precedenza."
                 },
                 {
                     "val": 1,
-                    "title": "",
-                    "content": ""
+                    "title": "Preavviso di dare la precedenza a destra ed a sinistra",
+                    "content": "E' un segnale di prescrizione (precedenza). <br>Preannuncia la successiva presenza di un segnale di 'DARE PRECEDENZA' e indica la distanza dall'incrocio in cui dovremo dare la precedenza. <br><br>Indica di rallentare per potersi fermare se ci sono veicoli cui bisogna dare precedenza. <br>E' posto su strade extraurbane che non hanno diritto di precedenza."
                 },
                 {
                     "val": 2,
-                    "title": "",
-                    "content": ""
+                    "title": "Fermarsi e dare la precedenza a destra ed a sinistra",
+                    "content": "E' un segnale di prescrizione (precedenza). <br>Obbliga a fermarsi in corrispondenza della striscia trasversale di arresto, anche se non c'è nessuno, e dare la precedenza ai veicoli provenienti sia da destra che da sinistra. <br><br>Si può trovare (sia fuori che dentro i centri abitati) ad esempio: <ul>    <li>in genere, negli incroci con scarsa visibilità e particolare pericolosità </li>    <li>in corrispondenza di un passaggio a livello</li>    <li>all'incrocio con una strada con diritto di precedenza</li>    <li>abbinato ad un semaforo, in tal caso vale quando il semaforo funziona a luce gialla lampeggiante</li></ul><br>Può essere installato prima dell'incrocio entro 10 metri in città ed entro 25 metri fuori città. <br>Su strade extraurbane è preceduto dal segnale 'PREAVVISO DI STOP'. <br><br>Non è vero che preannuncia l'obbligo di fermarsi e di dare la precedenza nei sensi unici alternati. <br>Non è vero che obbliga ad arrestarsi ad un varco doganale o solo quando si incrociano altri veicoli (bisogna arrestarsi sempre, anche se non si vede nessuno)."
                 },
                 {
                     "val": 3,
-                    "title": "",
-                    "content": ""
+                    "title": "Preavviso di fermarsi e dare la precedenza a destra ed a sinistra",
+                    "content": "E' un segnale di prescrizione (precedenza). <br>Preannuncia la successiva presenza di un segnale 'FERMARSI E DARE PRECEDENZA' (STOP). <br><br>Bisogna iniziare a moderare la velocità per essere pronti a fermarsi obbligatoriamente in presenza dello stop, e dare precedenza a destra e a sinistra."
                 },
                 {
                     "val": 4,
-                    "title": "",
-                    "content": ""
+                    "title": "Intersezione con precedenza a destra",
+                    "content": "E' un segnale di prescrizione (precedenza). <br>Preannuncia un incrocio (di norma a 150 metri) in cui vale la regola generale di dare la precedenza a destra. <br><br>Prescrive di procedere a velocità particolarmente moderata e dare precedenza ai veicoli provenienti da destra ed assicurarsi che quelli provenienti da sinistra siano disposti a darla. <br><br>Non si trova sul tratto di strada con diritto di precedenza."
                 },
                 {
                     "val": 5,
-                    "title": "",
-                    "content": ""
+                    "title": "Intersezione con diritto di precedenza",
+                    "content": "E' un segnale di prescrizione (precedenza). <br>Preannuncia un incrocio (di norma a 150 metri) in cui si ha la precedenza sui veicoli provenienti dalle strade secondarie da destra e sinistra (tali strade sono ovviamente senza diritto di precedenza). <br><br>Perde la sua efficacia in presenza di agente che regola il traffico. <br>Può essere preceduto dal segnale 'DIRITTO DI PRECEDENZA'. <br>Impone comunque di rallentare, accertandosi che i veicoli incrocianti (da destra e da sinistra) siano disposti a dare la precedenza. <br><br>Non è vero che è posto su autostrade poiché non ci possono essere incroci a raso."
                 },
                 {
                     "val": 6,
-                    "title": "",
-                    "content": ""
+                    "title": "Intersezione a 'T' con diritto di precedenza",
+                    "content": "E' un segnale di prescrizione (precedenza). <br>Preannuncia un incrocio con una strada secondaria (senza diritto di precedenza) che si immette da destra (incrocio a 'T') in cui il conducente ha la precedenza sui veicoli provenienti da tale strada. <br><br>Impone comunque di rallentare, accertandosi che i veicoli incrocianti siano disposti a dare la precedenza. <br><br>Non è vero che è posto sulle rampe di accesso alle autostrade."
                 },
                 {
                     "val": 7,
-                    "title": "",
-                    "content": ""
+                    "title": "Intersezione a 'T' con diritto di precedenza",
+                    "content": "E' un segnale di prescrizione (precedenza). <br>Preannuncia un incrocio con una strada secondaria (senza diritto di precedenza) che si immette da sinistra (incrocio a 'T') in cui il conducente ha la precedenza sui veicoli provenienti da tale strada. <br><br>Impone comunque di rallentare, accertandosi che i veicoli incrocianti siano disposti a dare la precedenza. <br><br>Non è vero che è posto sulle rampe di accesso alle autostrade."
                 },
                 {
                     "val": 8,
-                    "title": "",
-                    "content": ""
+                    "title": "Confluenza a destra",
+                    "content": "E' un segnale di prescrizione (precedenza). <br>Preannuncia una immissione (confluenza) da destra con corsia di accelerazione, abbiamo la precedenza sui veicoli che si immettono. <br>È collocato, di norma, ad una distanza maggiore di 150 metri dal punto di confluenza. <br><br>Sulla rampa di raccordo (strada d'immissione laterale) è posto il segnale di 'DARE PRECEDENZA'. <br>Invita ad usare la massima prudenza al fine di evitare incidenti, agevolando o quantomeno non ostacolando l'immissione dei veicoli. <br><br>Non è vero che può precedere il segnale 'DARE PRECEDENZA' (che invece viene posto sulla strada d'immissione laterale). <br>Non è vero che consente la svolta a destra al prossimo incrocio, in quanto si tratta di una corsia di accelerazione, quindi a senso unico di marcia."
                 },
                 {
                     "val": 9,
-                    "title": "",
-                    "content": ""
+                    "title": "Confluenza a sinistra",
+                    "content": "E' un segnale di prescrizione (precedenza). <br>Preannuncia una immissione (confluenza) da sinistra con corsia di accelerazione, abbiamo la precedenza sui veicoli che si immettono. <br>È collocato, di norma, ad una distanza maggiore di 150 metri dal punto di confluenza. <br><br>Sulla rampa di raccordo (strada d'immissione laterale) è posto il segnale di 'DARE PRECEDENZA'. <br>Invita ad usare la massima prudenza al fine di evitare incidenti, agevolando o quantomeno non ostacolando l'immissione dei veicoli. <br><br>Non è vero che può precedere il segnale 'DARE PRECEDENZA' (che invece viene posto sulla strada d'immissione laterale). <br>Non è vero che consente la svolta a destra al prossimo incrocio, in quanto si tratta di una corsia di accelerazione, quindi a senso unico di marcia."
                 },
                 {
                     "val": 10,
-                    "title": "",
-                    "content": ""
+                    "title": "Diritto di precedenza",
+                    "content": "E' un segnale di prescrizione (precedenza). <br>Indica l'inizio di una strada urbana o extraurbana in cui i veicoli hanno diritto di precedenza. <br>Può essere ripetuto in formato piccolo prima e dopo ogni incrocio, anche integrato dal pannello 'ANDAMENTO DELLA STRADA PRINCIPALE'. <br>Comporta la presenza sulle strade che si incrociano del segnale 'DARE PRECEDENZA' o 'STOP'. <br><br>In presenza del segnale raffigurato bisogna comunque dare la precedenza ai veicoli che hanno in funzione il lampeggiante blu e sirena. <br>Bisogna comunque moderare la velocità in prossimità degli incroci e assicurarsi che i veicoli provenienti dalle strade laterali diano la precedenza. <br><br>Non è vero che è posto esclusivamente su strade extraurbane ad intenso traffico, o che si ha la precedenza fino all'uscita del centro abitato, o che è posto solo su strade statali."
                 },
                 {
                     "val": 11,
-                    "title": "",
-                    "content": ""
+                    "title": "Fine del diritto di precedenza",
+                    "content": "E' un segnale di prescrizione (precedenza). <br>Indica la fine di una strada urbana o extraurbana in cui i veicoli hanno diritto di precedenza. <br><br>Quindi dopo il segnale bisogna di norma dare la precedenza ai veicoli provenienti da destra, a meno che vi sia un segnale 'DARE PRECEDENZA' o 'FERMARSI E DARE PRECEDENZA' (STOP), che impongono la precedenza anche a sinistra. <br>Il segnale ci indica di procedere con maggiore prudenza perché non si ha più il diritto di precedenza. <br><br>Non è vero che obbliga ad arrestarsi all'incrocio (salvo vi sia il segnale 'STOP'), che preannuncia la fine dell'obbligo precedentemente imposto (il 'DIRITTO DI PRECEDENZA' non è un segnale di obbligo) o che preannuncia sempre un incrocio con precedenza a destra."
                 },
                 {
                     "val": 12,
-                    "title": "",
-                    "content": ""
+                    "title": "Dare la precedenza nei sensi unici alternati",
+                    "content": "E' un segnale di prescrizione (precedenza). <br>Impone, di dare precedenza ai veicoli provenienti dal senso opposto. <br>Si incontra quando in una strada a doppio senso vi sia una strettoia (ad esempio parte della carreggiata sia sbarrata per lavori) che permette il transito di una sola fila di veicoli. <br><br>Nella strettoia finisce temporaneamente il doppio senso di circolazione ed inizia il senso unico alternato, di fatto questo segnale impone di dare la precedenza nei sensi unici alternati. <br><br>Casi generali:<ul>    <li>se sono presenti segnale, semaforo e vigile: comanda il vigile</li>    <li>bisogna dare la precedenza se il semaforo è spento oppure se è a luce lampeggiante gialla</li>    <li>si ha la precedenza se il semaforo è a luce verede oppure se il semaforo è a luce rossa ma il vigile urbano ci invita a passare</li></ul><br>Non è vero che si incontra prima di un qualsiasi restringimento della carreggiata."
                 },
                 {
                     "val": 13,
-                    "title": "",
-                    "content": ""
+                    "title": "Diritto di precedenza nei sensi unici alternati",
+                    "content": "E' un segnale di prescrizione (precedenza). <br>Indica il diritto di precedenza rispetto i veicoli provenienti dal senso opposto. <br>Si incontra quando in una strada a doppio senso vi sia una strettoia (ad esempio parte della carreggiata sia sbarrata per lavori) che permette il transito di una sola fila di veicoli. <br><br>Nella strettoia finisce temporaneamente il doppio senso di circolazione ed inizia il senso unico alternato, di fatto questo segnale indica il diritto di precedenza nei sensi unici alternati. <br><br>In presenza del segnale bisogna comunque procedere con cautela e percorrere la strettoia, dopo essersi assicurati di aver ottenuto la precedenza dai veicoli provenienti dal senso opposto. <br>Se sono contemporaneamente presenti il segnale, il semaforo e il vigile comanda il vigile. <br><br>Si ha la precedenza se:<ul>    <li>il semaforo è a luce verde o spento</li>    <li>il semaforo è a luce gialla lampeggiante</li>    <li>il semaforo è a luce rossa ma il vigile urbano impone di passare</li></ul><br>Bisogna invece dare la precedenza se il semaforo è spento e il vigile urbano impone di fermarsi."
                 }
             ]
         },
@@ -414,138 +414,138 @@
             "argomenti": [
                 {
                     "val": 0,
-                    "title": "",
-                    "content": ""
+                    "title": "Divieto di transito a tutti i veicoli",
+                    "content": "E' un segnale di divieto e vieta il transito a tutti i veicoli, quindi vieta la circolazione in entrambe i sensi. <br>Vale 24 ore su 24 ma può avere validità limitata nel tempo, indicata in un pannello integrativo. <br><br>E' posto su entrambi gli accessi della strada. <br>Vale anche per i veicoli sprovvisti motore (esempio le biciclette) e per le auto elettriche, ma non per i pedoni. <br><br>Non è vero che consente di entrare nella strada per la sosta o per effettuare operazioni di carico e scarico."
                 },
                 {
                     "val": 1,
-                    "title": "",
-                    "content": ""
+                    "title": "Divieto di transito per autotreni ed autoarticolati",
+                    "content": "E' un segnale di divieto e vieta il transito alle categorie di veicoli indicati in figura, in particolare autotreni ed autoarticolati. <br><br>E' posto su entrambi gli accessi della strada."
                 },
                 {
                     "val": 2,
-                    "title": "",
-                    "content": ""
+                    "title": "Senso vietato",
+                    "content": "E' un segnale di divieto e vieta a tutti i veicoli di entrare in una strada accessibile invece dall'altra parte (quindi una strada a senso unico). <br><br>Vale 24 ore su 24 (quindi anche nelle ore notturne). <br>Vale anche per i veicoli sprovvisti di motore e per i taxi."
                 },
                 {
                     "val": 3,
-                    "title": "",
-                    "content": ""
+                    "title": "Divieto di sorpasso",
+                    "content": "E' un segnale di divieto e vieta a tutti i veicoli di sorpassare i veicoli a motore (anche elettrico), eccetto i ciclomotori e i motocicli. <br><br>In presenza del segnale possono venire sorpassati: <ul>    <li>veicoli senza motore</li>    <ul>        <li>biciclette</li>        <li>veicoli a braccia</li>        <li>carrozze a cavalli</li>        <li>veicoli a trazione animale</li>    </ul>    <li>ciclomotori</li>    <li>motocicli</li></ul><br>Attenzione il divieto di sorpasso vale per tutti i veicoli a motore, anche per ciclomotori e motocicli. <br>Vale anche se la manovra può compiersi entro la semicarreggiata, senza oltrepassare la striscia continua. <br><br>Ha validità 24 ore e si può trovare sia su strade urbane che extraurbane. <br>Può essere integrato dal pannello integrativo 'CONTINUA', ad esempio dopo un incrocio, ad indicare la continuazione del divieto."
                 },
                 {
                     "val": 4,
-                    "title": "",
-                    "content": ""
+                    "title": "Fine del divieto di sorpasso per tutti i veicoli",
+                    "content": "E' un segnale di fine prescrizione (fine divieto) e indica la fine del divieto di sorpasso precedentemente imposto. <br><br>Praticamente indica che da questo punto in poi è consentito il sorpasso, sempre se viene fatto senza oltrepassare eventuale linea bianca continua. <br>Ha validità 24 ore e si può trovare sia su strade urbane che extraurbane. <br><br>Non impone un particolare limite di velocità."
                 },
                 {
                     "val": 5,
-                    "title": "",
-                    "content": ""
+                    "title": "Divieto di sorpasso per i veicoli di massa a pieno carico superiore a 3,5 tonnellate non adibiti a trasporto di persone",
+                    "content": "E' un segnale di divieto. <br>Il segnale vieta il sorpasso ai soli veicoli per trasporto merci e che hanno massa a pieno carico superiore a 3.5 t. <br><br>Il divieto non riguarda i veicoli di trasporto di persone come:<ul>    <li>autovetture</li>    <li>autocaravan</li>    <li>autobus</li>    <li>uperiori a 3.5 t di massa complessiva a pieno carico</li></ul><br>I veicoli soggetti al divieto possono sorpassare solo i veicoli senza motore se la manovra può compiersi entro la semicarreggiata."
                 },
                 {
                     "val": 6,
-                    "title": "",
-                    "content": ""
+                    "title": "Fine del divieto di sorpasso per i veicoli di massa a pieno carico superiore a 3,5 tonnellate",
+                    "content": "E' un segnale di fine prescrizione (fine divieto) e indica la fine del divieto di sorpasso precedentemente imposto riguardante i veicoli di massa a pieno carico superiore a 3,5 tonnellate non destinati al trasporto di persone."
                 },
                 {
                     "val": 7,
-                    "title": "",
-                    "content": ""
+                    "title": "Distanziamento minimo obbligatorio",
+                    "content": "E' un segnale di divieto e impone di mantenere una distanza di almeno 70 metri dal veicolo che precede (che sta avanti, non quello che segue). <br><br>Vale anche per i motocicli e quando si viaggia a basa velocità."
                 },
                 {
                     "val": 8,
-                    "title": "",
-                    "content": ""
+                    "title": "Limite massimo di velocità",
+                    "content": "E' un segnale di prescrizione (divieto) e indica la velocità massima consentita per tutti i veicoli (in questo caso 80 Km/h) <br><br>Ha validità immediatamente dopo il segnale. <br>E' valido 24 ore su 24. <br>Può trovarsi anche sulle autostrade. <br>Come detto vale per tutti i veicoli anche motocicli. <br><br>Non è vero che permette di effettuare il sorpasso a velocità superiore a quella indicata."
                 },
                 {
                     "val": 9,
-                    "title": "",
-                    "content": ""
+                    "title": "Fine limite massimo di velocità",
+                    "content": "E' un segnale di fine prescrizione (fine divieto) e indica la fine del limite massimo di velocità. <br><br>Da questo punto in poi è possibile procedere ad una velocità anche superiore a quella indicata, senza però superare il limite generale vigente per il tipo di strada."
                 },
                 {
                     "val": 10,
-                    "title": "",
-                    "content": ""
+                    "title": "Divieto di segnalazioni acustiche",
+                    "content": "E' un segnale di divieto. <br><br>Vieta l'utilizzo di qualsiasi segnalatore acustico (clacson, trombe), se non nei casi di pericolo immediato o durante il trasporto di feriti o ammalati gravi."
                 },
                 {
                     "val": 11,
-                    "title": "",
-                    "content": ""
+                    "title": "Divieto di transito ai pedoni",
+                    "content": "E' un segnale di divieto. <br><br>Vieta il transito ai pedoni su quella strada. <br>Consente il transito a tutti i veicoli. <br>Vale 24 ore su 24."
                 },
                 {
                     "val": 12,
-                    "title": "",
-                    "content": ""
+                    "title": "Divieto di transito ai veicoli a braccia",
+                    "content": "E' un segnale di divieto. <br><br>Vieta il transito su quella strada a tutti i veicoli a braccia (esempio carretti a mano). <br>Consente il transito ai pedoni e a tutti gli altri veicoli a trazione animale o a motore."
                 },
                 {
                     "val": 13,
-                    "title": "",
-                    "content": ""
+                    "title": "Divieto di transito per i veicoli a trazione animale",
+                    "content": "E' un segnale di divieto. <br>Vieta il transito su quella strada a tutti i veicoli a trazione animale (esempio carrozze o altri veicoli trainati da cavalli, asini). <br><br>Consente il transito di tutti gli altri veicoli (compresi i veicoli a braccia e i veicoli a motore). <br>Vale 24 ore su 24. <br><br>Non è vero che consente il transito ai veicoli a trazione animale se muniti di pneumatici."
                 },
                 {
                     "val": 14,
-                    "title": "",
-                    "content": ""
+                    "title": "Divieto di transito alle biciclette",
+                    "content": "E' un segnale di divieto.<br> Vieta ai velocipedi (biciclette, tandem, quadri ciclo a pedale) di percorrere quella strada. <br><br>Consente il transito ai pedoni e a tutti gli altri veicoli (compresi i quadricicli a motore, i ciclomotori, i motocicli). <br>Vale 24 ore su 24."
                 },
                 {
                     "val": 15,
-                    "title": "",
-                    "content": ""
+                    "title": "Divieto di transito ai motocicli",
+                    "content": "E' un segnale di divieto.<br> Vieta il transito su quella strada a tutti i motocicli (anche se non superano i 125 cm3 o se sono dotati di cellula di sicurezza). <br><br>Consente il transito a tutti gli altri veicoli (compresi biciclette, ciclomotori, tricicli, quadricicli e autovetture). <br>Attenzione a non confondere motocicli con ciclomotori."
                 },
                 {
                     "val": 16,
-                    "title": "",
-                    "content": ""
+                    "title": "Divieto di transito a tutti gli autoveicoli",
+                    "content": "E' un segnale di divieto. <br>Vieta il transito su quella strada a tutti gli autoveicoli e motoveicoli che hanno 3 o più ruote.<br><br> Divieto di transito per:<ul><li> tricicli</li><li>quadricicli</li><li>autoveicoli</li><li>autocarri</li><li>autobus</li></ul><br> Non vale per veicoli senza motore (biciclette, carretti, ecc.), motocicli e ciclomotori.<br> Non è vero che è consentito il transito alle autovetture adibite al servizio di taxi."
                 },
                 {
                     "val": 17,
-                    "title": "",
-                    "content": ""
+                    "title": "Divieto di transito agli autobus",
+                    "content": "E' un segnale di divieto.<br> Vieta il transito su quella strada a tutti gli autobus, anche se turistici o scolastici. <br>Consente il transito ai pedoni e a tutti gli altri veicoli.<br><br> Non è vero che è valido solo nei giorni feriali."
                 },
                 {
                     "val": 18,
-                    "title": "",
-                    "content": ""
+                    "title": "Divieto di transito ai veicolo di massa a pieno carico superiore a 3,5 tonnellate",
+                    "content": "E' un segnale di divieto. <br>Vieta il transito su quella strada a tutti gli autoveicoli che trasportano merci/cose (autocarri, autotreni, autoarticolati) con massa a pieno carico superiore a 3,5 t. <br><br>Consente quindi il transito di veicoli destinati al trasporto di persone anche se superano 3,5 T (ad esempio autobus, caravan ecc...). <br><br>Può essere munito di pannello integrativo con un diverso valore della massa ammessa al transito."
                 },
                 {
                     "val": 19,
-                    "title": "",
-                    "content": ""
+                    "title": "Divieto di transito ai veicolo di massa a pieno carico sup. a 6,5 tonnellate",
+                    "content": "E' un segnale di divieto.<br> Vieta il transito su quella strada a tutti gli autoveicoli che trasportano merci/cose (autocarri, autotreni, autoarticolati) o ai veicoli ad uso speciale (betoniere, ecc.) con massa a pieno carico superiore a quella indicata nel segnale (in questo caso: 6,5 T).<br><br> Consente quindi il transito di veicoli destinati al trasporto di persone anche se superano 6,5 T (ad esempio autobus, caravan ecc...)."
                 },
                 {
                     "val": 20,
-                    "title": "",
-                    "content": ""
+                    "title": "Divieto di transito a tutti i veicoli a motore trainanti un rimorchio",
+                    "content": "E' un segnale di divieto. <br>Vieta il transito su quella strada a tutti i veicoli che trainano un rimorchio (destinato sia a trasporto merci, sia a trasporto di persone). <br><br>Può essere integrato con pannello che consente il traino di rimorchi di massa non superiore a quella indicata nel pannello stesso.<br><br>Vieta quindi il transito a:<ul>    <li>caravan</li>    <li>rimorchi per imbarcazione</li>    <li>autotreni</li>    <li>autoarticolati</li></ul><br>Consente il transito ai veicoli con carrello-appendice (si considera parte integrante del veicolo) e all'autosnodato."
                 },
                 {
                     "val": 21,
-                    "title": "",
-                    "content": ""
+                    "title": "Divieto di transito alle macchine agricole",
+                    "content": "E' un segnale di divieto.<br> Vieta il transito alle macchine agricole gommate e cingolate, alle trattrici agricole ed ai rimorchi agricoli.<br><br> Consente il transito a tutti gli altri tipi di veicoli comprese macchine operatrici (sgombraneve, per lavori stradali, ecc.) e trattori stradali per semirimorchi (parte anteriore dell'autoarticolato). <br>Vale 24 ore su 24.<br><br> Non è vero che si trova soltanto sulla rete stradale delle aziende agricole o che è consentito il transito alle macchine agricole durante le fiere."
                 },
                 {
                     "val": 22,
-                    "title": "",
-                    "content": ""
+                    "title": "Divieto di transito ai veicoli che trasportano merci pericolose",
+                    "content": "E' un segnale di divieto. <br>Vieta il transito ai veicoli che trasportano merci pericolose (benzina, materie tossiche o radioattive, acidi corrosivi, etc..). <br><br>Il segnale non si riferisce al carburante (benzina, gasolio, gas metano, GPL) contenuto nel serbatoio del veicolo."
                 },
                 {
                     "val": 23,
-                    "title": "",
-                    "content": ""
+                    "title": "Divieto di transito ai veicoli che trasportano merci esplosive",
+                    "content": "E' un segnale di divieto.<br> Vieta il transito ai veicoli che trasportano prodotti esplosivi e/o facilmente infiammabili.<br><br> Vale anche per i rimorchi. <br>Il segnale non si riferisce al carburante (benzina, gasolio, gas metano, GPL) contenuto nel serbatoio del veicolo.<br><br> Non è vero che prescrive di fare attenzione al transito di veicoli che trasportano esplosivo."
                 },
                 {
                     "val": 24,
-                    "title": "",
-                    "content": ""
+                    "title": "Divieto di transito ai veicoli che trasportano merci contaminanti",
+                    "content": "E' un segnale di divieto.<br> Vieta il transito ai veicoli che trasportano sostanze che possono contaminare l'acqua.<br><br> Vale anche per i rimorchi. <br>Quindi non si riferisce a cisterne vuote o veicoli che trasportano acqua (esempio innaffiatrici stradali)."
                 },
                 {
                     "val": 25,
-                    "title": "",
-                    "content": ""
+                    "title": "Divieto di transito ai veicoli aventi larghezza superiore a 2,30 m",
+                    "content": "E' un segnale di divieto.<br> Indica la larghezza massima dei veicoli che possono percorrere la strada. <br><br>In questo caso vieta il transito a tutti i veicoli (con motore e senza motore) di larghezza superiore a 2,30 m.<br> <br>E' posto sulle strade sia urbane che extraurbane; può trovarsi ad esempio prima di una strettoia. <br>Vale 24 ore su 24. <br><br>Non è vero che indica la larghezza della strada o della strettoia."
                 },
                 {
                     "val": 26,
-                    "title": "",
-                    "content": ""
+                    "title": "Divieto di transito ai veicoli aventi altezza superiore a 3,50 m",
+                    "content": "E' un segnale di divieto. <br>Indica l'altezza massima dei veicoli che possono percorrere la strada.<br><br> In questo caso vieta il transito a veicoli la cui altezza misurata dal piano stradale supera i 3,50 metri. <br>Può trovarsi sia nei centri abitati che fuori. <br>Può trovarsi ad esempio dove la strada passa sotto un ponte (non sopra una ferrovia). <br>Vale 24 ore su 24. <br><br>Non è vero che indica l'altezza del passaggio."
                 },
                 {
                     "val": 27,
