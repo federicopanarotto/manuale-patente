@@ -1,0 +1,2391 @@
+{
+    "capitoli": [
+        {
+            "capitolo": 1,
+            "title": "Strada, veicoli, doveri conducente",
+            "argomenti": [
+                {
+                    "val": 0,
+                    "title": "La strada",
+                    "content": "La strada è un'area aperta alla circolazione dei pedoni, degli animali e dei veicoli.<br> Può essere a senso unico o a doppio senso di circolazione.<br>Può essere suddivisa in più carreggiate in presenza di uno spartitraffico.<br><br>Comprende:<ul><li>le carreggiate, riservate a veicoli ed animali</li><li>le banchine ed i marciapiedi, riservati ai pedoni </li><li>le piste ciclabili, riservate alle biciclette</li></ul>"
+                },
+                {
+                    "val": 1,
+                    "title": "La carreggiata",
+                    "content": "La carreggiata è la parte della strada destinata al transito dei veicoli.<br>Può essere a senso unico o a doppio senso di circolazione.<br>Può essere suddivisa in più corsie.<br><br>Fanno parte della carreggiata:<ul><li>tutte le corsie, tranne la corsia di emergenza</li><li>gli attraversamenti pedonali</li><li>gli attraversamenti ciclabili</li><br></ul>Non fanno parte della carreggiata, ma possono affiancarla:<ul><li>marciapiedi, banchine o viali pedonali</li><li>piste ciclabili</li><li>piazzole di sosta</li></ul>"
+                },
+                {
+                    "val": 2,
+                    "title": "La corsia",
+                    "content": "La corsia è una parte della carreggiata che consente la circolazione di una sola fila di veicoli. E' limitata da strisce continue o discontinue e ha larghezza minima di 2,80 metri e massima di 4 metri.<br><br>Una corsia è sempre a senso unico e può essere:<ul><li>di marcia: per la marcia dei veicoli</li><li>di accelerazione: per consentire l'ingresso dei veicoli nella carreggiata, ad esempio quando si proviene da un'altra strada o da un'area di servizio (in autostrada o su strade extraurbane principali)</li><li>di decelerazione: per consentire il rallentamento dei veicoli in uscita dalla carreggiata, da una strada a precedenza o entrando in un'area di servizio in autostrada</li><li>di emergenza: per la sosta di emergenza in caso di guasto o malessere</li><li>riservata: destinata esclusivamente alla circolazione di una particolare categoria di veicoli (esempio taxi o autobus)</li><li>specializzata: destinata a determinate manovre (esempio sorpasso, sosta, svolta)</li></ul><br>Nella corsia di accelerazione e decelerazione sono vietati la sosta ed il sorpasso. <br>Le corsie possono essere vietate a alcuni tipi di veicoli. <br>L'ente proprietario della strada può imporre che su una corsia i veicoli transitino ad una velocità minima obbligatoria. <br> <br>Non è vero che possono circolare affiancati due motocicli o due ciclomotori e che i pedoni non possono mai attraversarla."
+                },
+                {
+                    "val": 3,
+                    "title": "Banchine e marciapiedi",
+                    "content": "<h3>Banchina</h3>La banchina è una parte della strada, posta al di fuori della carreggiata, situata oltre la linea bianca continua di margine della carreggiata.<br>E' destinata alla circolazione dei pedoni e non consente di norma il transito (e quindi neanche la sosta) ai veicoli.<br><br><h3>Marciapiede</h3>Il marciapiede è una parte della strada, al di fuori della carreggiata, rialzata o delimitata in altro modo e riservata ai pedoni. <br>Consente la sosta dei veicoli solo in presenza di apposite strisce di parcheggio.<br><br>Non è vero che è riservato ai pedoni e ai veicoli in sosta, qualora non sia rialzato, o che è consentita la sosta dei ciclomotori."
+                },
+                {
+                    "val": 4,
+                    "title": "Attraversamenti pedonali",
+                    "content": "E' una parte della carreggiata (e quindi della strada) segnalata con strisce bianche parallele (strisce pedonali), in cui i veicoli devono dare la precedenza ai pedoni che attraversano.<br><br>Su di essa è vietata la fermata (e quindi anche la sosta) dei veicoli."
+                },
+                {
+                    "val": 5,
+                    "title": "Isola di traffico e salvagente",
+                    "content": "<h3>Isola di traffico</h3>E' una parte della carreggiata (e quindi della strada), evidenziata mediante zebrature oblique di colore bianco e delimitata da strisce bianche continue di raccordo. <br>Serve a facilitare l'incanalamento dei veicoli verso varie direzioni. <br><br>Può essere:<ul><li>a raso: dipinta sul piano stradale</li><li>in rilievo (rialzata): preceduta da zebrature oblicque di colore bianco</li></ul>Su di essa è vietato marciare e sostare.<br><br><h3>Salvagente</h3>Il salvagente è una parte della strada rialzata, destinata al riparo o alla sosta dei pedoni che attraversano la strada stessa, in corrispondenza di attraversamenti pedonali o di fermate dei veicoli per trasporti pubblici.<br>Facilita la salita e la discesa dei passeggeri da tram, filobus o autobus e può essere segnalato da colonnine luminose a luce gialla fissa."
+                },
+                {
+                    "val": 6,
+                    "title": "Intersezioni a raso e a livelli sfalsati",
+                    "content": "<h3>Intersezione a raso</h3>L'intersezione a raso è un'intersezione di due o più strade poste allo stesso livello e richiede di fare attenzione ai veicoli provenienti dalle strade che si incrociano.<br>Può essere regolata da semaforo. <br><br><h3>Intersezione a livelli sfalsati</h3>L'intersezione a livelli sfalsati è un'intersezione di due o più strade situate ad altezze diverse. <br>Il collegamento fra queste strade avviene attraverso infrastrutture quali rampe, sovrappassi o sottopassi.<br>Facilita la circolazione, perché esclude l'incrocio diretto fra i veicoli. <br>Non è vero che non valgono i limiti massimi generali di velocità."
+                },
+                {
+                    "val": 7,
+                    "title": "Zona a traffico limitato e area pedonale",
+                    "content": "ZTL ed area pedonale sono due cose ben diverse!<br><br><h3>Zona a traffico limitato</h3>La Zona a Traffico Limitato è un'area in cui l'accesso e la circolazione sono limitati ad ore o giorni prestabiliti o a particolari categorie di utenti e di veicoli.<br>La ZTL è delimitata da appositi segnali stradali di inizio e fine<br><br>Non è vero che è sempre vietata al transito dei veicoli a motore. <br><br><h3>Area pedonale</h3>L'area pedonale è una zona destinata al transito dei pedoni ed è delimitata da appositi segnali stradali di inizio e fine. <br><br>Oltre ai pedoni possono circolare:<ul>    <li>biciclette</li>    <li>veicoli al servizio di persone diversamente abili</li>    <li>veicoli in servizio di emergenza, polizia, vigili del fuoco, autoambulanze, con sirena e luce lampeggiante blu in funzione </li>    <li>altre categorie di veicoli, se espressamente consentito, ad esempio i veicoli ad emissione zero (elettrici)</li></ul>"
+                },
+                {
+                    "val": 8,
+                    "title": "Passo carrabile",
+                    "content": "Il passo carrabile è una zona della strada che consente l'accesso dei veicoli alle proprietà private laterali alla strada (garage, cortili, ecc.). <br>Deve essere corredato da apposito segnale, che riporti l'ente e il numero di autorizzazione. <br><br>In corrispondenza del passo carrabile è consentita la fermata ma non la sosta (neanche del proprietario)."
+                },
+                {
+                    "val": 9,
+                    "title": "Passaggi a livello",
+                    "content": "Il passaggio a livello è un attraversamento a raso tra una strada ed una linea ferroviaria. <br><br>In un passaggio a livello si possono trovare:<ul>    <li>barriere o semibarriere </li>    <li>pannelli che indicano la distanza</li>    <li>dispositivo di segnalazione acustica a campana</li>    <li>luci rosse</li>    <li>croce di S. Andrea</li></ul>"
+                },
+                {
+                    "val": 10,
+                    "title": "Autostrade e strade extraurbane principali",
+                    "content": "<h3>Strada extraurbana</h3>La strada extraurbana principale è una strada a carreggiate indipendenti o separate da spartitraffico, ciascuna almeno con due corsie di marcia.<br><br>Caratteristiche:<ul>    <li>è contraddistinta da appositi cartelli stradali di inizio e fine</li>    <li>si possono trovare intersezioni (incroci) a livelli sfalsati, ma non a raso</li>    <li>è provvista di corsie di accelerazione e decelerazione per ingresso e uscita dei veicoli e di apposite aree di sosta </li>    <li>possono circolare solo alcune categorie di veicoli a motore (non possono entrarvi biciclette, ciclomotori e quadricicli leggeri)</li>    <li>il limite massimo generale di velocità è di 110 km/h</li>    <li>la segnaletica è di colore blu</li></ul><br>Non è vero che non vi sono curve né dossi<br><br><h3>Autostrada</h3>L'autostrada è una strada a carreggiate indipendenti o separate da spartitraffico, ciascuna almeno con due corsie di marcia e corsia di emergenza.<br><br>Caratteristiche:<ul>    <li>è contraddistinta da appositi cartelli stradali di inizio e fine</li>    <li>si possono trovare intersezioni (incroci) a livelli sfalsati, ma non a raso </li>    <li>è provvista di corsie di accelerazione e decelerazione per ingresso e uscita dei veicoli </li>    <li>possono circolare solo alcune categorie di veicoli a motore</li>    <li>è priva di accessi privati </li>    <li>deve essere recintata lateralmente </li>    <li>il limite massimo generale di velocità è di 130 km/h</li>    <li>la segnaletica è di colore verde</li></ul> <br>Sono esclusi alla circolazione in autostrada:<ul>    <li>autovetture che non sono in grado di sviluppare una velocità di almeno 80 km/h </li>    <li>veicoli con carico non opportunamente sistemato e fissato o con carico di materiale sciolto e scoperto, che può disperdersi</li>    <li>veicoli non in regola con la prescritta revisione o in cattive condizioni d'uso, di equipaggiamento o di gommatura (ad esempio: pneumatici consumati, indicatori di direzione guasti)</li>    <li>ciclomotori</li>    <li>motocicli di cilindrata inferiore a 150 cm3</li>    <li>macchine agricole e macchine operatrici </li></ul> <br>In autostrada è vietato:<ul>    <li>invertire il senso di marcia</li>    <li>fermarsi, salvo casi di necessita (malessere o grave guasto del veicolo), sulla corsia di emergenza per un massimo di 3 ore</li>    <li>chiedere o concedere passaggi (anche nelle aree di servizio)</li>    <li>trainare altri veicoli (tranne i rimorchi) </li>    <li>usare i proiettori a luce abbaglianti nelle aree di servizio e nei tratti provvisti di illuminazione </li>    <li>gareggiare in velocità </li>    <li>svolgere attività di vendita o propaganda</li></ul>"
+                },
+                {
+                    "val": 11,
+                    "title": "Strada a 2 corsie per senso di marcia",
+                    "content": "E' una strada composta da 1 carreggiata e 4 corsie è a doppio senso di circolazione.<br>Di norma le corsie laterali servono per la marcia normale, mentre quelle centrali per il sorpasso. <br>Solo se il traffico è intenso si può viaggiare per file parallele. <br><br>Sono vietate la svolta a sinistra, l'inversione di marcia, mentre il sorpasso è consentito anche sui dossi o lungo una curva."
+                },
+                {
+                    "val": 12,
+                    "title": "Strada a 3 corsie per senso di marcia",
+                    "content": "E' una strada composta da 1 carreggiata e 6 corsie (tre corsie per ogni senso di marcia). <br>La circolazione è a doppio senso di circolazione e di norma per ogni senso di marcia, la corsia di destra è dedicata alla marcia ordinaria, mentre le corsie di centro e di sinistra sono dedicate al sorpasso.<br>Solo se il traffico è intenso si può viaggiare per file parallele. <br><br>Sono vietate la svolta a sinistra, l'inversione di marcia, mentre il sorpasso è consentito anche sui dossi o lungo una curva."
+                },
+                {
+                    "val": 13,
+                    "title": "Strada a 3 carreggiate separate",
+                    "content": "E' una strada composta da 3 carreggiate (1 a doppio senso e 2 a senso unico) e da 8 corsie.<br>Le carreggiate laterali sono, di norma, a senso unico e se il traffico è intenso si può viaggiare per file parallele<br>Sono vietate la svolta a sinistra, la retromarcia e l'inversione di marcia, mentre il sorpasso è consentito anche sui dossi o lungo una curva. <br><br>La carreggiata centrale è, di norma, a doppio senso con 4 corsie e quindi le corsie laterali servono per la marcia normale e quelle centrali per il sorpasso. <br>Se il traffico è intenso si può viaggiare per file parallele. <br>Sono vietate la svolta a sinistra, l'inversione di marcia, mentre il sorpasso è consentito anche sui dossi o lungo una curva."
+                },
+                {
+                    "val": 14,
+                    "title": "Classificazione dei veicoli",
+                    "content": "<h3>Veicolo</h3>Un veicolo è una qualunque macchina guidata dall'uomo che circola sulla strada (escluse quelle per bambini o per invalidi, come ad esempio passeggini o sedie a rotelle). <br><br>I veicoli sono classificati nelle seguenti categorie:<ul>    <li>veicoli a braccia: spinti o trainati da un uomo a piedi</li>    <li>veicoli a trazione animale: trainati da uno o più animali</li>    <li>velocipedi: biciclette, risciò, monopattini </li>    <li>ciclomotori</li>    <li>motoveicoli: motocicli, motocarrozzette, quadricicli</li>    <li>autoveicoli: autovetture, autobus, autocarri, trattori stradali, autotreni, autoarticolati, autosnodati, autocaravan </li>    <li>filoveicoli</li>    <li>rimorchi: tra cui anche caravan e semirimorchi </li>    <li>macchine agricole</li>    <li>macchine operatrici</li></ul>"
+                },
+                {
+                    "val": 15,
+                    "title": "Ciclomotori",
+                    "content": "I ciclomotori sono veicoli:<ul>    <li>a due o tre ruote</li>    <li>con motore termico fino a 50 cm3</li>    <li>con velocità massima su strada piana fino a 45 km/h</li>    <li>possono essere dotati di cambio automatico</li></ul><br>I ciclomotori sono soggetti a revisione dopo quattro anni dalla prima immatricolazione, successivamente ogni due anni.<br>Attenzione non rientrano nella categoria dei motocicli. <br>I quadricicli leggeri (le microcar), ai fini della circolazione sono assimilati ai ciclomotori.<br><br>I quadricicli leggeri hanno potenza fino a 6 kW e sono dotati di motore a benzina (con cilindrata non superiore a 50 cm3), diesel o elettrico, ad esempio le microcar.<br> Ai fini della circolazione, sono assimilati ai ciclomotori, e quindi si possono guidare già a 14 anni con la patente di categoria AM. "
+                },
+                {
+                    "val": 16,
+                    "title": "Motoveicoli",
+                    "content": "<h3>Motocicli</h3>Sono veicoli:<ul>    <li>a due ruote </li>    <li>con cilindrata superiore a 50 cm3</li>    <li>possono essere dotati di cambio automatico</li></ul><br>Sono soggetti a revisione dopo quattro anni dalla prima immatricolazione, successivamente ogni due anni. <br><br><h3>Tricicli a motore</h3>Sono veicoli:<ul>    <li>a tre ruote simmetriche</li>    <li>con motore di cilindrata superiore a 50 cm3</li>    <li>aventi una velocità massima superiore a 45 km/h</li></ul><br>Sono soggetti a revisione dopo quattro anni dalla prima immatricolazione, successivamente ogni due anni. <br><br>Non è vero che possono essere condotti senza patente.<br> Attenzione il complesso costituito da un motociclo e un sidecar (motocarrozzetta con ruote non simmetriche) non è rientra nella categoria dei tricicli.<br><br><h3>Quadricicli a motore</h3>Sono veicoli:<ul>    <li>a quattro ruote </li>    <li>di massa a vuoto sino a 400 Kg (550 Kg se destinati a trasporto di cose)</li>    <li>di potenza del motore massima fino a 15 kW</li></ul><br>Per guidare un quadriciclo, di norma, occorre aver compiuto 16 anni ed essere in possesso della patente di categoria B1 a meno che si tratti di un quadriciclo leggero.<br><br>Nei quadricicli con carrozzeria aperta (quad) occorre indossare il casco. <br>Tutti i quadricicli (leggeri o meno) sono soggetti a revisione periodica. <br>E' espressamente vietato modificare o sostituire il motore dei quadricicli per aumentarne la velocità o la cilindrata."
+                },
+                {
+                    "val": 17,
+                    "title": "Autoveicoli",
+                    "content": "Rientrano nella categoria degli autoveicoli tutti i veicoli a motore con non meno di 4 ruote, esclusi i quadricicli. <br><br>Sono autoveicoli: <ul>    <li>autovetture</li>    <li>autobus</li>    <li>autocarri</li>    <li>trattori stradali</li>    <li>autotreni</li>    <li>autoarticolati</li>    <li>autosnodati</li>    <li>autocaravan</li></ul><br>I carrelli appendice a non più di due ruote trasportati da autoveicoli (esclusi autotreni, autoarticolati e autosnodati) si considerano parti integranti di questi purché l'insieme (auto più carrello appendice) rientri nei limiti di massa e sagoma previsti.<br><br><h3>Autovettura</h3>E' un veicolo a motore con quattro ruote, destinato al trasporto di persone (massimo nove, compreso il conducente).<br>Non sono autovetture gli autobus (più di 9 persone), i portavalori (destinato a trasporto di valori), gli autocarri (destinati al trasporto di merci).<br><br>Le autovetture possono:<ul>    <li>avere motore elettrico o termico</li>    <li>avere trazione anteriore o posteriore</li>    <li>trainare carrelli-appendice o rimorchi</li></ul><br>Sono soggette a revisione periodica, quattro anni dopo la prima immatricolazione e, successivamente, ogni due anni.<br><br><h3>Autocaravan</h3>Sono veicoli aventi una speciale carrozzeria ed attrezzati permanentemente per essere adibiti al trasporto ed all'alloggio di persone (il numero massimo è indicato nella carta di circolazione).<br>Non si può viaggiare in piedi sugli Autocaravan ed è sempre necessario allacciare la cintura. <br><br>Sono soggette a revisione periodica quattro anni dopo la prima immatricolazione e, successivamente, ogni due anni.<br>Da non confondere con i caravan (roulotte), che sono rimorchi e non autoveicoli. <br>"
+                },
+                {
+                    "val": 18,
+                    "title": "Rimorchi e semirimorchi",
+                    "content": "I rimorchi o i semirimorchi sono veicoli privi di motore, destinati ad essere trainati. <br>I rimorchi leggeri sono quelli di massa massima a pieno carico fino a 750 kg.<br><br>I semirimorchi non sono rimorchi privi di impianto frenante. <br>Non è vero che sono muniti di silenziatore (in quanto non hanno motore).<br><br><h3>Caravan</h3>I caravan (o roulotte) sono rimorchi, muniti di targa, aventi speciale carrozzeria ed attrezzati per essere adibiti ad alloggio esclusivamente a veicolo fermo."
+                },
+                {
+                    "val": 19,
+                    "title": "Macchine agricole semoventi e non semoventi",
+                    "content": "Le macchine agricole sono macchine semoventi (si possono muovere sa sole) o trainate, dotate di ruote gommate o cingoli. <br>Quelle semoventi possono trasportare al massimo tre addetti, compreso il conducente, ma non in piedi (neanche e soprattutto sul rimorchio). <br>Le macchine agricole sono destinate ad essere impiegate nelle attività agricole e forestali. <br><br>Possono circolare su strada per il proprio trasferimento o per il trasporto di prodotti agricoli, ma solo se immatricolate. <br>Le macchine agricole anche se eccezionali (cioè quelle che superano i limiti di sagoma e di massa previsti per gli autoveicoli) si possono condurre con la patente B. <br>Quelle che non superano i limiti di massa e di sagoma dei motoveicoli si possono condurre con le patenti di categoria A1, A2, o A."
+                },
+                {
+                    "val": 20,
+                    "title": "Macchine operatrici",
+                    "content": "Le macchine operatrici sono veicoli destinati ad operare su strada o cantiere e sono a volte dotate di speciali attrezzature.<br><br>Possono essere:<ul>    <li>semoventi (si possono muovere da sole) o trainate</li>    <li>dotate di ruote gommate o di cingoli</li></ul><br>Alcuni esempi di macchine operatrici sono i veicoli:<ul>    <li>sgombraneve</li>    <li>spartineve</li>    <li>veicoli utilizzati per la costruzione di opere civili o stradali</li>    <li>carrelli per la movimentazione di cose</li></ul>"
+                },
+                {
+                    "val": 21,
+                    "title": "Divieti generali",
+                    "content": "E' vietato:<ul>    <li>rimuovere, spostare o imbrattare la segnaletica stradale (compresi segnali temporanei come coni o barriere)</li>    <li>ciò che può comportare grave pericolo per gli altri utenti della strada</li>    <li>gettare oggetti dal finestrino (in particolare i mozziconi di sigaretta sono molto pericolosi soprattutto se sopraggiungono veicoli a due ruote, o in prossimità di boschi o aree verdi dove potrebbero causare incendi)</li>    <li>sporcare la strada (banchina compresa) depositando rifiuti o immettendosi sulla strada con le ruote sporche (fango, terriccio) o con il veicolo che perde olio o carburante. Nei casi di perdita di olio o carburante, il conducente deve compiere tutte le azioni necessarie per evitare pericoli per altri utenti e avvisare immediatamente l'ente proprietario della strada o gli organi di polizia. In tutti i casi in cui si sporca notevolmente la strada, si può incorrere in una sanzione amministrativa.</li>    <li>gare di velocità (il conducente che partecipa a gare di velocità non autorizzate su aree pubbliche è punito con la reclusione. Vale la stessa cosa anche per chi scommette su tali gare)</li>    <li>danneggiare opere e impianti stradali (recinzioni, panchine, tombini, ecc.)</li></ul>"
+                },
+                {
+                    "val": 22,
+                    "title": "Convivenza civile ed uso responsabile della strada",
+                    "content": "Esaminiamo qui alcune norme generali di convivenza civile ed uso responsabile della strada.<br><br>Procedendo in fila con altri veicoli:<ul>    <li>bisogna mantenere ugualmente la distanza di sicurezza e quindi non avvicinarsi troppo al veicolo che precede </li>    <li>non bisogna limitarsi a osservare solamente il veicolo che precede, ma occorre porre attenzione anche in lontananza, per controllare la situazione del traffico </li>    <li>per agevolare il traffico, è opportuno lasciare liberi gli sbocchi delle strade laterali</li>    <li>non cambiare ripetutamente corsia o accelerare bruscamente per sorpassare gli altri veicoli</li></ul>Non è vero che è opportuno tenere sempre accese le luci di emergenza o spostarsi il più possibile a sinistra, per creare una corsia libera a destra. <br><br>In caso di traffico intenso o formazione di code è necessario sempre lasciare liberi:<br><ul>    <li>le immissioni stradali (incroci, confluenze, ingressi dei parcheggi, ecc)</li>    <li>i passaggi a livello e i binari del tram </li>    <li>gli attraversamenti pedonali e quelli ciclabili</li></ul><br>Entrando in un centro abitato bisogna:<ul>    <li>tenere conto che può cambiare spesso la precedenza agli incroci</li>    <li>tener conto che il flusso della circolazione viene spesso intralciato o interrotto da veicoli che sono fermi, che partono, che cambiano direzione</li>    <li>tener conto che gli altri utenti della strada (quali pedoni e ciclisti) si mescolano maggiormente con il traffico motorizzato </li>    <li>essere più attenti, prudenti e tolleranti, a causa del maggior numero di utenti che interagiscono nell'ambiente urbano </li>    <li>continuare a mantenere la concentrazione alla guida anche se potrebbero aumentare i motivi per distrarsi</li></ul>"
+                },
+                {
+                    "val": 23,
+                    "title": "Comportamenti a salvaguardia degli anziani, ciechi e sordociechi",
+                    "content": "Comportamento che il conducente di un veicolo deve tenere verso gli altri utenti della strada:<ul>    <li>oltre a rispettare le norme specifiche della circolazione, deve tenere un rapporto corretto, paziente e tollerante verso gli altri utenti della strada, anche in caso di rallentamento della circolazione</li>    <li>deve sempre usare la massima prudenza, anche quando gli altri conducenti devono dargli la precedenza</li>    <li>deve cercare di prevedere il comportamento degli altri utenti, che può non essere corretto</li>    <li>deve tutelare la propria e l'altrui sicurezza</li>    <li>deve rispettare gli agenti del traffico (anche se non in divisa) e collaborare con essi</li>    <li>deve procedere a bassa velocità sopra le pozzanghere o su strada ricoperta da brecciolino, per evitare di sbandare o sporcare/colpire gli altri utenti della strada</li></ul>"
+                },
+                {
+                    "val": 24,
+                    "title": "Comportamento a salvaguardia dei pedoni",
+                    "content": "Si deve usare maggiore prudenza nei confronti degli utenti deboli della strada:<ul>    <li>persone diversamente abili</li>    <li>anziani</li>    <li>bambini</li>    <li>conducenti che dimostrano guida incerta</li>    <li>conducenti di veicoli adattati per persone diversamente abili</li>    <li>delle persone in bicicletta</li>    <li>pedoni o di coloro con scarsa capacità di movimento</li></ul><br><h3>Pedone sordocieco</h3>Ci si deve fermarsi e dare la precedenza al pedone non vedente con il bastone bianco (cieco) o bianco-rosso (sordo-cieco) accompagnato o meno da cane guida, che si accinge ad attraversare la strada, anche fuori dalle strisce pedonali, senza spaventarlo con una brusca frenata o con l'uso del clacson. <br><br><h3>Donne incinte</h3>In presenza di donne in gravidanza o che spingono una carrozzina per bambini, deve evitare di avvicinarsi troppo con il veicolo per evitare di spaventarle. <br>Quando si parcheggia un veicolo è vietato ostruire eventuali scivoli del marciapiede per non impedire il passaggio di pedoni che spingono una carrozzina per bambini. <br><br><h3>Pedone anziano</h3>Si deve tenere presente che persone anziane sono esposte a maggiori pericoli, perché data la loro età, le loro capacità visive e uditive non sono più eccellenti. <br>Potrebbero non fare adeguata attenzione ai veicoli, valutare male la velocità dei veicoli che sopraggiungono, fermarsi al centro della carreggiata e non reagire prontamente alle situazioni di pericolo.<br>Non bisogna avvicinarsi troppo con il veicolo, per evitare che si sentano minacciati e reagiscano con movimenti pericolosi.<br><br><h3>Bambini</h3>In presenza di bambini deve tenere conto dei loro comportamenti imprevedibili, ed essere pronto a fermarsi. <br>Potrebbero attraversare improvvisamente la strada ad un semaforo senza seguire le norme legate alle segnalazioni luminose.<br>Potrebbero spingersi a vicenda, finendo sulla carreggiata.<br>Nelle vicinanza di una fermata di autobus potrebbero attraversare di corsa la strada per salire sullo scuolabus o scendere da esso senza fare attenzione ai veicoli che sopraggiungono.<br>Potrebbero non essere visibili mentre impegnano la carreggiata a causa di veicoli in sosta.<br><br><h3>Ciclisti, pedoni e motociclisti</h3>Quando la carreggiata è occupata da ciclisti o pedoni, per sorpassarli deve mantenere un'adeguata distanza di sicurezza laterale. <br>Se si è su strada extraurbana è consigliabile suonare il clacson prima di sorpassarli (non è vero che si devono sorpassare senza superare la velocità di 30 km/h). <br>Durante la marcia si deve controllare frequentemente nello specchietto retrovisore se sopraggiunge un ciclista o un motociclista. <br><br>Si deve tener presente che: <ul>    <li>i montanti interni degli autoveicoli condizionano la visibilità riducendo la possibilità di vedere un ciclista, un motociclista o un pedone</li>    <li>un incidente, anche a bassa velocità, potrebbe creare gravi problemi fisici a pedoni, ciclisti e motociclisti</li>    <li>prima di aprire lo sportello, bisogna controllare che non sopraggiungano pedoni, ciclisti o motociclisti</li></ul><br><h3>Semaforo pedonale</h3>Prima di impegnare un incrocio, dopo che è scattata la luce verde del semaforo, il conducente deve attendere che i pedoni abbiano finito di attraversare la strada. <br> In vicinanza di un attraversamento pedonale, si deve essere molto prudenti (specie se ci sono anziani o bambini). <br><br><h3>Norme generali</h3>Considerare:<ul>    <li>che il pedone, nell'attraversare la strada, può diventare insicuro e ritornare improvvisamente indietro, o fermarsi improvvisamente sulle strisce dell'attraversamento pedonale</li>    <li>che le persone anziane solitamente attraversano lentamente e con difficoltà </li>    <li>che i bambini hanno spesso comportamenti imprevedibili</li>    <li>che i pedoni, in special modo i bambini, possono sbucare all'improvviso tra i veicoli parcheggiati</li></ul><br>In vicinanza di un posteggio riservato ai taxi deve fare attenzione ai pedoni che salgono o scendono dal taxi, quindi rallentare ed eventualmente fermarsi se vi sono pedoni che attraversano la strada, senza le dovute precauzioni. Non può sostare nei posteggi riservati ai taxi."
+                },
+                {
+                    "val": 25,
+                    "title": "Comportamenti a salvaguardia dei pedoni e dei ciclisti",
+                    "content": "Comportamenti che il conducente deve evitare alla guida di un motociclo:<ul>    <li>non può fare lo slalom tra i veicoli fermi al semaforo</li>    <li>non può circolare sul marciapiede (anche se il traffico sulla carreggiata è bloccato)</li>    <li>non può parcheggiare il veicolo sul marciapiede, se non vi sono apposite strisce di parcheggio</li></ul><br>Il conducente di veicolo a due ruote può circolare portando con sé un animale domestico, se custodito in apposita gabbia, purché non sia sporgente di oltre 50 centimetri."
+                }
+            ]
+        },        
+        {
+            "capitolo": 2,
+            "title": "Segnali di pericolo",
+            "argomenti": [
+                {
+                    "val": 0,
+                    "title": "Strada deformata",
+                    "content": "E' un segnale di pericolo che preannuncia una strada deformata, in cattivo stato, dissestata o con pavimentazione irregolare (di norma a 150 metri). <br><br>Può essere integrato con :<ul>    <li>il pannello di 'ESTESA' (che indica l'estensione del tratto)</li>    <li>il pannello di 'DISTANZA' (che indica tra quanti metri si trova il pericolo)</li>    <li>un segnale di 'LIMITE MASSIMO DI VELOCITA'</li></ul><br>Se a fondo giallo, è usato in presenza di cantieri stradali.<br><br>In presenza del segnale è necessario:<ul>    <li>adeguare la velocità in relazione alle particolari condizioni del fondo stradale (specie se si traina un rimorchio) anche per evitare eccessive sollecitazioni e danni alle sospensioni </li>    <li>prevedere eventuali sbandamenti dei veicoli provenienti dal senso opposto</li>    <li>tenere saldamente il volante, per controllare possibili sbandamenti </li></ul><br>Da non confondere con il segnale 'DOSSO' o CUNETTA'. <br>Non è vero che preannuncia una serie di dossi, una cunetta o un tratto con visibilità ridotta. <br>Non è vero che è obbligatorio circolare al centro della carreggiata o fare attenzione al restringimento della carreggiata."
+                },
+                {
+                    "val": 1,
+                    "title": "Dosso",
+                    "content": "E' un segnale di pericolo che preannuncia (di norma a 150 metri) un dosso (una salita, seguita da una discesa), ossia un tratto di strada con variazione di pendenza pericoloso per la limitata visibilità. <br>Può presegnalare anche dossi artificiali. <br><br> In presenza del segnale:<ul>    <li>è necessario moderare la velocità in relazione alla visibilità </li>    <li> è vietata l'inversione di marcia, la sosta e la fermata sia sul tratto in salita che su quello in discesa</li>    <li>è vietato il sorpasso sul tratto in salita, se la strada è a doppio senso di circolazione con due sole corsie</li></ul><br>Da non confondere con segnale 'STRADA DEFORMATA' o 'CUNETTA'."
+                },
+                {
+                    "val": 2,
+                    "title": "Cunetta",
+                    "content": "E' un segnale di pericolo che preannuncia (di norma a 150 metri) una cunetta (una discesa, seguita da una salita), ossia un tratto di strada che potrebbe allagarsi in caso di forti piogge. <br><br>In presenza del segnale:<ul>    <li>è necessario moderare la velocità per mantenere il controllo del veicolo ed evitare danni alle sospensioni</li>    <li>tenere il volante con una presa più sicura </li>    <li>in caso di pioggia è necessario prevedere la possibilità di accumulo di acqua, fango e detriti nella cunetta</li></ul> <br>Da non confondere con segnale 'STRADA DEFORMATA' o 'DOSSO'. <br>Non è vero che è vietato il sorpasso."
+                },
+                {
+                    "val": 3,
+                    "title": "Curva pericolosa a destra",
+                    "content": "E' un segnale di pericolo che preannuncia (di norma a 150 metri) una curva pericolosa a destra, ossia un tratto di strada non rettilineo pericoloso per ridotta visibilità. <br>Può essere integrato con pannello con la scritta TORNANTE. <br><br>In presenza del segnale:<ul>    <li>è opportuno fare particolare attenzione ai veicoli provenienti dal senso opposto</li>    <li>se posto su strada a doppio senso di circolazione e con due sole corsie, si deve circolare il più possibile vicino al margine destro </li>    <li>è necessario regolare la velocità in relazione alla visibilità, al raggio della curva per potersi arrestare in caso di un ostacolo improvviso</li>    <li>è necessario regolare la velocità in relazione alle condizioni di carico del veicolo </li>    <li>è necessario percorrere la curva con più attenzione se la strada è bagnata</li>    <li>non è consentito effettuare fermata, sosta, manovre di retromarcia, inversione di marcia </li>    <li>non è consentito il sorpasso se la carreggiata è a doppio senso di circolazione e con due sole corsie (neanche se non si supera la striscia bianca ad esempio per sorpassare un motociclo) </li>    <li>si deve viaggiare ad andatura particolarmente moderata se si circola con il ruotino (ruota di soccorso) </li></ul>"
+                },
+                {
+                    "val": 4,
+                    "title": "Curva pericolosa a sinistra",
+                    "content": "E' un segnale di pericolo che preannuncia (di norma a 150 metri) una curva pericolosa a sinistra, ossia un tratto di strada non rettilineo pericoloso per ridotta visibilità. <br>Può essere integrato con pannello con la scritta TORNANTE. <br><br>In presenza del segnale:<ul>    <li>è opportuno fare particolare attenzione ai veicoli provenienti dal senso opposto</li>    <li>se posto su strada a doppio senso di circolazione e con due sole corsie, si deve circolare il più possibile vicino al margine destro </li>    <li>è necessario regolare la velocità in relazione alla visibilità, al raggio della curva per potersi arrestare in caso di un ostacolo improvviso</li>    <li>è necessario regolare la velocità in relazione alle condizioni di carico del veicolo </li>    <li>è necessario percorrere la curva con più attenzione se la strada è bagnata</li>    <li>non è consentito effettuare fermata, sosta, manovre di retromarcia, inversione di marcia </li>    <li>non è consentito il sorpasso se la carreggiata è a doppio senso di circolazione e con due sole corsie (neanche se non si supera la striscia bianca ad esempio per sorpassare un motociclo) </li>    <li>si deve viaggiare ad andatura particolarmente moderata se si circola con il ruotino (ruota di soccorso) </li></ul>"
+                },
+                {
+                    "val": 5,
+                    "title": "Doppia curva pericolosa la prima a destra",
+                    "content": "E' un segnale di pericolo che preannuncia (di norma a 150 metri) una doppia curva pericolosa, di cui la prima a destra, ossia un tratto di strada non rettilineo pericoloso per ridotta visibilità. <br><br>Può essere integrato:<ul>    <li>con pannello con la scritta TORNANTI per indicare la presenza di tornanti</li>    <li>con il pannello ESTESA che indica l'estensione del tratto pericoloso </li>    <li>con il pannello DISTANZA che indica la distanza dalla zona pericolosa</li></ul><br>In presenza del segnale:<ul>    <li>è opportuno fare particolare attenzione ai veicoli provenienti dal senso opposto </li>    <li>se posto su strada a doppio senso di circolazione e con due sole corsie, si deve circolare il più possibile vicino al margine destro</li>    <li>è necessario regolare la velocità in relazione alla visibilità, al raggio della curva per potersi arrestare in caso di un ostacolo improvviso</li>    <li>è necessario regolare la velocità in relazione alle condizioni di carico del veicolo</li>    <li>è necessario percorrere la curva con più attenzione se la strada è bagnata</li>    <li>non è consentito effettuare fermata, sosta, manovre di retromarcia, inversione di marcia</li>    <li>non è consentito il sorpasso se la carreggiata è a doppio senso di circolazione e con due sole corsie (neanche se non si supera la striscia bianca ad esempio per sorpassare un motociclo) </li>    <li>si deve viaggiare ad andatura particolarmente moderata se si circola con il ruotino (ruota di soccorso)</li></ul>"
+                },
+                {
+                    "val": 6,
+                    "title": "Doppia curva pericolosa la prima a sinistra",
+                    "content": "E' un segnale di pericolo che preannuncia (di norma a 150 metri) una doppia curva pericolosa, di cui la prima a sinistra, ossia un tratto di strada non rettilineo pericoloso per ridotta visibilità. <br><br>Può essere integrato:<ul>    <li>con pannello con la scritta TORNANTI per indicare la presenza di tornanti</li>    <li>con il pannello ESTESA che indica l'estensione del tratto pericoloso </li>    <li>con il pannello DISTANZA che indica la distanza dalla zona pericolosa</li></ul><br>In presenza del segnale:<ul>    <li>è opportuno fare particolare attenzione ai veicoli provenienti dal senso opposto </li>    <li>se posto su strada a doppio senso di circolazione e con due sole corsie, si deve circolare il più possibile vicino al margine destro</li>    <li>è necessario regolare la velocità in relazione alla visibilità, al raggio della curva per potersi arrestare in caso di un ostacolo improvviso</li>    <li>è necessario regolare la velocità in relazione alle condizioni di carico del veicolo</li>    <li>è necessario percorrere la curva con più attenzione se la strada è bagnata</li>    <li>non è consentito effettuare fermata, sosta, manovre di retromarcia, inversione di marcia</li>    <li>non è consentito il sorpasso se la carreggiata è a doppio senso di circolazione e con due sole corsie (neanche se non si supera la striscia bianca ad esempio per sorpassare un motociclo) </li>    <li>si deve viaggiare ad andatura particolarmente moderata se si circola con il ruotino (ruota di soccorso)</li></ul>"
+                },
+                {
+                    "val": 7,
+                    "title": "Passaggio a livello con barriere o semibarriere",
+                    "content": "E' un segnale di pericolo che preannuncia (di norma a 150 metri) un passaggio a livello (attraversamento ferroviario) con barriere o semibarriere (indipendentemente dal numero di binari). <br>Dopo il segnale raffigurato, se ci sono le semibarriere, è installato un dispositivo a luci rosse lampeggianti, se ci sono le barriere, altrimenti è installato un dispositivo a luce rossa fissa. <br><br>In presenza del segnale è necessario moderare la velocità (in relazione alla visibilità della linea ferroviaria) e fermarsi se ci sono una luce rossa fissa accesa (due luci rosse lampeggianti in quello con semibarriere), il dispositivo acustico a campana in funzione o cavalletti a strisce bianche e rosse che sbarrano i binari. <br><br>Non è consentito impegnare il passaggio a livello se il traffico intenso impedisce di sgomberarlo. <br>Se il veicolo si ferma per avaria sui binari, il conducente deve adottare ogni iniziativa utile al fine di evitare incidenti.<br><br>Sono vietati: <ul>    <li>l'inversione di marcia </li>    <li>la retromarcia </li>    <li>la sosta</li></ul><br>Il sorpasso si può effettuare se il passaggio è regolato da un semaforo o da agenti e si rimane nel proprio senso di marcia (ossia senza invadere la semicarreggiata opposta). <br>Non è vero che obbliga ad arrestarsi se le luci rosse poste in prossimità delle barriere o delle semibarriere sono spente o che si trova dopo il segnale DOPPIA CROCE DI S. ANDREA (che si trova solamente nei passaggi a livello senza barriere)."
+                },
+                {
+                    "val": 8,
+                    "title": "Passaggio a livello senza barriere",
+                    "content": "E' un segnale di pericolo che preannuncia (di norma a 150 metri) un passaggio a livello (attraversamento ferroviario) senza barriere ed è integrato dal relativo pannello distanziometrico a tre barre rosse. <br><br>Dopo questo segnale, prima dei binari è installato:<ul>    <li>il segnale CROCE DI S. ANDREA se c'è un solo binario</li>    <li>il segnale DOPPIA CROCE DI S. ANDREA se c'è più di un binario</li></ul><br>In presenza del segnale è necessario usare la massima prudenza e rallentare (in relazione alla visibilità della linea ferroviaria), per potere, eventualmente, arrestare il veicolo prima dell'attraversamento. <br>Prima di passare assicurarsi che non ci siano treni in arrivo sia da destra che da sinistra. <br><br>Sono vietati:<ul>    <li>il sorpasso,</li>    <li>la sosta</li>    <li>l'inversione di marcia</li>    <li>la retromarcia</li></ul>"
+                },
+                {
+                    "val": 9,
+                    "title": "Croce di S. Andrea",
+                    "content": "E' un segnale di pericolo, nelle immediate vicinanze di un attraversamento ferroviario in genere senza barriere (dopo il segnale PASSAGGIO A LIVELLO SENZA BARRIERE e i pannelli distanziometrici) e indica che la sede ferroviaria ha un solo binario. <br><br>Può essere posto sia in senso orizzontale che in senso verticale. <br>Impone di arrestarsi entro la striscia di arresto se è in arrivo il treno.<br>Può essere abbinato al segnale FERMARSI E DARE PRECEDENZA (Stop) quando la visibilità è sufficiente solo da breve distanza dal binario. <br><br>Non è vero che è integrato da una luce verde ed una rossa fissa."
+                },
+                {
+                    "val": 10,
+                    "title": "Doppia croce di S. andrea",
+                    "content": "E' un segnale di pericolo, nelle immediate vicinanze di un attraversamento ferroviario senza barriere (dopo il segnale PASSAGGIO A LIVELLO SENZA BARRIERE e i pannelli distanziometrici) e indica che la sede ferroviaria ha più di un binario. <br>Può essere posto sia in senso orizzontale che in senso verticale. <br><br>Impone di arrestarsi entro la striscia di arresto se è in arrivo il treno. <br>Invita a fare attenzione, prima di attraversare, perché potrebbe transitare più di un treno. <br>Può essere abbinato al segnale FERMARSI E DARE PRECEDENZA (Stop) quando la visibilità è insufficiente. <br><br>Non è vero che può avere fondo giallo in caso di lavori ai binari."
+                },
+                {
+                    "val": 11,
+                    "title": "Pannelli distanziometrici",
+                    "content": "Sono segnali di pericolo e si trovano in prossimità di tutti i tipi di passaggi a livello (con barriere, semibarriere e senza barriere). <br>Servono ad indicare che ci si sta avvicinando all'attraversamento ferroviario. <br><br>Sono posti di norma dall'attraversamento ferroviario a:<ul>    <li>circa 150 metri (3 barre rosse)</li>    <li>circa 100 metri (2 barre rosse)</li>    <li>circa 50 metri (1 barra rossa)</li></ul>"
+                },
+                {
+                    "val": 12,
+                    "title": "Attraversamento tranviario",
+                    "content": "E' un segnale di pericolo che preannuncia (di norma a 150 metri) l'incrocio con una linea tranviaria non regolata da semafori (sia dentro che fuori i centri abitati). <br>Essa riduce lo spazio utile per la circolazione dei veicoli. <br>Il conducente deve porre maggiore attenzione per non intralciare la marcia del tram. <br><br>In presenza del segnale:<ul>    <li>si può sorpassare a destra il tram in marcia se vi è lo spazio necessario</li>    <li>si può sorpassare a destra il tram fermo al centro della strada per la salita e discesa dei passeggeri, solo se esiste l'apposito salvagente </li>    <li>si può circolare sui binari senza intralciare la marcia del tram</li>    <li>si deve fare attenzione agli eventuali pedoni presenti alla fermata del tram </li>    <li>bisogna fare attenzione alla possibile diminuzione di aderenza delle ruote del veicolo se si frena sui binari</li>    <li>occorre tenere presente che il tram necessita di una distanza di arresto maggiore di quella degli autoveicoli </li></ul><br>Non è vero che interessa il transito dei filobus o che può essere integrato da un dispositivo a luci rosse."
+                },
+                {
+                    "val": 13,
+                    "title": "Attraversameto pedonale",
+                    "content": "E' un segnale di pericolo che preannuncia (di norma a 150 metri) un attraversamento pedonale (sia dentro che fuori i centri abitati). <br><br>In presenza del segnale:<ul>    <li>bisogna rallentare per essere pronti ad arrestarsi se ci sono pedoni che attraversano la carreggiata</li>    <li>il conducente deve dare la precedenza ai pedoni che attraversano sulle strisce</li>    <li>non è consentito sorpassare i veicoli che rallentano o si fermano per far attraversare i pedoni e si deve fare attenzione a non tamponarli </li>    <li>non si deve effettuare sosta o fermata sopra le strisce pedonali</li></ul><br>Qualora non si dia la precedenza ai pedoni che attraversano sulle apposite strisce, si incorre nella sottrazione di punti della patente. <br>Non è vero che è posto in corrispondenza di un attraversamento pedonale, ma come detto 150 metri prima."
+                },
+                {
+                    "val": 14,
+                    "title": "Attraversamento ciclabile",
+                    "content": "E' un segnale di pericolo che preannuncia (di norma a 150 metri) un attraversamento ciclabile (sia dentro che fuori i centri abitati) quindi un attraversamento per ciclisti, contraddistinto dagli appositi segni sulla carreggiata. <br><br>In presenza del segnale:<ul>    <li>bisogna moderare la velocità in modo da non costituire pericolo per la sicurezza dei ciclisti ed essere pronti ad arrestarsi, se necessario, per dare la precedenza ai ciclisti che attraversano </li>    <li>non è consentito sorpassare i veicoli che si sono arrestati per far attraversare la carreggiata ai ciclisti </li>    <li>non si deve effettuare sosta o fermata in corrispondenza dell'attraversamento </li></ul><br>Non è vero che è posto in corrispondenza di un attraversamento ciclabile, ma come detto 150 metri prima."
+                },
+                {
+                    "val": 15,
+                    "title": "Discesa pericolosa al 10%",
+                    "content": "E' un segnale di pericolo che preannuncia (di norma a 150 metri) una discesa pericolosa (lungo cui aumenta lo spazio di frenatura del veicolo) e ne specifica la pendenza. <br><br>In presenza del segnale:<ul>    <li>usare maggiore prudenza se la strada è bagnata</li>    <li>l'inserimento di una marcia bassa consente di sfruttare adeguatamente l'azione frenante del motore</li>    <li>si deve moderare la velocità per evitare di tamponare veicoli che procedono più lentamente</li>    <li>bisogna evitare l'uso prolungato dei freni per non surriscaldarli (e quindi rendere inefficiente la frenata) </li></ul><br>Non è vero che bisogna marciare con la frizione abbassata."
+                },
+                {
+                    "val": 16,
+                    "title": "Salita pericolosa al 10%",
+                    "content": "E' un segnale di pericolo che preannuncia (di norma a 150 metri) una salita pericolosa e ne specifica la pendenza. <br>E' necessario percorrere la salita con prudenza con marcia adeguatamente bassa. <br><br>Non è vero che bisogna marciare con la frizione abbassata o che preannuncia un tratto di strada lungo per cui aumenta lo spazio di frenatura del veicolo."
+                },
+                {
+                    "val": 17,
+                    "title": "Strettoria simmetrica",
+                    "content": "E' un segnale di pericolo che preannuncia (di norma a 150 metri) una strettoia simmetrica, ossia un restringimento sui due lati della carreggiata, con probabile difficoltà di incrocio con i veicoli provenienti dal senso opposto. <br><br>Se a fondo giallo, è posto in presenza di un cantiere stradale. <br>Comporta di moderare la velocità e se necessario arrestarsi. <br><br>Dopo di esso si può trovare il segnale:<ul>    <li>'DIRITTO DI PRECEDENZA NEI SENSI UNICI ALTERNATI'</li>    <li>'DARE PRECEDENZA NEI SENSI UNICI ALTERNATI'</li></ul><br>Non è vero che preannuncia un senso unico alternato con l'obbligo di dare la precedenza ai veicoli provenienti dall'altro senso."
+                },
+                {
+                    "val": 18,
+                    "title": "Strettoria asimetrica a sinistra",
+                    "content": "E' un segnale di pericolo che preannuncia (di norma a 150 metri) una strettoia asimmetrica a sinistra, ossia un restringimento sul lato sinistro della carreggiata, con probabile difficoltà di incrocio con i veicoli provenienti dal senso opposto. <br><br>Se a fondo giallo, è posto in presenza di un cantiere stradale. <br>Comporta di moderare la velocità e se necessario arrestarsi. <br><br>Non è vero che preannuncia un senso unico alternato con l'obbligo di dare la precedenza ai veicoli provenienti dall'altro senso."
+                },
+                {
+                    "val": 19,
+                    "title": "Strettoria asimetrica a destra",
+                    "content": "E' un segnale di pericolo che preannuncia (di norma a 150 metri) una strettoia asimmetrica a destra, ossia un restringimento sul lato sinistro della carreggiata, con probabile difficoltà di incrocio con i veicoli provenienti dal senso opposto. <br><br>Se a fondo giallo, è posto in presenza di un cantiere stradale. <br>Comporta di moderare la velocità e se necessario arrestarsi. <br><br>Non è vero che preannuncia un senso unico alternato con l'obbligo di dare la precedenza ai veicoli provenienti dall'altro senso."
+                },
+                {
+                    "val": 20,
+                    "title": "Ponte mobile",
+                    "content": "E' un segnale di pericolo che preannuncia (di norma a 150 metri) un ponte mobile. <br>Può essere integrato con pannello indicante gli orari di manovra o di funzionamento di un ponte mobile e con il pannello distanziometrico a tre barre rosse (solo questo non gli altri due a due e tre sbarre).<br><br>Dopo il segnale si trova un dispositivo a luci rosse lampeggianti e se in funzione comporta di arrestarsi. <br><br>Non è vero che:<ul>    <li>preannuncia un'area portuale</li>    <li>obbliga ad arrestarsi prima di attraversare il ponte</li>    <li>vieta il sorpasso se posto sulla strada di accesso ad un'area portuale</li></ul>"
+                },
+                {
+                    "val": 21,
+                    "title": "Banchina cedevole",
+                    "content": "E' un segnale di pericolo che preannuncia (di norma a 150 metri) una banchina cedevole, non praticabile, quindi il pericolo di caduta nella cunetta laterale alla strada. <br>E' consigliabile non avvicinarsi troppo al margine destro della strada. <br><br>Non è vero che preannuncia una strada dissestata, presenza di pietrisco sulla pavimentazione o che deve essere necessariamente integrato con il segnale di limite di velocità."
+                },
+                {
+                    "val": 22,
+                    "title": "Strada sdrucciolevole",
+                    "content": "E' un segnale di pericolo che preannuncia (di norma a 150 metri) un tratto di strada che può diventare sdrucciolevole (in cui diminuisce l'aderenza degli pneumatici) in particolari condizioni climatiche specificate nei pannelli integrativi (ghiaccio, pioggia). <br><br>Comporta di procedere a velocità moderata, evitare brusche manovre, accelerazioni, frenate e aumentare la distanza di sicurezza in quanto aumenta lo spazio di frenatura. <br>Il sorpasso è ammesso solo con particolare attenzione. <br><br>Non è vero che preannuncia la possibilità di sbandamento per forte vento laterale e che bisogna montare le catene."
+                },
+                {
+                    "val": 23,
+                    "title": "Bambini",
+                    "content": "E' un segnale di pericolo che preannuncia (di norma a 150 metri) luoghi frequentati da bambini (scuole, campi da gioco, giardini). <br>Invita a circolare a velocità moderata e considerare eventuali comportamenti imprudenti di fanciulli (anche se si trovano sui marciapiedi). <br><br>E' vietato sorpassare i veicoli che si sono fermati per lasciare attraversare i bambini. <br>Non è vero che indica la fermata di uno scuolabus, o che è posto sulla parte posteriore dello scuolabus, o che impone limite di velocità pari a 30 Km/h."
+                },
+                {
+                    "val": 24,
+                    "title": "Animali domestici vaganti",
+                    "content": ""
+                },
+                {
+                    "val": 25,
+                    "title": "",
+                    "content": ""
+                },
+                {
+                    "val": 26,
+                    "title": "",
+                    "content": ""
+                },
+                {
+                    "val": 27,
+                    "title": "",
+                    "content": ""
+                },
+                {
+                    "val": 28,
+                    "title": "",
+                    "content": ""
+                },
+                {
+                    "val": 29,
+                    "title": "",
+                    "content": ""
+                },
+                {
+                    "val": 30,
+                    "title": "",
+                    "content": ""
+                },
+                {
+                    "val": 31,
+                    "title": "",
+                    "content": ""
+                },
+                {
+                    "val": 32,
+                    "title": "",
+                    "content": ""
+                },
+                {
+                    "val": 33,
+                    "title": "",
+                    "content": ""
+                },
+                {
+                    "val": 34,
+                    "title": "",
+                    "content": ""
+                },
+                {
+                    "val": 35,
+                    "title": "",
+                    "content": ""
+                },
+                {
+                    "val": 36,
+                    "title": "",
+                    "content": ""
+                },
+                {
+                    "val": 37,
+                    "title": "",
+                    "content": ""
+                }
+            ]
+        },
+        {
+            "capitolo": 3,
+            "title": "Segnali di precedenza",
+            "argomenti": [
+                {
+                    "val": 0,
+                    "title": "",
+                    "content": ""
+                },
+                {
+                    "val": 1,
+                    "title": "",
+                    "content": ""
+                },
+                {
+                    "val": 2,
+                    "title": "",
+                    "content": ""
+                },
+                {
+                    "val": 3,
+                    "title": "",
+                    "content": ""
+                },
+                {
+                    "val": 4,
+                    "title": "",
+                    "content": ""
+                },
+                {
+                    "val": 5,
+                    "title": "",
+                    "content": ""
+                },
+                {
+                    "val": 6,
+                    "title": "",
+                    "content": ""
+                },
+                {
+                    "val": 7,
+                    "title": "",
+                    "content": ""
+                },
+                {
+                    "val": 8,
+                    "title": "",
+                    "content": ""
+                },
+                {
+                    "val": 9,
+                    "title": "",
+                    "content": ""
+                },
+                {
+                    "val": 10,
+                    "title": "",
+                    "content": ""
+                },
+                {
+                    "val": 11,
+                    "title": "",
+                    "content": ""
+                },
+                {
+                    "val": 12,
+                    "title": "",
+                    "content": ""
+                },
+                {
+                    "val": 13,
+                    "title": "",
+                    "content": ""
+                }
+            ]
+        },
+        {
+            "capitolo": 4,
+            "title": "Segnali di divieto",
+            "argomenti": [
+                {
+                    "val": 0,
+                    "title": "",
+                    "content": ""
+                },
+                {
+                    "val": 1,
+                    "title": "",
+                    "content": ""
+                },
+                {
+                    "val": 2,
+                    "title": "",
+                    "content": ""
+                },
+                {
+                    "val": 3,
+                    "title": "",
+                    "content": ""
+                },
+                {
+                    "val": 4,
+                    "title": "",
+                    "content": ""
+                },
+                {
+                    "val": 5,
+                    "title": "",
+                    "content": ""
+                },
+                {
+                    "val": 6,
+                    "title": "",
+                    "content": ""
+                },
+                {
+                    "val": 7,
+                    "title": "",
+                    "content": ""
+                },
+                {
+                    "val": 8,
+                    "title": "",
+                    "content": ""
+                },
+                {
+                    "val": 9,
+                    "title": "",
+                    "content": ""
+                },
+                {
+                    "val": 10,
+                    "title": "",
+                    "content": ""
+                },
+                {
+                    "val": 11,
+                    "title": "",
+                    "content": ""
+                },
+                {
+                    "val": 12,
+                    "title": "",
+                    "content": ""
+                },
+                {
+                    "val": 13,
+                    "title": "",
+                    "content": ""
+                },
+                {
+                    "val": 14,
+                    "title": "",
+                    "content": ""
+                },
+                {
+                    "val": 15,
+                    "title": "",
+                    "content": ""
+                },
+                {
+                    "val": 16,
+                    "title": "",
+                    "content": ""
+                },
+                {
+                    "val": 17,
+                    "title": "",
+                    "content": ""
+                },
+                {
+                    "val": 18,
+                    "title": "",
+                    "content": ""
+                },
+                {
+                    "val": 19,
+                    "title": "",
+                    "content": ""
+                },
+                {
+                    "val": 20,
+                    "title": "",
+                    "content": ""
+                },
+                {
+                    "val": 21,
+                    "title": "",
+                    "content": ""
+                },
+                {
+                    "val": 22,
+                    "title": "",
+                    "content": ""
+                },
+                {
+                    "val": 23,
+                    "title": "",
+                    "content": ""
+                },
+                {
+                    "val": 24,
+                    "title": "",
+                    "content": ""
+                },
+                {
+                    "val": 25,
+                    "title": "",
+                    "content": ""
+                },
+                {
+                    "val": 26,
+                    "title": "",
+                    "content": ""
+                },
+                {
+                    "val": 27,
+                    "title": "",
+                    "content": ""
+                },
+                {
+                    "val": 28,
+                    "title": "",
+                    "content": ""
+                },
+                {
+                    "val": 29,
+                    "title": "",
+                    "content": ""
+                },
+                {
+                    "val": 30,
+                    "title": "",
+                    "content": ""
+                },
+                {
+                    "val": 31,
+                    "title": "",
+                    "content": ""
+                },
+                {
+                    "val": 32,
+                    "title": "",
+                    "content": ""
+                },
+                {
+                    "val": 33,
+                    "title": "",
+                    "content": ""
+                },
+                {
+                    "val": 34,
+                    "title": "",
+                    "content": ""
+                },
+                {
+                    "val": 35,
+                    "title": "",
+                    "content": ""
+                },
+                {
+                    "val": 36,
+                    "title": "",
+                    "content": ""
+                },
+                {
+                    "val": 37,
+                    "title": "",
+                    "content": ""
+                },
+                {
+                    "val": 38,
+                    "title": "",
+                    "content": ""
+                }
+            ]
+        },
+        {
+            "capitolo": 5,
+            "title": "Segnali di obbligo",
+            "argomenti": [
+                {
+                    "val": 0,
+                    "title": "",
+                    "content": ""
+                },
+                {
+                    "val": 1,
+                    "title": "",
+                    "content": ""
+                },
+                {
+                    "val": 2,
+                    "title": "",
+                    "content": ""
+                },
+                {
+                    "val": 3,
+                    "title": "",
+                    "content": ""
+                },
+                {
+                    "val": 4,
+                    "title": "",
+                    "content": ""
+                },
+                {
+                    "val": 5,
+                    "title": "",
+                    "content": ""
+                },
+                {
+                    "val": 6,
+                    "title": "",
+                    "content": ""
+                },
+                {
+                    "val": 7,
+                    "title": "",
+                    "content": ""
+                },
+                {
+                    "val": 8,
+                    "title": "",
+                    "content": ""
+                },
+                {
+                    "val": 9,
+                    "title": "",
+                    "content": ""
+                },
+                {
+                    "val": 10,
+                    "title": "",
+                    "content": ""
+                },
+                {
+                    "val": 11,
+                    "title": "",
+                    "content": ""
+                },
+                {
+                    "val": 12,
+                    "title": "",
+                    "content": ""
+                },
+                {
+                    "val": 13,
+                    "title": "",
+                    "content": ""
+                },
+                {
+                    "val": 14,
+                    "title": "",
+                    "content": ""
+                },
+                {
+                    "val": 15,
+                    "title": "",
+                    "content": ""
+                },
+                {
+                    "val": 16,
+                    "title": "",
+                    "content": ""
+                },
+                {
+                    "val": 17,
+                    "title": "",
+                    "content": ""
+                },
+                {
+                    "val": 18,
+                    "title": "",
+                    "content": ""
+                },
+                {
+                    "val": 19,
+                    "title": "",
+                    "content": ""
+                },
+                {
+                    "val": 20,
+                    "title": "",
+                    "content": ""
+                },
+                {
+                    "val": 21,
+                    "title": "",
+                    "content": ""
+                },
+                {
+                    "val": 22,
+                    "title": "",
+                    "content": ""
+                },
+                {
+                    "val": 23,
+                    "title": "",
+                    "content": ""
+                },
+                {
+                    "val": 24,
+                    "title": "",
+                    "content": ""
+                },
+                {
+                    "val": 25,
+                    "title": "",
+                    "content": ""
+                },
+                {
+                    "val": 26,
+                    "title": "",
+                    "content": ""
+                },
+                {
+                    "val": 27,
+                    "title": "",
+                    "content": ""
+                },
+                {
+                    "val": 28,
+                    "title": "",
+                    "content": ""
+                }
+            ]
+        },
+        {
+            "capitolo": 6,
+            "title": "Segnali di indicazione",
+            "argomenti": [
+                {
+                    "val": 0,
+                    "title": "",
+                    "content": ""
+                },
+                {
+                    "val": 1,
+                    "title": "",
+                    "content": ""
+                },
+                {
+                    "val": 2,
+                    "title": "",
+                    "content": ""
+                },
+                {
+                    "val": 3,
+                    "title": "",
+                    "content": ""
+                },
+                {
+                    "val": 4,
+                    "title": "",
+                    "content": ""
+                },
+                {
+                    "val": 5,
+                    "title": "",
+                    "content": ""
+                },
+                {
+                    "val": 6,
+                    "title": "",
+                    "content": ""
+                },
+                {
+                    "val": 7,
+                    "title": "",
+                    "content": ""
+                },
+                {
+                    "val": 8,
+                    "title": "",
+                    "content": ""
+                },
+                {
+                    "val": 9,
+                    "title": "",
+                    "content": ""
+                },
+                {
+                    "val": 10,
+                    "title": "",
+                    "content": ""
+                },
+                {
+                    "val": 11,
+                    "title": "",
+                    "content": ""
+                },
+                {
+                    "val": 12,
+                    "title": "",
+                    "content": ""
+                },
+                {
+                    "val": 13,
+                    "title": "",
+                    "content": ""
+                },
+                {
+                    "val": 14,
+                    "title": "",
+                    "content": ""
+                },
+                {
+                    "val": 15,
+                    "title": "",
+                    "content": ""
+                },
+                {
+                    "val": 16,
+                    "title": "",
+                    "content": ""
+                },
+                {
+                    "val": 17,
+                    "title": "",
+                    "content": ""
+                },
+                {
+                    "val": 18,
+                    "title": "",
+                    "content": ""
+                },
+                {
+                    "val": 19,
+                    "title": "",
+                    "content": ""
+                },
+                {
+                    "val": 20,
+                    "title": "",
+                    "content": ""
+                },
+                {
+                    "val": 21,
+                    "title": "",
+                    "content": ""
+                },
+                {
+                    "val": 22,
+                    "title": "",
+                    "content": ""
+                },
+                {
+                    "val": 23,
+                    "title": "",
+                    "content": ""
+                },
+                {
+                    "val": 24,
+                    "title": "",
+                    "content": ""
+                },
+                {
+                    "val": 25,
+                    "title": "",
+                    "content": ""
+                },
+                {
+                    "val": 26,
+                    "title": "",
+                    "content": ""
+                },
+                {
+                    "val": 27,
+                    "title": "",
+                    "content": ""
+                },
+                {
+                    "val": 28,
+                    "title": "",
+                    "content": ""
+                },
+                {
+                    "val": 29,
+                    "title": "",
+                    "content": ""
+                },
+                {
+                    "val": 30,
+                    "title": "",
+                    "content": ""
+                },
+                {
+                    "val": 31,
+                    "title": "",
+                    "content": ""
+                },
+                {
+                    "val": 32,
+                    "title": "",
+                    "content": ""
+                },
+                {
+                    "val": 33,
+                    "title": "",
+                    "content": ""
+                },
+                {
+                    "val": 34,
+                    "title": "",
+                    "content": ""
+                },
+                {
+                    "val": 35,
+                    "title": "",
+                    "content": ""
+                },
+                {
+                    "val": 36,
+                    "title": "",
+                    "content": ""
+                },
+                {
+                    "val": 37,
+                    "title": "",
+                    "content": ""
+                },
+                {
+                    "val": 38,
+                    "title": "",
+                    "content": ""
+                },
+                {
+                    "val": 39,
+                    "title": "",
+                    "content": ""
+                },
+                {
+                    "val": 40,
+                    "title": "",
+                    "content": ""
+                },
+                {
+                    "val": 41,
+                    "title": "",
+                    "content": ""
+                },
+                {
+                    "val": 42,
+                    "title": "",
+                    "content": ""
+                },
+                {
+                    "val": 43,
+                    "title": "",
+                    "content": ""
+                },
+                {
+                    "val": 44,
+                    "title": "",
+                    "content": ""
+                },
+                {
+                    "val": 45,
+                    "title": "",
+                    "content": ""
+                },
+                {
+                    "val": 46,
+                    "title": "",
+                    "content": ""
+                },
+                {
+                    "val": 47,
+                    "title": "",
+                    "content": ""
+                },
+                {
+                    "val": 48,
+                    "title": "",
+                    "content": ""
+                },
+                {
+                    "val": 49,
+                    "title": "",
+                    "content": ""
+                },
+                {
+                    "val": 50,
+                    "title": "",
+                    "content": ""
+                },
+                {
+                    "val": 51,
+                    "title": "",
+                    "content": ""
+                },
+                {
+                    "val": 52,
+                    "title": "",
+                    "content": ""
+                },
+                {
+                    "val": 53,
+                    "title": "",
+                    "content": ""
+                },
+                {
+                    "val": 54,
+                    "title": "",
+                    "content": ""
+                },
+                {
+                    "val": 55,
+                    "title": "",
+                    "content": ""
+                },
+                {
+                    "val": 56,
+                    "title": "",
+                    "content": ""
+                },
+                {
+                    "val": 57,
+                    "title": "",
+                    "content": ""
+                },
+                {
+                    "val": 58,
+                    "title": "",
+                    "content": ""
+                },
+                {
+                    "val": 59,
+                    "title": "",
+                    "content": ""
+                },
+                {
+                    "val": 60,
+                    "title": "",
+                    "content": ""
+                }
+            ]
+        },
+        {
+            "capitolo": 7,
+            "title": "Semafori e vigili",
+            "argomenti": [
+                {
+                    "val": 0,
+                    "title": "",
+                    "content": ""
+                },
+                {
+                    "val": 1,
+                    "title": "",
+                    "content": ""
+                },
+                {
+                    "val": 2,
+                    "title": "",
+                    "content": ""
+                },
+                {
+                    "val": 3,
+                    "title": "",
+                    "content": ""
+                },
+                {
+                    "val": 4,
+                    "title": "",
+                    "content": ""
+                },
+                {
+                    "val": 5,
+                    "title": "",
+                    "content": ""
+                },
+                {
+                    "val": 6,
+                    "title": "",
+                    "content": ""
+                },
+                {
+                    "val": 7,
+                    "title": "",
+                    "content": ""
+                },
+                {
+                    "val": 8,
+                    "title": "",
+                    "content": ""
+                },
+                {
+                    "val": 9,
+                    "title": "",
+                    "content": ""
+                },
+                {
+                    "val": 10,
+                    "title": "",
+                    "content": ""
+                },
+                {
+                    "val": 11,
+                    "title": "",
+                    "content": ""
+                },
+                {
+                    "val": 12,
+                    "title": "",
+                    "content": ""
+                },
+                {
+                    "val": 13,
+                    "title": "",
+                    "content": ""
+                },
+                {
+                    "val": 14,
+                    "title": "",
+                    "content": ""
+                }
+            ]
+        },
+        {
+            "capitolo": 8,
+            "title": "Segnali temporanei e complementari",
+            "argomenti": [
+                {
+                    "val": 0,
+                    "title": "",
+                    "content": ""
+                },
+                {
+                    "val": 1,
+                    "title": "",
+                    "content": ""
+                },
+                {
+                    "val": 2,
+                    "title": "",
+                    "content": ""
+                },
+                {
+                    "val": 3,
+                    "title": "",
+                    "content": ""
+                },
+                {
+                    "val": 4,
+                    "title": "",
+                    "content": ""
+                },
+                {
+                    "val": 5,
+                    "title": "",
+                    "content": ""
+                },
+                {
+                    "val": 6,
+                    "title": "",
+                    "content": ""
+                },
+                {
+                    "val": 7,
+                    "title": "",
+                    "content": ""
+                },
+                {
+                    "val": 8,
+                    "title": "",
+                    "content": ""
+                },
+                {
+                    "val": 9,
+                    "title": "",
+                    "content": ""
+                },
+                {
+                    "val": 10,
+                    "title": "",
+                    "content": ""
+                },
+                {
+                    "val": 11,
+                    "title": "",
+                    "content": ""
+                },
+                {
+                    "val": 12,
+                    "title": "",
+                    "content": ""
+                },
+                {
+                    "val": 13,
+                    "title": "",
+                    "content": ""
+                },
+                {
+                    "val": 14,
+                    "title": "",
+                    "content": ""
+                },
+                {
+                    "val": 15,
+                    "title": "",
+                    "content": ""
+                },
+                {
+                    "val": 16,
+                    "title": "",
+                    "content": ""
+                },
+                {
+                    "val": 17,
+                    "title": "",
+                    "content": ""
+                },
+                {
+                    "val": 18,
+                    "title": "",
+                    "content": ""
+                },
+                {
+                    "val": 19,
+                    "title": "",
+                    "content": ""
+                }
+                
+            ]
+        },
+        {
+            "capitolo": 9,
+            "title": "Pannelli integrativi",
+            "argomenti": [
+                {
+                    "val": 0,
+                    "title": "",
+                    "content": ""
+                },
+                {
+                    "val": 1,
+                    "title": "",
+                    "content": ""
+                },
+                {
+                    "val": 2,
+                    "title": "",
+                    "content": ""
+                },
+                {
+                    "val": 3,
+                    "title": "",
+                    "content": ""
+                },
+                {
+                    "val": 4,
+                    "title": "",
+                    "content": ""
+                },
+                {
+                    "val": 5,
+                    "title": "",
+                    "content": ""
+                },
+                {
+                    "val": 6,
+                    "title": "",
+                    "content": ""
+                },
+                {
+                    "val": 7,
+                    "title": "",
+                    "content": ""
+                },
+                {
+                    "val": 8,
+                    "title": "",
+                    "content": ""
+                },
+                {
+                    "val": 9,
+                    "title": "",
+                    "content": ""
+                },
+                {
+                    "val": 10,
+                    "title": "",
+                    "content": ""
+                },
+                {
+                    "val": 11,
+                    "title": "",
+                    "content": ""
+                },
+                {
+                    "val": 12,
+                    "title": "",
+                    "content": ""
+                },
+                {
+                    "val": 13,
+                    "title": "",
+                    "content": ""
+                },
+                {
+                    "val": 14,
+                    "title": "",
+                    "content": ""
+                },
+                {
+                    "val": 15,
+                    "title": "",
+                    "content": ""
+                },
+                {
+                    "val": 16,
+                    "title": "",
+                    "content": ""
+                },
+                {
+                    "val": 17,
+                    "title": "",
+                    "content": ""
+                },
+                {
+                    "val": 18,
+                    "title": "",
+                    "content": ""
+                },
+                {
+                    "val": 19,
+                    "title": "",
+                    "content": ""
+                },
+                {
+                    "val": 20,
+                    "title": "",
+                    "content": ""
+                },
+                {
+                    "val": 21,
+                    "title": "",
+                    "content": ""
+                },
+                {
+                    "val": 22,
+                    "title": "",
+                    "content": ""
+                },
+                {
+                    "val": 23,
+                    "title": "",
+                    "content": ""
+                },
+                {
+                    "val": 24,
+                    "title": "",
+                    "content": ""
+                },
+                {
+                    "val": 25,
+                    "title": "",
+                    "content": ""
+                }
+                
+            ]
+        },
+        {
+            "capitolo": 10,
+            "title": "Segnaletica orizzontale",
+            "argomenti": [
+                {
+                    "val": 0,
+                    "title": "",
+                    "content": ""
+                },
+                {
+                    "val": 1,
+                    "title": "",
+                    "content": ""
+                },
+                {
+                    "val": 2,
+                    "title": "",
+                    "content": ""
+                },
+                {
+                    "val": 3,
+                    "title": "",
+                    "content": ""
+                },
+                {
+                    "val": 4,
+                    "title": "",
+                    "content": ""
+                },
+                {
+                    "val": 5,
+                    "title": "",
+                    "content": ""
+                },
+                {
+                    "val": 6,
+                    "title": "",
+                    "content": ""
+                },
+                {
+                    "val": 7,
+                    "title": "",
+                    "content": ""
+                },
+                {
+                    "val": 8,
+                    "title": "",
+                    "content": ""
+                },
+                {
+                    "val": 9,
+                    "title": "",
+                    "content": ""
+                },
+                {
+                    "val": 10,
+                    "title": "",
+                    "content": ""
+                },
+                {
+                    "val": 11,
+                    "title": "",
+                    "content": ""
+                },
+                {
+                    "val": 12,
+                    "title": "",
+                    "content": ""
+                },
+                {
+                    "val": 13,
+                    "title": "",
+                    "content": ""
+                },
+                {
+                    "val": 14,
+                    "title": "",
+                    "content": ""
+                },
+                {
+                    "val": 15,
+                    "title": "",
+                    "content": ""
+                },
+                {
+                    "val": 16,
+                    "title": "",
+                    "content": ""
+                }
+                
+            ]
+        },
+        {
+            "capitolo": 11,
+            "title": "Limiti e regolazione della velocità",
+            "argomenti": [
+                {
+                    "val": 0,
+                    "title": "",
+                    "content": ""
+                },
+                {
+                    "val": 1,
+                    "title": "",
+                    "content": ""
+                },
+                {
+                    "val": 2,
+                    "title": "",
+                    "content": ""
+                },
+                {
+                    "val": 3,
+                    "title": "",
+                    "content": ""
+                },
+                {
+                    "val": 4,
+                    "title": "",
+                    "content": ""
+                },
+                {
+                    "val": 5,
+                    "title": "",
+                    "content": ""
+                },
+                {
+                    "val": 6,
+                    "title": "",
+                    "content": ""
+                },
+                {
+                    "val": 7,
+                    "title": "",
+                    "content": ""
+                }                
+            ]
+        },
+        {
+            "capitolo": 12,
+            "title": "Distanza di sicurezza",
+            "argomenti": [
+                {
+                    "val": 0,
+                    "title": "",
+                    "content": ""
+                },
+                {
+                    "val": 1,
+                    "title": "",
+                    "content": ""
+                },
+                {
+                    "val": 2,
+                    "title": "",
+                    "content": ""
+                },
+                {
+                    "val": 3,
+                    "title": "",
+                    "content": ""
+                }
+                
+            ]
+        },
+        {
+            "capitolo": 13,
+            "title": "Posizione veicoli sulla carreggiata",
+            "argomenti": [
+                {
+                    "val": 0,
+                    "title": "",
+                    "content": ""
+                },
+                {
+                    "val": 1,
+                    "title": "",
+                    "content": ""
+                },
+                {
+                    "val": 2,
+                    "title": "",
+                    "content": ""
+                },
+                {
+                    "val": 3,
+                    "title": "",
+                    "content": ""
+                },
+                {
+                    "val": 4,
+                    "title": "",
+                    "content": ""
+                },
+                {
+                    "val": 5,
+                    "title": "",
+                    "content": ""
+                },
+                {
+                    "val": 6,
+                    "title": "",
+                    "content": ""
+                },
+                {
+                    "val": 7,
+                    "title": "",
+                    "content": ""
+                },
+                {
+                    "val": 8,
+                    "title": "",
+                    "content": ""
+                },
+                {
+                    "val": 9,
+                    "title": "",
+                    "content": ""
+                },
+                {
+                    "val": 10,
+                    "title": "",
+                    "content": ""
+                },
+                {
+                    "val": 11,
+                    "title": "",
+                    "content": ""
+                },
+                {
+                    "val": 12,
+                    "title": "",
+                    "content": ""
+                },
+                {
+                    "val": 13,
+                    "title": "",
+                    "content": ""
+                },
+                {
+                    "val": 14,
+                    "title": "",
+                    "content": ""
+                },
+                {
+                    "val": 15,
+                    "title": "",
+                    "content": ""
+                },
+                {
+                    "val": 16,
+                    "title": "",
+                    "content": ""
+                }
+                
+            ]
+        },
+        {
+            "capitolo": 14,
+            "title": "Incroci",
+            "argomenti": [
+                {
+                    "val": 0,
+                    "title": "",
+                    "content": ""
+                },
+                {
+                    "val": 1,
+                    "title": "",
+                    "content": ""
+                },
+                {
+                    "val": 2,
+                    "title": "",
+                    "content": ""
+                },
+                {
+                    "val": 3,
+                    "title": "",
+                    "content": ""
+                },
+                {
+                    "val": 4,
+                    "title": "",
+                    "content": ""
+                },
+                {
+                    "val": 5,
+                    "title": "",
+                    "content": ""
+                },
+                {
+                    "val": 6,
+                    "title": "",
+                    "content": ""
+                },
+                {
+                    "val": 7,
+                    "title": "",
+                    "content": ""
+                },
+                {
+                    "val": 8,
+                    "title": "",
+                    "content": ""
+                },
+                {
+                    "val": 9,
+                    "title": "",
+                    "content": ""
+                },
+                {
+                    "val": 10,
+                    "title": "",
+                    "content": ""
+                },
+                {
+                    "val": 11,
+                    "title": "",
+                    "content": ""
+                },
+                {
+                    "val": 12,
+                    "title": "",
+                    "content": ""
+                },
+                {
+                    "val": 13,
+                    "title": "",
+                    "content": ""
+                },
+                {
+                    "val": 14,
+                    "title": "",
+                    "content": ""
+                },
+                {
+                    "val": 15,
+                    "title": "",
+                    "content": ""
+                },
+                {
+                    "val": 16,
+                    "title": "",
+                    "content": ""
+                },
+                {
+                    "val": 17,
+                    "title": "",
+                    "content": ""
+                },
+                {
+                    "val": 18,
+                    "title": "",
+                    "content": ""
+                },
+                {
+                    "val": 19,
+                    "title": "",
+                    "content": ""
+                },
+                {
+                    "val": 20,
+                    "title": "",
+                    "content": ""
+                },
+                {
+                    "val": 21,
+                    "title": "",
+                    "content": ""
+                },
+                {
+                    "val": 22,
+                    "title": "",
+                    "content": ""
+                },
+                {
+                    "val": 23,
+                    "title": "",
+                    "content": ""
+                },
+                {
+                    "val": 24,
+                    "title": "",
+                    "content": ""
+                },
+                {
+                    "val": 25,
+                    "title": "",
+                    "content": ""
+                },
+                {
+                    "val": 26,
+                    "title": "",
+                    "content": ""
+                },
+                {
+                    "val": 27,
+                    "title": "",
+                    "content": ""
+                },
+                {
+                    "val": 28,
+                    "title": "",
+                    "content": ""
+                },
+                {
+                    "val": 29,
+                    "title": "",
+                    "content": ""
+                },
+                {
+                    "val": 30,
+                    "title": "",
+                    "content": ""
+                },
+                {
+                    "val": 31,
+                    "title": "",
+                    "content": ""
+                },
+                {
+                    "val": 32,
+                    "title": "",
+                    "content": ""
+                },
+                {
+                    "val": 33,
+                    "title": "",
+                    "content": ""
+                },
+                {
+                    "val": 34,
+                    "title": "",
+                    "content": ""
+                },
+                {
+                    "val": 35,
+                    "title": "",
+                    "content": ""
+                },
+                {
+                    "val": 36,
+                    "title": "",
+                    "content": ""
+                },
+                {
+                    "val": 37,
+                    "title": "",
+                    "content": ""
+                },
+                {
+                    "val": 38,
+                    "title": "",
+                    "content": ""
+                },
+                {
+                    "val": 39,
+                    "title": "",
+                    "content": ""
+                },
+                {
+                    "val": 40,
+                    "title": "",
+                    "content": ""
+                }
+                
+            ]
+        },
+        {
+            "capitolo": 15,
+            "title": "Sorpasso",
+            "argomenti": [
+                {
+                    "val": 0,
+                    "title": "",
+                    "content": ""
+                },
+                {
+                    "val": 1,
+                    "title": "",
+                    "content": ""
+                },
+                {
+                    "val": 2,
+                    "title": "",
+                    "content": ""
+                },
+                {
+                    "val": 3,
+                    "title": "",
+                    "content": ""
+                },
+                {
+                    "val": 4,
+                    "title": "",
+                    "content": ""
+                }
+                
+            ]
+        },
+        {
+            "capitolo": 16,
+            "title": "Divieti di fermata e sosta",
+            "argomenti": [
+                {
+                    "val": 0,
+                    "title": "",
+                    "content": ""
+                },
+                {
+                    "val": 1,
+                    "title": "",
+                    "content": ""
+                },
+                {
+                    "val": 2,
+                    "title": "",
+                    "content": ""
+                },
+                {
+                    "val": 3,
+                    "title": "",
+                    "content": ""
+                }
+                
+            ]
+        },
+        {
+            "capitolo": 17,
+            "title": "Autostrade, trasporto di persone, ecc",
+            "argomenti": [
+                {
+                    "val": 0,
+                    "title": "",
+                    "content": ""
+                },
+                {
+                    "val": 1,
+                    "title": "",
+                    "content": ""
+                },
+                {
+                    "val": 2,
+                    "title": "",
+                    "content": ""
+                },
+                {
+                    "val": 3,
+                    "title": "",
+                    "content": ""
+                },
+                {
+                    "val": 4,
+                    "title": "",
+                    "content": ""
+                },
+                {
+                    "val": 5,
+                    "title": "",
+                    "content": ""
+                },
+                {
+                    "val": 6,
+                    "title": "",
+                    "content": ""
+                },
+                {
+                    "val": 7,
+                    "title": "",
+                    "content": ""
+                },
+                {
+                    "val": 8,
+                    "title": "",
+                    "content": ""
+                },
+                {
+                    "val": 9,
+                    "title": "",
+                    "content": ""
+                },
+                {
+                    "val": 10,
+                    "title": "",
+                    "content": ""
+                },
+                {
+                    "val": 11,
+                    "title": "",
+                    "content": ""
+                },
+                {
+                    "val": 12,
+                    "title": "",
+                    "content": ""
+                }
+                
+            ]
+        },
+        {
+            "capitolo": 18,
+            "title": "Uso luci e spie",
+            "argomenti": [
+                {
+                    "val": 0,
+                    "title": "",
+                    "content": ""
+                },
+                {
+                    "val": 1,
+                    "title": "",
+                    "content": ""
+                },
+                {
+                    "val": 2,
+                    "title": "",
+                    "content": ""
+                },
+                {
+                    "val": 3,
+                    "title": "",
+                    "content": ""
+                },
+                {
+                    "val": 4,
+                    "title": "",
+                    "content": ""
+                },
+                {
+                    "val": 5,
+                    "title": "",
+                    "content": ""
+                },
+                {
+                    "val": 6,
+                    "title": "",
+                    "content": ""
+                },
+                {
+                    "val": 7,
+                    "title": "",
+                    "content": ""
+                },
+                {
+                    "val": 8,
+                    "title": "",
+                    "content": ""
+                },
+                {
+                    "val": 9,
+                    "title": "",
+                    "content": ""
+                },
+                {
+                    "val": 10,
+                    "title": "",
+                    "content": ""
+                },
+                {
+                    "val": 11,
+                    "title": "",
+                    "content": ""
+                },
+                {
+                    "val": 12,
+                    "title": "",
+                    "content": ""
+                },
+                {
+                    "val": 13,
+                    "title": "",
+                    "content": ""
+                },
+                {
+                    "val": 14,
+                    "title": "",
+                    "content": ""
+                },
+                {
+                    "val": 15,
+                    "title": "",
+                    "content": ""
+                }
+                
+            ]
+        },
+        {
+            "capitolo": 19,
+            "title": "Cinture, casco, airbag...",
+            "argomenti": [
+                {
+                    "val": 0,
+                    "title": "",
+                    "content": ""
+                },
+                {
+                    "val": 1,
+                    "title": "",
+                    "content": ""
+                },
+                {
+                    "val": 2,
+                    "title": "",
+                    "content": ""
+                },
+                {
+                    "val": 3,
+                    "title": "",
+                    "content": ""
+                }
+                
+            ]
+        },
+        {
+            "capitolo": 20,
+            "title": "Patenti, documenti...",
+            "argomenti": [
+                {
+                    "val": 0,
+                    "title": "",
+                    "content": ""
+                },
+                {
+                    "val": 1,
+                    "title": "",
+                    "content": ""
+                },
+                {
+                    "val": 2,
+                    "title": "",
+                    "content": ""
+                },
+                {
+                    "val": 3,
+                    "title": "",
+                    "content": ""
+                },
+                {
+                    "val": 4,
+                    "title": "",
+                    "content": ""
+                },
+                {
+                    "val": 5,
+                    "title": "",
+                    "content": ""
+                },
+                {
+                    "val": 6,
+                    "title": "",
+                    "content": ""
+                },
+                {
+                    "val": 7,
+                    "title": "",
+                    "content": ""
+                },
+                {
+                    "val": 8,
+                    "title": "",
+                    "content": ""
+                },
+                {
+                    "val": 9,
+                    "title": "",
+                    "content": ""
+                },
+                {
+                    "val": 10,
+                    "title": "",
+                    "content": ""
+                },
+                {
+                    "val": 11,
+                    "title": "",
+                    "content": ""
+                },
+                {
+                    "val": 12,
+                    "title": "",
+                    "content": ""
+                },
+                {
+                    "val": 13,
+                    "title": "",
+                    "content": ""
+                },
+                {
+                    "val": 14,
+                    "title": "",
+                    "content": ""
+                },
+                {
+                    "val": 15,
+                    "title": "",
+                    "content": ""
+                }
+                
+            ]
+        },
+        {
+            "capitolo": 21,
+            "title": "Prevenzione incidenti",
+            "argomenti": [
+                {
+                    "val": 0,
+                    "title": "",
+                    "content": ""
+                },
+                {
+                    "val": 1,
+                    "title": "",
+                    "content": ""
+                },
+                {
+                    "val": 2,
+                    "title": "",
+                    "content": ""
+                },
+                {
+                    "val": 3,
+                    "title": "",
+                    "content": ""
+                },
+                {
+                    "val": 4,
+                    "title": "",
+                    "content": ""
+                },
+                {
+                    "val": 5,
+                    "title": "",
+                    "content": ""
+                }
+                
+            ]
+        },
+        {
+            "capitolo": 22,
+            "title": "Primo soccorso e condizioni psicofisiche",
+            "argomenti": [
+                {
+                    "val": 0,
+                    "title": "",
+                    "content": ""
+                },
+                {
+                    "val": 1,
+                    "title": "",
+                    "content": ""
+                },
+                {
+                    "val": 2,
+                    "title": "",
+                    "content": ""
+                },
+                {
+                    "val": 3,
+                    "title": "",
+                    "content": ""
+                },
+                {
+                    "val": 4,
+                    "title": "",
+                    "content": ""
+                },
+                {
+                    "val": 5,
+                    "title": "",
+                    "content": ""
+                },
+                {
+                    "val": 6,
+                    "title": "",
+                    "content": ""
+                },
+                {
+                    "val": 7,
+                    "title": "",
+                    "content": ""
+                }
+                
+            ]
+        },
+        {
+            "capitolo": 23,
+            "title": "Assicurazione RCA e responsabilità",
+            "argomenti": [
+                {
+                    "val": 0,
+                    "title": "",
+                    "content": ""
+                },
+                {
+                    "val": 1,
+                    "title": "",
+                    "content": ""
+                }
+                
+            ]
+        },
+        {
+            "capitolo": 24,
+            "title": "Inquinamento",
+            "argomenti": [
+                {
+                    "val": 0,
+                    "title": "",
+                    "content": ""
+                },
+                {
+                    "val": 1,
+                    "title": "",
+                    "content": ""
+                },
+                {
+                    "val": 2,
+                    "title": "",
+                    "content": ""
+                },
+                {
+                    "val": 3,
+                    "title": "",
+                    "content": ""
+                }
+                
+            ]
+        },
+        {
+            "capitolo": 25,
+            "title": "Elementi e manutenzione veicolo",
+            "argomenti": [
+                {
+                    "val": 0,
+                    "title": "",
+                    "content": ""
+                },
+                {
+                    "val": 1,
+                    "title": "",
+                    "content": ""
+                },
+                {
+                    "val": 2,
+                    "title": "",
+                    "content": ""
+                },
+                {
+                    "val": 3,
+                    "title": "",
+                    "content": ""
+                },
+                {
+                    "val": 4,
+                    "title": "",
+                    "content": ""
+                },
+                {
+                    "val": 5,
+                    "title": "",
+                    "content": ""
+                },
+                {
+                    "val": 6,
+                    "title": "",
+                    "content": ""
+                },
+                {
+                    "val": 7,
+                    "title": "",
+                    "content": ""
+                },
+                {
+                    "val": 8,
+                    "title": "",
+                    "content": ""
+                },
+                {
+                    "val": 9,
+                    "title": "",
+                    "content": ""
+                },
+                {
+                    "val": 10,
+                    "title": "",
+                    "content": ""
+                }
+                
+            ]
+        }
+    ]
+}
