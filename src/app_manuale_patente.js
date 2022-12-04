@@ -28,7 +28,6 @@ for(let i = 0; i < data.capitoli.length; i++) {
 let elements = document.querySelectorAll("a");
 elements.forEach((element) => {
     element.addEventListener("click", () => {
-        console.log(element.id);
         capitolo = parseInt(element.id);
         localStorage.setItem("capitolo", capitolo);
     });

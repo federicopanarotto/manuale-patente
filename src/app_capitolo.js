@@ -4,6 +4,8 @@ import { img_dir, img_ext, ifMine10 } from "./app_global.js";
 const list = document.querySelector("#list");
 const title = document.querySelector("title");
 
+console.log(localStorage.getItem("capitolo"));
+
 let capitolo = parseInt(localStorage.getItem("capitolo"));
 let img_counter = parseInt(localStorage.getItem("argomento"));
 
@@ -31,7 +33,6 @@ for(let i = 0; i < data.capitoli[capitolo].argomenti.length; i++) {
 let elements = document.querySelectorAll("a");
 elements.forEach((element) => {
     element.addEventListener("click", () => {
-        console.log(element.id);
         img_counter = parseInt(element.id);
         localStorage.setItem("argomento", img_counter);
     });
