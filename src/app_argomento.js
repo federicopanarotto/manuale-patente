@@ -1,4 +1,5 @@
 import data from "./content.json" assert { type: "json"};
+import { img_dir, img_ext, ifMine10 } from "./app_global.js";
 
 const title = document.querySelector("title");
 const text_title = document.querySelector("#cap");
@@ -9,21 +10,8 @@ const next_button = document.querySelector("#next");
 const back_button_text = document.querySelector("#back-text");
 const next_button_text = document.querySelector("#next-text")
 
-let img_dir = "img/";
-let img_ext = ".png";
-
 let capitolo = parseInt(localStorage.getItem("capitolo"));
 let img_counter = parseInt(localStorage.getItem("argomento"));
-
-function ifMine10(num) {
-    let string = "";
-    if(num < 10) {
-        string = "0" + num;
-        return string
-    }
-    string = "" + num;
-    return string;
-}
 
 function updatePage() {
     text_title.innerHTML = data.capitoli[capitolo].argomenti[img_counter].title;
@@ -36,6 +24,7 @@ function updatePage() {
 
 title.textContent = `Capitolo ${capitolo+1}`;
 updatePage();
+
 if(img_counter == 0) {
     back_button_text.textContent = "torna indietro";
     next_button_text.textContent = "argomento successivo";

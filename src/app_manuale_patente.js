@@ -1,11 +1,7 @@
 import data from "./content.json" assert { type: "json"};
+import { img_dir, img_ext} from "./app_global.js";
 
 const list = document.querySelector("#list");
-
-let img_dir = "img/";
-let img_ext = ".png";
-
-let capitolo = 0;
 
 for(let i = 0; i < data.capitoli.length; i++) {
     const a = document.createElement("a");
