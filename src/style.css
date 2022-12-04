@@ -169,7 +169,6 @@ body {
     padding-bottom: 25px;
 }
 .zona-argomenti list a {
-    /* height: 150px; */
     width: 100%;
     background-color: #8db19c94;
     border-radius: 5px;
@@ -228,7 +227,6 @@ body {
     }
 }
 .zona-argomento #cap {
-    /* height: 60px; */
     font-family: 'Nunito', sans-serif;
     font-size: 40px;
     color: #689e7f;
