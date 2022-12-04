@@ -3,6 +3,8 @@ import { img_dir, img_ext} from "./app_global.js";
 
 const list = document.querySelector("#list");
 
+let capitolo = parseInt(localStorage.getItem("capitolo"));
+
 for(let i = 0; i < data.capitoli.length; i++) {
     const a = document.createElement("a");
     const element = document.createElement("element");

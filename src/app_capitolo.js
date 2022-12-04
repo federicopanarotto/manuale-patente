@@ -1,10 +1,8 @@
 import data from "./content.json" assert { type: "json"};
 import { img_dir, img_ext, ifMine10 } from "./app_global.js";
 
-const list = document.querySelector("#list");
 const title = document.querySelector("title");
-
-console.log(localStorage.getItem("capitolo"));
+const list = document.querySelector("#list");
 
 let capitolo = parseInt(localStorage.getItem("capitolo"));
 let img_counter = parseInt(localStorage.getItem("argomento"));
