@@ -312,3 +312,26 @@ ul {
     color: #5f5f5f;
     font-family: 'Nunito', sans-serif;
 }
+
+
+/* MOBILE */
+
+@media screen and (max-width: 900px) {
+    body {
+        min-width: 100vw;
+    }
+    .top {
+        width: 100vw;
+        font-size: 20px;
+        text-align: center;
+    }
+    .content {
+        width: 100vw;
+    }
+    .zona-capitoli {
+        width: 310px;
+    }
+    .footer {
+        width: 100vw;
+    }
+}
