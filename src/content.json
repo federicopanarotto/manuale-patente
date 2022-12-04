@@ -549,63 +549,63 @@
                 },
                 {
                     "val": 27,
-                    "title": "",
-                    "content": ""
+                    "title": "Divieto di transito ai veicoli, o complessi di veicoli, di lunghezza superiore a 10 metri",
+                    "content": "E' un segnale di divieto. <br>Vieta il transito a tutti i veicoli di lunghezza complessiva superiore quella indicata (in questo caso 10 metri). <br><br>Vale anche per complessi di veicoli (esempio un'autovettura che traina un caravan se insieme superano i 10 metri) e per autobus.<br>Vale 24 ore su 24."
                 },
                 {
                     "val": 28,
-                    "title": "",
-                    "content": ""
+                    "title": "Divieto di transito ai veicoli aventi massa effettiva superiore a 7 tonnellate",
+                    "content": "E' un segnale di divieto. <br>Vieta il transito a tutti i veicoli aventi una massa effettiva (totale) superiore a quella indicata. <br><br>Con l'integrazione di apposito pannello può vietare il transito contemporaneo di più veicoli indicando il numero massimo dei veicoli che possono transitare contemporaneamente lungo il ponte. <br><br>In genere è posto prima di un luogo dove ci può essere il pericolo di crollo, come ad esempio un ponte. <br>Vale 24 ore su 24."
                 },
                 {
                     "val": 29,
-                    "title": "",
-                    "content": ""
+                    "title": "Divieto di transito ai veicoli aventi massa per asse superiore a 2,5 t",
+                    "content": "E' un segnale di divieto.<br> Vieta il transito a tutti i veicoli aventi per asse o sull'asse più caricato una massa effettiva superiore a quella indicata. <br><br>In genere è posto prima di un luogo ove ci può essere il pericolo di crollo, come ad esempio un ponte. <br>Vale 24 ore su 24."
                 },
                 {
                     "val": 30,
-                    "title": "",
-                    "content": ""
+                    "title": "Via Libera",
+                    "content": "E' un segnale di fine prescrizione e indica la fine delle prescrizioni precedentemente imposte (divieti o obblighi).<br><br> Non è vero che indica la fine del pericolo precedentemente segnalato."
                 },
                 {
                     "val": 31,
-                    "title": "",
-                    "content": ""
+                    "title": "Divieto di fermata",
+                    "content": "E' un segnale di prescrizione (divieto). <br>Vieta la sosta e la fermata o, comunque, qualsiasi volontaria temporanea sospensione della marcia del veicolo (qualsiasi tipo di veicolo, anche autobus o taxi). <br><br>Consente l'arresto in casi di forza maggiore (semaforo rosso, intasamento del traffico, ecc.). <br>Vale (in assenza di iscrizioni integrative) 24 ore su 24, tutti i giorni, anche nei centri abitati. <br>In caso di non osservanza del divieto è sempre disposta la rimozione forzata del veicolo. <br><br>Vieta la sosta e la fermata solo sul lato della strada sul quale è posto. <br>Se integrato con il pannello integrativo FINE indica la fine del divieto di fermata e di sosta (che vale comunque nel tratto precedente)."
                 },
                 {
                     "val": 32,
-                    "title": "",
-                    "content": ""
+                    "title": "Divieto di sosta",
+                    "content": "E' un segnale di prescrizione (divieto). <br>Vieta la sosta del veicolo ma consente la fermata. <br>Fuori dai centri abitati è valido 24 ore su 24, mentre nei centri abitati dalle ore 8 alle ore 20, salvo diversa indicazione. <br><br>Può essere integrato da pannelli per indicarne l'inizio, il proseguimento o la fine. <br>Cessa di validità dopo il primo incrocio, se non ripetuto. <br>Vieta la sosta solo sul lato della strada sul quale è posto. <br><br>Se integrato con il pannello integrativo:<ul>    <li>INIZIO: indica l'inizio del divieto di sosta a partire dal tratto successivo al segnale</li>    <li>CONTINUA: indica il divieto di sosta nel tratto precedente e in quello successivo (non è vero che indica divieto di sosta permanente)</li>    <li>FINE: indica la fine del divieto di sosta (che vale comunque nel tratto precedente)</li>    <li>ECCEZIONE: consente la sosta ai veicoli riportati nel pannello (esempio autobus)</li>    <li>FASCIA ORARIA DEI GIORNI FERIALI: vieta la sosta solo nei giorni lavorativi nella fascia oraria indicata</li>    <li>ZONA RIMOZIONE COATTA: indica una zona in cui vige divieto di sosta, con rimozione del veicolo</li></ul><br>"
                 },
                 {
                     "val": 33,
-                    "title": "",
-                    "content": ""
+                    "title": "Divieto di sosta temporaneo",
+                    "content": "E' un segnale di divieto. <br>Vieta, nei centri urbani, la sosta in particolari ore per consentire alle macchine operatrici la pulizia della strada. <br>(Vedi divieto di sosta)"
                 },
                 {
                     "val": 34,
-                    "title": "",
-                    "content": ""
+                    "title": "Regolazione flessibile della sosta nei centri abitati",
+                    "content": "E' un segnale di divieto composito, rappresenta una regolazione della sosta.<br> Consente la sosta solo in alcune ore indicate mentre la vieta in altre. <br><br>La fermata è comunque consentita 24 ore su 24. <br>In questo caso consente la sosta dalle 9 alle 17 e dalle 20 alle 7, mentre la vieta dalle 7 alle 9 e dalle 17 alle 20."
                 },
                 {
                     "val": 35,
-                    "title": "",
-                    "content": ""
+                    "title": "Passo carrabile",
+                    "content": "E' un segnale di prescrizione (divieto). <br>Vieta la sosta nel luogo dove è posto.<br> Indica lo sbocco di un passo carrabile, ossia la zona per l'accesso dei veicoli alle proprietà laterali.<br><br> Vale 24 ore su 24. <br>Consente la fermata purché il veicolo non sia d'intralcio. <br>Per essere valido, deve contenere l'indicazione dell'ente che ha concesso l'autorizzazione, il numero e l'anno del rilascio. <br><br>Può essere posto sia nelle strada urbane che in quelle extraurbane."
                 },
                 {
                     "val": 36,
-                    "title": "",
-                    "content": ""
+                    "title": "Sosta consentita a particolari categorie",
+                    "content": "E' un segnale di prescrizione (divieto), rappresenta un'eccezione al divieto di sosta. <br>Consente la sosta e il parcheggio ad una particolare categoria di veicoli (in questo caso ai veicoli al servizio di persone invalide munite dell’apposito contrassegno) e la vieta a tutti gli altri veicoli."
                 },
                 {
                     "val": 37,
-                    "title": "",
-                    "content": ""
+                    "title": "Parcheggio",
+                    "content": "Indica un parcheggio autorizzato, ossia un'area attrezzata ed organizzata per sostare a tempo indeterminato (24 ore su 24), salvo diversa indicazione. <br><br>Può essere integrato con un pannello che indica:<ul>    <li>la distanza </li>    <li>la limitazione nel tempo </li>    <li>le categorie a cui la sosta è riservata o quelle che sono escluse</li>    <li>l'orario e le tariffe</li>    <li>la disposizione dei veicoli</li></ul><br>Non è vero che indica un'area di sosta con parchimetro o che può essere integrato con un pannello che indica la superficie disponibile."
                 },
                 {
                     "val": 38,
-                    "title": "",
-                    "content": ""
+                    "title": "Preavviso di parcheggio",
+                    "content": "Il segnale preannuncia una zona di parcheggio procedendo nel senso della freccia, in questo caso a 300 metri."
                 }
             ]
         },
