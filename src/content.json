@@ -615,43 +615,43 @@
             "argomenti": [
                 {
                     "val": 0,
-                    "title": "",
-                    "content": ""
+                    "title": "Direzione obbligatoria",
+                    "content": "E' un segnale di prescrizione (obbligo). <br>Indica che l'unica direzione consentita è diritto.<br> Si trova prima di un incrocio (sia su strade a senso unico che a doppio senso), non consente la svolta a destra o a sinistra e obbliga a proseguire diritto. <br><br>Non esclude la possibilità che provengano veicoli di fronte (non va confuso con il segnale di senso unico frontale, che è a fondo rettangolare). <br><br>Non è vero che impone la marcia in unica fila."
                 },
                 {
                     "val": 1,
-                    "title": "",
-                    "content": ""
+                    "title": "Direzione obbligatoria a sinistra",
+                    "content": "E' un segnale di prescrizione (obbligo). <br>Indica che l'unica direzione consentita è a sinistra. <br><br>Si trova prima di un incrocio (sia su strade a senso unico che a doppio senso), non consente di svoltare a destra o andare diritto e obbliga a svoltare a sinistra.<br><br> Non è vero che indica che è obbligatorio passare a sinistra di un ostacolo posto sulla carreggiata o che significa preavviso di curva a sinistra."
                 },
                 {
                     "val": 2,
-                    "title": "",
-                    "content": ""
+                    "title": "Direzione obbligatoria a destra",
+                    "content": "E' un segnale di prescrizione (obbligo). <br>Indica che l'unica direzione consentita è a destra. <br><br>Si trova prima di un incrocio (sia su strade a senso unico che a doppio senso), non consente di svoltare a sinistra o andare diritto e obbliga a svoltare a destra. <br><br>Non è vero che indica che è obbligatorio passare a destra di un ostacolo posto sulla carreggiata o che significa preavviso di curva a destra."
                 },
                 {
                     "val": 3,
-                    "title": "",
-                    "content": ""
+                    "title": "Preavviso di direzione obbligatoria a destra",
+                    "content": "E' un segnale di prescrizione (obbligo). <br>Indica che l'unica direzione consentita al prossimo incrocio è a destra. <br><br>Precede un segnale di DIREZIONE OBBLIGATORIA A DESTRA, quindi è posto prima di un incrocio dove non è consentito svoltare a sinistra o andare diritto, ma solo svoltare a destra. <br><br>Può essere integrato da un pannello che indica la distanza dall'incrocio (punto in cui vige l'obbligo)."
                 },
                 {
                     "val": 4,
-                    "title": "",
-                    "content": ""
+                    "title": "Preavviso di direzione obbligatoria a destra per veicoli superiori. a 3,5 Tonnellate",
+                    "content": "E' un segnale di prescrizione (obbligo). <br>Indica l'unica direzione consentita per la categoria di veicoli indicati in figura (in questo caso a destra). <br><br>Vale solo per i veicoli indicati in figura (autocarri che superano 3,5 T, per gli autocarri che non superano tale massa non è valido). <br><br>Impone a tali veicoli la svolta a destra, vieta di proseguire diritto e la svolta a sinistra."
                 },
                 {
                     "val": 5,
-                    "title": "",
-                    "content": ""
+                    "title": "Preavviso di direzione obbligatoria a sinistra",
+                    "content": "E' un segnale di prescrizione (obbligo). <br>Indica che l'unica direzione consentita al prossimo incrocio è a sinistra. <br><br>Precede un segnale di DIREZIONE OBBLIGATORIA A SINISTRA, quindi è posto prima di un incrocio dove non è consentito svoltare a destra o andare diritto, ma solo svoltare a sinistra. <br><br>Può essere integrato da un pannello che indica la distanza dall'incrocio (punto in cui vige l'obbligo)."
                 },
                 {
                     "val": 6,
-                    "title": "",
-                    "content": ""
+                    "title": "Direzioni consentite a destra ed a sinistra",
+                    "content": "E' un segnale di prescrizione (obbligo). <br>Indica che le uniche direzioni consentite sono destra e sinistra. <br>Quindi il segnale permette di svoltare a destra e a sinistra, ma vieta di proseguire diritto. <br><br>Non è vero che indica una biforcazione pericolosa."
                 },
                 {
                     "val": 7,
-                    "title": "",
-                    "content": ""
+                    "title": "Direzioni consentite dritto e a destra",
+                    "content": "E' un segnale di prescrizione (obbligo). <br>Indica che le uniche direzioni consentite sono destra e diritto. <br>Quindi il segnale permette di svoltare a destra e proseguire diritto, ma vieta di svoltare a sinistra. <br><br>Non è vero che indica una biforcazione pericolosa o che indica di tenersi in ogni caso il più possibile sul margine destro della carreggiata."
                 },
                 {
                     "val": 8,
