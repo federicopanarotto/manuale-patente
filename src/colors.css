@@ -1,0 +1,29 @@
+:root {
+    --obreggiatura: #00000060;
+    --section-top-background: #3b9b86;
+    --section-top-textcolor: #bae9df;
+    --section-content-background: #8debd3c9;
+    --section-footer-background: #232323;
+    --section-footer-h2-color: #83918f;
+    --section-footer-a-color: #525151;
+    --section-footer-a-hover: #3b8877;
+    --section-content-zona-background: #76dac4;
+    --section-content-zona-cap-color: #b1fff2;
+    --section-content-zona-element-background: #61b9aeab;
+    --section-content-zona-element-color: #d6fff5;
+    --section-content-zona-elementi-p-color: #545e5e;
+}
+
+.top { background-color: var(--section-top-background); }
+.top a { color: var(--section-top-textcolor); }
+.content { background-color: var(--section-content-background); }
+.footer { background-color: var(--section-footer-background); }
+.footer h2 { color: var(--section-footer-h2-color); }
+.footer a { color: var(--section-footer-a-color); }
+.footer a:hover { color: var(--section-footer-a-hover); }
+
+.zona-capitoli { background-color: var(--section-content-zona-background); }
+.zona-capitoli #cap { color: var(--section-content-zona-cap-color); }
+.zona-capitoli list a { background-color: var(--section-content-zona-element-background); }
+.zona-capitoli list a element h1 { color: var(--section-content-zona-element-color); }
+.zona-capitoli list a element p { color: var(--section-content-zona-elementi-p-color); }
