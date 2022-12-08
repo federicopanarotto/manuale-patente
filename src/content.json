@@ -801,273 +801,273 @@
                 },
                 {
                     "val": 7,
-                    "title": "",
-                    "content": ""
+                    "title": "Preavviso di intersezione extraurbano con passaggio a livello a destra",
+                    "content": "Preavvisa un incrocio su strada extraurbana (è su fondo blu). <br>Indica la presenza di un passaggio a livello sul ramo destro dell'incrocio (e non di una stazione ferroviaria) e indica quindi a chi svolta a destra il possibile attraversamento di treni. <br><br>Indica di svoltare a destra per S. Giovanni, di svoltare a sinistra per località turistica (segnale di colore marrone), di proseguire diritto per raggiungere Porto Torres."
                 },
                 {
                     "val": 8,
-                    "title": "",
-                    "content": ""
+                    "title": "Preavviso di diramazione autostradale",
+                    "content": "E' un segnale di preavviso di diramazione (non incrocio - non esistono incroci in autostrada) autostradale (è su fondo verde) che consente la scelta preventiva della direzione da seguire. <br><br>Indica che si deve proseguire diritto per andare a Bologna e svoltare a sinistra per l'aeroporto di Linate."
                 },
                 {
                     "val": 9,
-                    "title": "",
-                    "content": ""
+                    "title": "Preselezione urbana",
+                    "content": "Indica una preselezione urbana e viene posto in sostituzione del segnale di preavviso di incrocio. <br>Nelle strade urbane (è a fondo bianco) a più corsie consente di immettersi nelle corsie di preselezione. <br><br>Indica ai conducenti diretti alla località turistica di immettersi nella corsia di mezzo - indica ai conducenti diretti a Terni di mettersi nella corsia di sinistra - indica ai conducenti diretti al centro della città di occupare la corsia di destra"
                 },
                 {
                     "val": 10,
-                    "title": "",
-                    "content": ""
+                    "title": "Preselezione extraurbana",
+                    "content": "E' un segnale di preselezione su strada extraurbana (à su fondo blu) suddivisa in due corsie. <br>Preavvisa una zona di preselezione con due destinazioni.<br><br> Indica al conducente diretto a Bari di spostarsi sulla corsia di sinistra - indica al conducente diretto a Pescara di spostarsi sulla corsia di destra"
                 },
                 {
                     "val": 11,
-                    "title": "",
-                    "content": ""
+                    "title": "Progressiva distanziometrica autostradale",
+                    "content": "E' un segnale di indicazione posto lungo un'autostrada (fondo verde)<br><br><ul>    <li>nella parte sinistra segnala la distanza progressiva dal luogo di origine dell'autostrada (in questo caso ci troviamo al chilometro 54 dal punto d'inizio dell'autostrada) </li>    <li>nella parte destra segnala la distanza dell'uscita per la località indicata (in questo caso mancano 4 chilometri dal casello d'uscita per Piacenza)</li></ul>"
                 },
                 {
                     "val": 12,
-                    "title": "",
-                    "content": ""
+                    "title": "Segnale di itinerario Extraurbano",
+                    "content": "Posto su autostrade o su strade extraurbane principali (come in questo caso) indica la distanza (quella in basso) che c'è tra il segnale e il prossimo svincolo d'uscita. <br><br>Quindi riporta i nomi delle località raggiungibili uscendo da tale svincolo (nel centro). <br>Nell'esempio è su strada extraurbana (essendo su fondo blu) e indica che lo svincolo per Frosinone è a 500 m. e le località raggiungibili sono quelle riportate al centro su fondo blu. <br>Le località turistiche sono indicati su fondo marrone. Non è vero che indica che a 500 metri si arriva al comune di Frosinone (infatti a 500 metri vi è l'uscita dalla strada che stiamo percorrendo, che ci permette poi di arrivare a Frosinone)."
                 },
                 {
                     "val": 13,
-                    "title": "",
-                    "content": ""
+                    "title": "Inizio centro abitato",
+                    "content": "Indica l'inizio di un centro abitato e quindi identifica la località raggiunta (in questo caso Taranto).<br> E' posto all'inizio del centro abitato, su tutte le strade d'ingresso alla località indicata. <br>Se barrato da una striscia rossa indica la fine del centro abitato.<br><br> Non è vero che indica la direzione da seguire per raggiungere Taranto."
                 },
                 {
                     "val": 14,
-                    "title": "",
-                    "content": ""
+                    "title": "Fine centro abitato con segnale di conferma",
+                    "content": "Indica la fine del centro abitato e quindi anche la fine del limite massimo di velocità di 50 km/h e del divieto di segnalazioni acustiche. <br>Nel pannello blu vengono indicate le prossime località (centri abitati) raggiungibili in ordine di lontananza e, per ogni località, la rispettiva distanza chilometrica. <br><br>Non è vero che si trova su strade extraurbane principali, in quanto come detto, si trova appena all'uscita di un centro abitato, e quindi su strade extraurbane secondarie."
                 },
                 {
                     "val": 15,
-                    "title": "",
-                    "content": ""
+                    "title": "Conferma autostradale",
+                    "content": "Indica in autostrada, la distanza (numero a destra) delle località raggiungibili lungo l'itinerario in ordine di raggiungimento.<br> Se di colore blu, si trova su strade extraurbane.<br><br> Non è vero che indica che uscendo dal primo casello autostradale è possibile raggiungere tutte le località indicate."
                 },
                 {
                     "val": 16,
-                    "title": "",
-                    "content": ""
+                    "title": "Identificazione strada comunale",
+                    "content": "Identifica il tipo di strada percorsa: in questo caso, la strada comunale n. 19 (è su fondo bianco). <br>Si può trovare a completamento dei segnali di direzione.<br><br> Non è vero che indica una distanza o un orario, o che si trova all'inizio di una strada di campagna."
                 },
                 {
                     "val": 17,
-                    "title": "",
-                    "content": ""
+                    "title": "Identificazione strada statale",
+                    "content": "Il segnale identifica il tipo di strada percorsa: in questo caso la strada statale n.2 (strada extraurbana, infatti è su fondo blu). <br>Si può trovare all'interno di segnali di direzione o di bivio stradale. <br><br>Non è vero che indica una distanza o la lunghezza di un tratto di strada."
                 },
                 {
                     "val": 18,
-                    "title": "",
-                    "content": ""
+                    "title": "Identificazione autostrada",
+                    "content": "Identifica il tipo di strada percorsa: in questo caso l'autostrada n. 25 (è su fondo verde). <br>Si può trovare all'interno di un segnale di preavviso di svincolo autostradale. <br>Abbinato ad una freccia, indica la direzione per un casello autostradale. <br><br>Non è vero che indica una distanza."
                 },
                 {
                     "val": 19,
-                    "title": "",
-                    "content": ""
+                    "title": "Itinerario internazionale europeo",
+                    "content": "Identifica il tipo di strada percorsa: in questo caso l'itinerario internazionale n. 55. <br>E' posto su strade di importanza internazionale e ne indica il numero della classificazione internazionale. <br>Si può trovare all'interno di un segnale di preavviso di bivio stradale. <br><br>Non è vero che indica un autostrada o una distanza o una velocità massima."
                 },
                 {
                     "val": 20,
-                    "title": "",
-                    "content": ""
+                    "title": "Confine di Stato con Paese CEE",
+                    "content": "Indica il confine tra l'Italia ed uno Stato membro della Comunità Economica Europea. <br><br>Non obbliga ad arrestarsi al confine di Stato. <br>Non è vero che preavvisa un posto di blocco degli organi di polizia in vicinanza del confine di Stato."
                 },
                 {
                     "val": 21,
-                    "title": "",
-                    "content": ""
+                    "title": "Preavviso di confine di Stato con paesi CEE",
+                    "content": "Preavvisa un confine di Stato con un Paese che fa parte dell'Unione Europea su strade che portano a tale confine. <br>Ne indica inoltre la distanza (in basso). <br><br>Non obbliga ad arrestarsi per il controllo doganale al confine di Stato. Non è vero che si trova in vicinanza di un posto di blocco, o che è un segnale che va posto su di un veicolo."
                 },
                 {
                     "val": 22,
-                    "title": "",
-                    "content": ""
+                    "title": "Area pedonale",
+                    "content": "Indica l'inizio di un'area pedonale, e nel pannello integrativo (aggiuntivo) contiene particolari limitazioni orarie o eccezioni (categorie autorizzate alla circolazione). <br><br>In questo caso è consentito il transito ai veicoli di persone invalide, a Polizia, ambulanza e Vigili del Fuoco (se in servizio urgente di emergenza) e ai veicoli per il carico e lo scarico merci. <br>Lo stesso segnale barrato da una striscia trasversale rossa indica la fine dell'area pedonale.<br><br> E' sbagliato dire che il segnale indica una pista obbligatoria per i pedoni o itinerari per escursioni turistiche."
                 },
                 {
                     "val": 23,
-                    "title": "",
-                    "content": ""
+                    "title": "Zona a traffico limitato",
+                    "content": "Indica l'inizio di una zona a traffico limitato, ossia un'area in cui l'accesso e la circolazione dei veicoli possono essere limitate nel tempo e/o a particolari categorie di veicoli. <br><br>Nel pannello integrativo (aggiuntivo) sono indicate le limitazioni orarie od eccezioni (categorie autorizzate alla circolazione). <br>In questo caso è consentito il transito solo ai veicoli di persone invalide, a Polizia, ambulanza e Vigili del Fuoco (se in servizio urgente di emergenza) e ai veicoli per il carico e lo scarico merci (solo in determinate ore)."
                 },
                 {
                     "val": 24,
-                    "title": "",
-                    "content": ""
+                    "title": "Segnale di transitabilità",
+                    "content": "E' posto su strade di montagna e presegnala le condizioni di transitabilità (in questo caso del passo dello Stelvio). <br>Indica che la strada è aperta (quindi è possibile raggiungere il passo dello Stelvio), ma solo ai veicoli che sono equipaggiati con catene o pneumatici invernali (quindi ne obbliga l'uso). <br><br>Non è vero che consiglia di montare le catene, ma lo obbliga (se non si hanno pneumatici invernali)."
                 },
                 {
                     "val": 25,
-                    "title": "",
-                    "content": ""
+                    "title": "Segnale di transitabilità",
+                    "content": "E' posto su strade di montagna e presegnala le condizioni di transitabilità (in questo caso del passo dello Stelvio). <br>Indica che la strada è chiusa (quindi non è possibile raggiungere il passo dello Stelvio) mentre è possibile arrivare fino a Trafoi (località che si trova prima dello Stelvio). <br><br>Il segnale consiglia di procedere con particolare prudenza e attenzione e raccomanda (quindi non obbliga) l'uso delle catene o degli pneumatici invernali."
                 },
                 {
                     "val": 26,
-                    "title": "",
-                    "content": ""
+                    "title": "Inizio strada extraurbana principale",
+                    "content": "Indica l'ingresso in una strada extraurbana principale (quindi strada a carreggiate separate).<br> Se barrato da una striscia trasversale rossa ne indica la fine.<br> Se di colore verde indica l'inizio di un'autostrada.<br><br> Può trovarsi in formato ridotto (piccolo) sui segnali di preavviso o di preselezione. <br>Non è vero che indica la presenza di un cavalcavia o prescrive la circolazione per file parallele. <br><br>Da non confondere con il segnale 'INVERSIONE DI MARCIA'."
                 },
                 {
                     "val": 27,
-                    "title": "",
-                    "content": ""
+                    "title": "Inversione di marcia",
+                    "content": "E' posto su una strada a carreggiate separate e indica la presenza di una struttura (cavalcavia o sottopassaggio) per effettuare l'inversione di marcia (quindi tornare indietro). <br>Se di colore verde si trova su un'autostrada. <br><br>Da non confondere con il segnale 'INIZIO STRADA EXTRAURBANA PRINCIPALE'."
                 },
                 {
                     "val": 28,
-                    "title": "",
-                    "content": ""
+                    "title": "Limiti generalizzati di velocità",
+                    "content": "Viene posto in vicinanza della frontiera italiana, visibile dai conducenti provenienti dallo Stato estero e indica i limiti massimi di velocità generali che valgono in Italia. <br><br><ul>    <li>50 km/h su strade urbane </li>    <li>90 km/h su strade extraurbane secondarie</li>    <li>110 km/h su strade extraurbane principali (ad esempio: superstrade, scorrimenti veloci)</li>    <li>130 km/h su autostrade</li></ul>"
                 },
                 {
                     "val": 29,
-                    "title": "",
-                    "content": ""
+                    "title": "Pronto soccorso",
+                    "content": "E' un segnale di localizzazione situato in corrispondenza (all'ingresso) di un pronto soccorso e ne indica la direzione per entrare. <br><br>Non è vero che indica una farmacia."
                 },
                 {
                     "val": 30,
-                    "title": "",
-                    "content": ""
+                    "title": "Ospedale",
+                    "content": "E' un segnale di localizzazione posto in corrispondenza di un ospedale e ne indica l'ingresso o la direzione da seguire per entrarvi. <br>Quindi invita a non fare rumori molesti nelle sue vicinanze."
                 },
                 {
                     "val": 31,
-                    "title": "",
-                    "content": ""
+                    "title": "Localizzazione territoriale",
+                    "content": "E' un segnale di localizzazione e indica il nome del fiume in vicinanza del ponte che lo attraversa In questo caso si trova in vicinanza di un ponte che attraversa il fiume Arno. <br><br>Non è vero che indica pericolo di mareggiate o allagamenti."
                 },
                 {
                     "val": 32,
-                    "title": "",
-                    "content": ""
+                    "title": "Preavviso di informazioni turistico alberghiere",
+                    "content": "Preavvisa un ufficio di informazioni turistico-alberghiere dove si possono richiedere informazioni su strutture e servizi turistici (alberghi, motel… ).<br> In basso ne indica la distanza."
                 },
                 {
                     "val": 33,
-                    "title": "",
-                    "content": ""
+                    "title": "Campeggio",
+                    "content": "Indica la vicinanza di un'area destinata alla sosta di caravan ed autocaravan ed al campeggio."
                 },
                 {
                     "val": 34,
-                    "title": "",
-                    "content": ""
+                    "title": "Area attrezzata con impianti di scarico",
+                    "content": "Indica un'area attrezzata con impianti che consentono, ai veicoli che hanno i servizi igienico-sanitari, lo scarico dei residui organici e delle acque bianche e sporche."
                 },
                 {
                     "val": 35,
-                    "title": "",
-                    "content": ""
+                    "title": "Attraversamento pedonale",
+                    "content": "Si trova (direttamente) in corrispondenza delle strisce di un attraversamento pedonale.<br> Obbliga i conducenti a fermarsi quando i pedoni transitano sugli attraversamenti pedonali. <br>Fuori dei centri abitati si trova dopo il segnale di pericolo ATTRAVERSAMENTO PEDONALE. <br><br>Non è vero che se di colore verde può essere posto in autostrada (dove non vi sono attraversamenti pedonali)."
                 },
                 {
                     "val": 36,
-                    "title": "",
-                    "content": ""
+                    "title": "Attraversamento ciclabile",
+                    "content": "Si trova (direttamente) in corrispondenza delle strisce di un attraversamento ciclabile. <br>Invita ad usare prudenza e indica che bisogna dare la precedenza ai ciclisti che attraversano sulle strisce. <br><br>Non è vero che indica una pista ciclabile."
                 },
                 {
                     "val": 37,
-                    "title": "",
-                    "content": ""
+                    "title": "Scuolabus",
+                    "content": "Se posto sul bordo del marciapiede, indica la fermata di uno scuolabus. <br>Se posto all'esterno di un autobus, segnala che esso trasporta scolari.<br><br> Invita a fare attenzione ai bambini che scesi dallo scuolabus possono attraversare improvvisamente la strada"
                 },
                 {
                     "val": 38,
-                    "title": "",
-                    "content": ""
+                    "title": "Fermata autobus",
+                    "content": "Indica una fermata di autobus di pubblico trasporto extraurbano e quindi il luogo dove poterli aspettare. <br>Può essere abbinato ad un pannello che riporta gli orari di partenza. <br><br>Non è vero che indica una corsia riservata agli autobus o un'area di sosta per autobus e filobus."
                 },
                 {
                     "val": 39,
-                    "title": "",
-                    "content": ""
+                    "title": "Parcheggio di scambio con linee di autobus",
+                    "content": "Indica parcheggio di scambio con linee di autobus e quindi la possibilità di parcheggiare l'autovettura e di prendere l'autobus.<br> E' posto vicino ad una fermata di autobus. <br><br>Il segnale raffigurato indica che dopo aver parcheggiato l'autovettura è possibile prendere l'autobus n. 8 o n. 45. Non è vero che indica una piazzola di sosta per autobus."
                 },
                 {
                     "val": 40,
-                    "title": "",
-                    "content": ""
+                    "title": "SOS",
+                    "content": "Indica la presenza di un dispositivo di chiamata da utilizzare in caso di richiesta di soccorso stradale e assistenza, che funziona 24 ore su 24."
                 },
                 {
                     "val": 41,
-                    "title": "",
-                    "content": ""
+                    "title": "Strada senza uscita",
+                    "content": "E' un segnale di indicazione ed è posto all'inizio di una strada senza uscita per i veicoli, vale anche per i motocicli. <br><br>Non è vero che vale anche per i pedoni."
                 },
                 {
                     "val": 42,
-                    "title": "",
-                    "content": ""
+                    "title": "Preavviso di strada senza uscita",
+                    "content": "E' un segnale di indicazione e segnala l'intersezione (l'incrocio) con una strada sulla destra senza uscita per i veicoli (compresi i motocicli). <br>Consente comunque di svoltare a destra o proseguire diritto."
                 },
                 {
                     "val": 43,
-                    "title": "",
-                    "content": ""
+                    "title": "Velocità consigliata",
+                    "content": "Indica la velocità che si consiglia (ATTENZIONE: non è un obbligo) di non superare in condizioni ottimali di traffico.<br> Può essere abbinato con un pannello che indica la lunghezza del tratto di strada dove si consiglia di non superare la velocità indicata. <br><br>Quindi in questo caso, consente comunque, ad esempio, di viaggiare a 70 Km/h.<br> Se barrato da una striscia rossa indica la fine della sua validità."
                 },
                 {
                     "val": 44,
-                    "title": "",
-                    "content": ""
+                    "title": "Strada riservata ai veicoli a motore",
+                    "content": "E' un segnale di indicazione. <br>Indica l'inizio di una strada riservata a tutti i veicoli a motore (autovetture, motocicli, quadricicli, autotreni, ecc.), mentre vieta il transito ai veicoli senza motore (biciclette, carretti, ecc.).<br><br> Sostituisce, quindi, i segnali di divieto riferiti ai veicoli senza motore. Se barrato da una striscia rossa indica la fine della sua validità."
                 },
                 {
                     "val": 45,
-                    "title": "",
-                    "content": ""
+                    "title": "Galleria",
+                    "content": "Indica l'inizio di una galleria autostradale e quindi ricorda di non sostare e di non fermarsi in galleria, salvo diversa segnalazione, o comunque di spegnere il motore in caso di arresto prolungato in galleria. <br><br>Invita a tenere ben saldo lo sterzo per fronteggiare eventuali colpi di vento all'uscita della galleria. <br>Non è vero che indica una galleria non illuminata."
                 },
                 {
                     "val": 46,
-                    "title": "",
-                    "content": ""
+                    "title": "Ponte",
+                    "content": "Si può trovare all'inizio di un ponte, di un viadotto o di un cavalcavia.<br>Può essere integrato da pannello che ne indica la lunghezza. <br><br>Invita a tenere ben saldo lo sterzo per fronteggiare eventuali colpi di vento laterale.<br> Non è vero che prescrive il divieto di sorpasso tra autoveicoli."
                 },
                 {
                     "val": 47,
-                    "title": "",
-                    "content": ""
+                    "title": "Svolta a sinistra indiretta",
+                    "content": "Indica che al prossimo incrocio indica che non è possibile svoltare a sinistra in modo diretto, quindi indica il percorso da fare per prendere la strada di sinistra in modo indiretto. <br><br>Consente comunque di proseguire diritto o svoltare a destra e interessa solo i conducenti che intendono svoltare a sinistra. <br><br>Non è vero che non vale per le biciclette ed i ciclomotori."
                 },
                 {
                     "val": 48,
-                    "title": "",
-                    "content": ""
+                    "title": "Piazzola di sosta",
+                    "content": "Si trova su strada extraurbana e indica una piazzola a lato della carreggiata per effettuare la fermata. <br>Può essere abbinato ad un pannello che indica la distanza che c'è tra il segnale e la piazzola.<br><br> Non è vero che la sosta è consentita solo per 3 ore."
                 },
                 {
                     "val": 49,
-                    "title": "",
-                    "content": ""
+                    "title": "Uso corsie",
+                    "content": "E' un segnale di indicazione installato su strade urbane (fondo bianco) e indica come devono essere utilizzate le corsie:<br><ul>    <li>la corsia di destra è riservata agli autobus dei servizi pubblici urbani</li>    <li>le corsie di sinistra sono destinate al transito normale di tutti i veicoli</li></ul><br>Non indica che gli autobus possono sorpassare a destra"
                 },
                 {
                     "val": 50,
-                    "title": "",
-                    "content": ""
+                    "title": "Uso corsie",
+                    "content": "E' un segnale di indicazione installato su strade extraurbane (fondo blu) e indica come devono essere utilizzate le corsie di una carreggiata.<br><br> In particolare indica che la corsia di sinistra è vietata agli autocarri che superano la massa a pieno carico di 3,5 tonnellate, quindi tutti gli altri veicolo possono circolare su entrambe le corsie. <br><br>Non è vero che si trova solo su strade a doppio senso di circolazione."
                 },
                 {
                     "val": 51,
-                    "title": "",
-                    "content": ""
+                    "title": "Uso corsie",
+                    "content": "E' un segnale di indicazione installato posto su autostrade (fondo verde) e indica le velocità minime obbligatorie (non consigliate) da mantenere sulle corsie indicate. <br><br>Quindi la prima corsia sulla destra può essere percorsa senza limiti di velocità minima, quella di mezzo non può essere percorsa a meno di 60 Km/h, quella di sinistra a meno di 90 Km/h.<br><br> Non è vero che consente di circolare a 160 km/h in tutte e tre le corsie, in quanto il limite generale in autostrada è di 130 Km/h."
                 },
                 {
                     "val": 52,
-                    "title": "",
-                    "content": ""
+                    "title": "Variazione corsie",
+                    "content": "E' un segnale di indicazione posto su strade extraurbane (colore blu) e indica un cambiamento del numero di corsie disponibili (in questo caso da una a due). Può essere abbinato ad un pannello che indica la distanza dal punto in cui si ha l'aumento di corsia. <br><br>Non è vero che indica che è possibile sorpassare a destra."
                 },
                 {
                     "val": 53,
-                    "title": "",
-                    "content": ""
+                    "title": "Variazione corsie",
+                    "content": "E' un segnale di indicazione posto in autostrada (fondo verde) e indica una diminuzione del numero di corsie disponibili (in questo caso da tre a due). <br>Consiglia, quindi, di rallentare per restringimento della carreggiata. <br><br>Può essere abbinato ad un pannello che indica la distanza dal restringimento di corsia."
                 },
                 {
                     "val": 54,
-                    "title": "",
-                    "content": ""
+                    "title": "Preavviso di direzione consigliata per autocarri in transito",
+                    "content": "E' un segnale di indicazione (quindi non è un obbligo) posto solitamente all'ingresso dei centri abitati e consiglia ai veicoli rappresentati nel pannello di seguire la direzione indicata per non attraversare il centro abitato.<br><br> In questo caso consiglia agli autotreni e agli autoarticolati (veicoli merci di massa superiore a 3,5 t) di seguire la strada a destra."
                 },
                 {
                     "val": 55,
-                    "title": "",
-                    "content": ""
+                    "title": "Assistenza meccanica",
+                    "content": "E' posto lungo una strada extraurbana e indica che nelle vicinanze c'è un'officina meccanica per veicoli."
                 },
                 {
                     "val": 56,
-                    "title": "",
-                    "content": ""
+                    "title": "Telefono pubblico",
+                    "content": "E' posto lungo una strada extraurbana e indica un posto di telefono pubblico nelle vicinanze."
                 },
                 {
                     "val": 57,
-                    "title": "",
-                    "content": ""
+                    "title": "Rifornimento",
+                    "content": "E' posto lungo una strada extraurbana e indica un posto di rifornimento carburante nelle vicinanze. <br>Se a fondo verde, indica un impianto di distribuzione carburante in autostrada. <br><br>Non è vero che indica un distributore di carburante riservato solo ai veicoli alimentati a GPL."
                 },
                 {
                     "val": 58,
-                    "title": "",
-                    "content": ""
+                    "title": "Auto al seguito",
+                    "content": "E' posto lungo una strada extraurbana e indica la vicinanza di una grande stazione ferroviaria con possibilità di trasporto di autovetture al seguito del viaggiatore. <br>Si trova in vicinanza dell'accesso per le autovetture da caricare sul treni. <br><br>Non è vero che indica la possibilità di restare in auto durante il suo trasporto in treno, o un'area riservata alla sosta delle autocaravan."
                 },
                 {
                     "val": 59,
-                    "title": "",
-                    "content": ""
+                    "title": "TAXI",
+                    "content": "Indica un'area di sosta ad uso esclusivo dei taxi in servizio, e quindi un'area contrassegnata da strisce gialle con la scritta TAXI.<br><br> Non è vero che il segnale è dotato di luce propria."
                 },
                 {
                     "val": 60,
-                    "title": "",
-                    "content": ""
+                    "title": "Polizia stradale",
+                    "content": "Il segnale raffigurato riporta alcuni dati (località, via, telefoni) del più vicino comando della polizia stradale."
                 }
             ]
         },
@@ -1077,23 +1077,23 @@
             "argomenti": [
                 {
                     "val": 0,
-                    "title": "",
-                    "content": ""
+                    "title": "Semaforo veicolare normale",
+                    "content": "Un semaforo è posto, di norma, in un incrocio e serve a regolare il passaggio dei veicoli (comprese le biciclette) nell'incrocio stesso. <br><br>La sequenza di accensione delle luci del semaforo è: VERDE - GIALLO - ROSSO - VERDE, e quando è accesa una, sono spente le altre. <br><br><h3>Luce verde</h3>La luce verde accesa consente di impegnare l'incrocio con prudenza, quindi svoltare a sinistra (dando la precedenza ai veicoli di fronte e ai pedoni), svoltare a destra (dando la precedenza ai pedoni che attraversano la strada) o proseguire diritto. <br><br>Si può impegnare l'incrocio, soltanto avendo la certezza di poterlo sgomberare prima dell'accensione della luce rossa. <br><br>Avvicinandosi ad un semaforo, che già da molto tempo ha la luce verde accesa, occorre proseguire con prudenza, pronti eventualmente a fermarsi se, quando si accende la luce gialla, non si è ancora impegnato l'incrocio.<br><br><h3>Luce rossa</h3>La luce rossa accesa impone ai veicoli di arrestarsi prima della striscia trasversale d'arresto. <br>Essa può essere di dimensioni più grandi delle altre, in modo che sia facilmente visibile. <br><br>Nei semafori sistemati in verticale la luce rossa si trova in alto, in quelli posti in orizzontale si trova a sinistra. <br><br><h3>Luce gialla</h3>Luce gialla fissa:<ul>    <li>obbliga a fermarsi prima del punto di arresto, purché lo si possa fare in condizioni di sicurezza senza creare pericolo</li>    <li>consente l'attraversamento dell'incrocio se lo si è già impegnato, obbligando a liberarlo al più presto (non è vero che obbliga il conducente a tornare indietro se ha già superato la striscia trasversale di arresto).</li></ul><br>La luce gialla lampeggiante:<ul>    <li>indica un semaforo spento o guasto)</li>    <li>si deve impegnare l'incrocio con prudenza, dando la precedenza ai veicoli provenienti da destra (salvo diversa segnalazione)</li></ul><br>Una luce gialla lampeggiante è anche utilizzata come segnale di pericolo generico che invita a procedere con particolare prudenza e moderare la velocità nei punti di strada pericolosa. <br><br><br>E' consentito quindi il passaggio in presenza del semaforo per veicoli:<ul>    <li>quando è accesa la luce verde</li>    <li>quando si accende la luce gialla fissa, solo se non ci si può arrestare in condizioni di sicurezza prima dell'incrocio</li>    <li>quando è accesa la luce gialla lampeggiante o il semaforo è spento o guasto, usando però la massima prudenza e moderando la velocità</li></ul>"
                 },
                 {
                     "val": 1,
-                    "title": "",
-                    "content": ""
+                    "title": "Semaforo veicolare di corsia",
+                    "content": "I semafori di corsia sono posti in un incrocio e riguardano i veicoli (tutti i tipi di veicoli, anche le biciclette) che devono proseguire nella direzione della freccia. <br><br>Le frecce verdi accese indicano le direzioni verso le quali si può proseguire, quindi è consentito proseguire nella sola direzione della freccia verde. <br>Le frecce rosse accese indicano che non si può proseguire nelle direzioni indicate, quindi impongono l'arresto dei veicoli diretti nel senso della freccia. <br>Le frecce gialle fisse accese indicano di liberare l'incrocio, qualora sia stato già impegnato, o di arrestarsi in condizioni di sicurezza.<br><br> Se spenti o con le frecce gialle lampeggianti accese indicano di attraversare l'incrocio con particolare prudenza. <br><br>Non è vero che sono semafori per corsie reversibili."
                 },
                 {
                     "val": 2,
-                    "title": "",
-                    "content": ""
+                    "title": "Semaforo pedonale",
+                    "content": "Un semaforo pedonale regola il passaggio dei pedoni negli incroci. <br>Può essere dotato di segnalazione acustica per i non vedenti.<br><br><ul>    <li>con luce rossa accesa impone l'arresto dei pedoni prima dell'attraversamento</li>    <li>con luce gialla fissa accesa, impone ai pedoni che hanno già occupato l'attraversamento pedonale di liberarlo rapidamente</li>    <li>con luce verde accesa permette ai pedoni l'attraversamento della strada e comporta per i conducenti l'obbligo di dare la precedenza ai pedoni che attraversano</li></ul><br>Non è vero che obbliga i pedoni a dare la precedenza ai veicoli che svoltano."
                 },
                 {
                     "val": 3,
-                    "title": "",
-                    "content": ""
+                    "title": "Semaforo per velocipedi",
+                    "content": "Un semaforo riservato ai velocipedi (biciclette) si trova all'uscita di una pista ciclabile, per regolare l'attraversamento della strada.<br><br><ul>    <li>con luce verde accesa, consente soltanto ai conducenti di biciclette di attraversare l'incrocio</li>    <li>con luce gialla fissa accesa, impone ai conducenti di biciclette di liberare velocemente l'incrocio se lo hanno già impegnato </li>    <li>con luce rossa accesa, impone l'arresto alle biciclette Non è vero che vale per tutti i veicoli a due ruote</li></ul>"
                 },
                 {
                     "val": 4,
