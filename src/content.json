@@ -655,108 +655,108 @@
                 },
                 {
                     "val": 8,
-                    "title": "",
-                    "content": ""
+                    "title": "Direzioni consentite dritto e a sinistra",
+                    "content": "E' un segnale di prescrizione (obbligo). <br>Indica che le uniche direzioni consentite sono sinistra e diritto. <br>Quindi il segnale permette di svoltare a sinistra e proseguire diritto, ma vieta di svoltare a destra. <br><br>Non è vero che indica una biforcazione pericolosa o che indica di avvicinarsi in ogni caso il più possibile all'asse della carreggiata."
                 },
                 {
                     "val": 9,
-                    "title": "",
-                    "content": ""
+                    "title": "Passaggio obbligatorio a sinistra",
+                    "content": "E' un segnale di prescrizione (obbligo). <br>Obbliga i conducenti a passare a sinistra di un ostacolo (isola di traffico, salvagente, cantiere stradale, spartitraffico, etc.), e quindi lasciare l'ostacolo a destra. <br><br>Non è vero che può essere preceduto dal segnale ROTATORIA. <br>Non è vero che obbliga i conducenti a svoltare a sinistra (non vi è nessun incrocio)."
                 },
                 {
                     "val": 10,
-                    "title": "",
-                    "content": ""
+                    "title": "Passaggio obbligatorio a destra",
+                    "content": "E' un segnale di prescrizione (obbligo).<br> Obbliga i conducenti a passare a destra di un ostacolo (isola di traffico, salvagente, cantiere stradale, spartitraffico, etc.), e quindi lasciare l'ostacolo a sinistra. <br><br>Non è vero che obbliga i conducenti a svoltare a destra (non vi è nessun incrocio)."
                 },
                 {
                     "val": 11,
-                    "title": "",
-                    "content": ""
+                    "title": "Passaggi consentiti a destra e a sinistra",
+                    "content": "E' un segnale di prescrizione (obbligo). <br>Indica al conducente gli unici passaggi consentiti per passare un ostacolo (isola di traffico, salvagente, cantiere stradale, spartitraffico, etc.). <br><br>Si può passare a sinistra lasciando l'ostacolo a destra o passare a destra lasciando l'ostacolo a sinistra. <br><br>Non è vero che obbliga a svoltare (non vi è nessun incrocio). <br>Non è vero è preceduto dal segnale ROTATORIA."
                 },
                 {
                     "val": 12,
-                    "title": "",
-                    "content": ""
+                    "title": "Obbligo di rotatoria",
+                    "content": "E' un segnale di prescrizione. <br>E' posto prima dello sbocco su un'area in cui è prescritta la circolazione rotatoria (un incrocio, una piazza..). <br><br>Obbliga i conducenti a circolare secondo il verso indicato dalle frecce. <br>Su strade extraurbane è preceduto dal segnale di pericolo triangolare CIRCOLAZIONE ROTATORIA. <br>Il segnale viene posto prima dell'incrocio sul lato destro. <br><br>Non è vero che è collocato sulla colonnina luminosa posta al centro di una rotatoria o che è integrato con un segnale di PASSAGGIO OBBLIGATORIO A SINISTRA."
                 },
                 {
                     "val": 13,
-                    "title": "",
-                    "content": ""
+                    "title": "Limite minimo di velocità",
+                    "content": "E' un segnale di prescrizione. <br>Indica il limite di velocità al di sotto del quale è vietato circolare (limite minimo di velocità). <br><br>Vieta, quindi, il transito ai veicoli che non siano in grado di osservare la prescrizione. <br>Nonostante sia necessario circolare a velocità maggiore di quella indicata bisogna, comunque, rispettare i limiti di velocità massima per il tipo di strada che si percorre."
                 },
                 {
                     "val": 14,
-                    "title": "",
-                    "content": ""
+                    "title": "Fine limite minimo di velocità",
+                    "content": "E' un segnale di prescrizione. <br>Indica la fine del limite minimo di velocità. <br><br>Consente quindi di circolare sia a velocità minore, che maggiore di quella indicata, sempre nei limiti massimi di velocità vigenti per quella strada."
                 },
                 {
                     "val": 15,
-                    "title": "",
-                    "content": ""
+                    "title": "Transito obbligatorio con catene o pneumatici da neve",
+                    "content": "E' un segnale di prescrizione (obbligo).<br> Consente il transito solo ai veicoli muniti di catene o pneumatici invernali. <br><br>Il segnale si trova su strade che, in particolari condizioni, sono innevate o ghiacciate e quindi occorre procedere con particolare prudenza. <br><br>Non è vero che presegnala la progressiva chilometrica oltre la quale è obbligatorio l'uso delle catene o che vieta la circolazione a veicoli muniti di pneumatici con spessore del battistrada inferiore a 3 millimetri."
                 },
                 {
                     "val": 16,
-                    "title": "",
-                    "content": ""
+                    "title": "Percorso pedonale",
+                    "content": "E' un segnale di prescrizione (obbligo). <br>Indica l'inizio di un viale/area pedonale (destinata al transito di pedoni). <br>Quindi non consente il transito ai veicoli. <br>Vale 24 ore su 24. <br><br>Non indica un attraversamento pedonale oppure un percorso pedonale e ciclabile (per questi sono presenti altri segnali)."
                 },
                 {
                     "val": 17,
-                    "title": "",
-                    "content": ""
+                    "title": "Fine percorso pedonale",
+                    "content": "E' un segnale di prescrizione (obbligo). <br>Indica la fine di un viale/area pedonale (destinata al transito di pedoni).<br> Quindi indica che da lì in poi i pedoni non circolano più su un percorso riservato. <br><br>Non è vero che vieta ai pedoni di attraversare la strada o che indica la fine di un attraversamento pedonale."
                 },
                 {
                     "val": 18,
-                    "title": "",
-                    "content": ""
+                    "title": "Pista ciclabile",
+                    "content": "E' un segnale di prescrizione (obbligo). <br>Indica l'inizio di una pista, una corsia, un percorso o un itinerario riservati ai velocipedi (biciclette).<br> Quindi non consente il transito né ai veicoli, né ai pedoni. <br><br>Non indica un attraversamento ciclabile (per questo è presente un altro segnale)."
                 },
                 {
                     "val": 19,
-                    "title": "",
-                    "content": ""
+                    "title": "Fine pista ciclabile",
+                    "content": "E' un segnale di prescrizione (obbligo). <br>Indica la fine di una pista, una corsia, un percorso o un itinerario riservati ai velocipedi (biciclette). <br><br>Non è vero che non è più consentito il transito alle biciclette (e/o ai pedoni) o che indica la fine di un attraversamento ciclabile."
                 },
                 {
                     "val": 20,
-                    "title": "",
-                    "content": ""
+                    "title": "Pista ciclabile contigua a marciapiede",
+                    "content": "E' un segnale di prescrizione (obbligo). <br>Indica l'inizio di un percorso, una pista o una corsia riservati ai velocipedi (biciclette) affiancato e parallelo ad un marciapiede, ad un viale pedonale o comunque ad un percorso riservato ai pedoni. <br><br>Quindi non consente il transito ai veicoli a motore.<br> Non è vero che è posto in corrispondenza di un viale misto, riservato sia ai pedoni che ai ciclisti (sono separati)."
                 },
                 {
                     "val": 21,
-                    "title": "",
-                    "content": ""
+                    "title": "Percorso pedonale e ciclabile",
+                    "content": "E' un segnale di prescrizione (obbligo). <br>Indica l'inizio di un percorso, un viale, un itinerario riservato al transito di pedoni e ciclisti.<br><br> Quindi non consente il transito ai veicoli a motore.<br> Non è vero che è posto in corrispondenza di percorso ciclabile a fianco di un percorso riservato ai pedoni (il percorso è unico e ad uso promiscuo)"
                 },
                 {
                     "val": 22,
-                    "title": "",
-                    "content": ""
+                    "title": "Fine pista ciclabile affiancata a marciapiede",
+                    "content": "E' un segnale di prescrizione (obbligo). <br>Indica la fine di un percorso, una pista o una corsia riservati ai velocipedi (biciclette) affiancato e parallelo ad un marciapiede, ad un viale pedonale o comunque ad un percorso riservato ai pedoni. <br><br>Non è vero che vieta il transito a tutti i veicoli a due ruote o ai pedoni."
                 },
                 {
                     "val": 23,
-                    "title": "",
-                    "content": ""
+                    "title": "Fine percorso pedonale e ciclabile",
+                    "content": "E' un segnale di prescrizione (obbligo). <br>Indica la fine di un percorso, un viale, un itinerario riservato al transito di pedoni e ciclisti. <br><br>Non è vero che vieta il transito alle biciclette o ai pedoni."
                 },
                 {
                     "val": 24,
-                    "title": "",
-                    "content": ""
+                    "title": "Percorso riservato ai quadrupedi da soma e da sella",
+                    "content": "E' un segnale di prescrizione (obbligo). <br>Indica l'inizio di un percorso o passaggio riservato agli animali da soma e da sella (esempio cavalli). <br>Vieta il transito a tutti i veicoli (compresi i velocipedi ) e i pedoni.<br><br> Non è vero che è posto nelle vicinanze di una scuola di equitazione, preannuncia la presenza di animali vaganti o preannuncia l'obbligo di dare precedenza agli animali che attraversano."
                 },
                 {
                     "val": 25,
-                    "title": "",
-                    "content": ""
+                    "title": "Fine percorso riservato ai quadrupedi da soma e da sella",
+                    "content": "E' un segnale di prescrizione (obbligo). <br>Indica la fine di un percorso o passaggio riservato agli animali da soma e da sella (esempio cavalli). <br><br>Non è vero che vieta il transito agli animali."
                 },
                 {
                     "val": 26,
-                    "title": "",
-                    "content": ""
+                    "title": "ALT - Dogana",
+                    "content": "E' un segnale di prescrizione (obbligo). <br>Segnala un varco doganale con un paese non facente parte della comunità europea (paese extracomunitario) al quale è obbligatorio fermarsi.<br><br> Indica, quindi, che bisogna rallentare e fermarsi alla dogana anche se non si hanno oggetti o merci da dichiarare."
                 },
                 {
                     "val": 27,
-                    "title": "",
-                    "content": ""
+                    "title": "ALT - Polizia",
+                    "content": "Il segnale ALT POLIZIA deve essere posto per segnalare un posto di blocco stradale istituito da organi di polizia al quale è obbligatorio fermarsi. <br><br>Il segnale è di impiego mobile, deve essere posto a distanza opportuna dal posto di blocco e deve essere avvistabile con sicurezza e in tempo utile affinchè il conducente possa adeguare la sua condotta, tenuto conto delle condizioni plano altimetriche della strada e della velocità predominante dei veicoli nel tratto che precede il posto di blocco. <br><br>Il segnale deve essere ripetuto all'altezza del punto di arresto.<br> Entrambi i segnali devono essere posti in modo da non costituire pericolo o pregiudizio per la sicurezza stradale. <br><br>E' consentito ripetere il segnale nella lingua dello stato confinante quando il posto di blocco è in prossimità della zona di confine."
                 },
                 {
                     "val": 28,
-                    "title": "",
-                    "content": ""
+                    "title": "ALT - Stazione",
+                    "content": "E' un segnale di prescrizione (obbligo).<br> Segnala una stazione autostradale (accesso autostradale controllato) alla quale è obbligatorio fermarsi.<br><br> Impone, quindi, l'obbligo di rallentare e fermarsi per le operazioni di pedaggio autostradale."
                 }
             ]
         },
@@ -766,38 +766,38 @@
             "argomenti": [
                 {
                     "val": 0,
-                    "title": "",
-                    "content": ""
+                    "title": "Senso unico parallelo",
+                    "content": "Indica che la circolazione sul tratto di strada su cui è posto è a senso unico, in particolare una volta svoltato la strada è a senso unico.<br><br> Quindi una volta svoltato nel senso della freccia non è possibile marciare in senso opposto (ad es è vietata l'inversione di marcia). <br><br>Non è vero che il segnale vieta di proseguire diritto."
                 },
                 {
                     "val": 1,
-                    "title": "",
-                    "content": ""
+                    "title": "Senso unico frontale",
+                    "content": "Indica che la circolazione sul tratto di strada su cui è posto è a senso unico, in particolare indica l'inizio di una strada a senso unico. <br><br>Quindi dopo di esso non è possibile marciare in senso opposto (ad es è vietata l'inversione di marcia). <br><br>Non è vero che il segnale indica l'obbligo di proseguire diritto."
                 },
                 {
                     "val": 2,
-                    "title": "",
-                    "content": ""
+                    "title": "Preavviso di intersezione urbana",
+                    "content": "Preavvisa un incrocio urbano (è su fondo bianco), riportando i nomi dei luoghi raggiungibili. <br><br>In questo caso indica di svoltare a destra per raggiungere la stazione ferroviaria e il centro; indica di proseguire dritto per Sora e Napoli."
                 },
                 {
                     "val": 3,
-                    "title": "",
-                    "content": ""
+                    "title": "Preavviso di diramazione urbana",
+                    "content": "Preavvisa un incrocio urbano (è su fondo bianco), riportando i nomi dei luoghi raggiungibili.<br><br> In questo caso indica di svoltare a destra per raggiungere il centro; indica di proseguire dritto per Milano."
                 },
                 {
                     "val": 4,
-                    "title": "",
-                    "content": ""
+                    "title": "Preavviso di intersezioni ravvicinate urbane",
+                    "content": "Indica la presenza di due incroci successivi ravvicinati (a breve distanza) urbani (è su fondo bianco). <br><br>Al primo incrocio è vietato svoltare a sinistra (per la presenza del segnale 'SENSO VIETATO') e si svolta a destra per via Gemona; al secondo incrocio (in fondo) si svolta a destra per il centro della città e per Trieste (Grado e Cividale) mentre si svolta a sinistra per l'ospedale o per l'Austria (Tarvisio e Tolmezio)."
                 },
                 {
                     "val": 5,
-                    "title": "",
-                    "content": ""
+                    "title": "Preavviso di intersezione urbana con circolazione rotatoria",
+                    "content": "E' un preavviso di incrocio urbano regolato con circolazione rotatoria. <br>Contiene lo schema della rotatoria e riporta i nomi delle località raggiungibili.<br><br> Bisogna svoltare alla prima traversa a destra per raggiungere Forlì, alla seconda per raggiungere la tangenziale e alla terza per il centro della città."
                 },
                 {
                     "val": 6,
-                    "title": "",
-                    "content": ""
+                    "title": "Preavviso di intersezione urbana con limitazione di transito",
+                    "content": "E' un preavviso di incrocio urbano con limitazione di transito.<br><br> Preavvisa una limitazione di transito sulla strada diretta a Pescara, in particolare: - vieta agli autocarri di massa superiore a 3,5 t (non tutti) di proseguire diritto per il centro di Avezzano - consente agli autobus e alle autovetture di continuare diritto - preavvisa di svoltare a sinistra all'incrocio urbano per raggiungere l'autostrada Roma-L'Aquila."
                 },
                 {
                     "val": 7,

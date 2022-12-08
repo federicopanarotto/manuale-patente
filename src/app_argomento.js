@@ -52,15 +52,15 @@ back_button.addEventListener("click", () => {
     }
 });
 
-if(img_counter == 0) { 
-    setTimeout(() => {
-        back_button.href = "capitolo.html";
-    }, 0);
-} 
-if(img_counter == data.capitoli[capitolo].argomenti.length-1) {
-    setTimeout(() => {
-        next_button.href = "capitolo.html";
-        capitolo++;
-        localStorage.setItem("capitolo", capitolo);
-    }, 0);
-}
+// if(img_counter == 0) { 
+//     setTimeout(() => {
+//         back_button.href = "capitolo.html";
+//     }, 0);
+// } 
+// if(img_counter == data.capitoli[capitolo].argomenti.length-1) {
+//     setTimeout(() => {
+//         next_button.href = "capitolo.html";
+//         capitolo++;
+//         localStorage.setItem("capitolo", capitolo);
+//     }, 0);
+// }
