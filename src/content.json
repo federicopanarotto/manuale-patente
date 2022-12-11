@@ -1097,12 +1097,12 @@
                 },
                 {
                     "val": 4,
-                    "title": "",
-                    "content": ""
+                    "title": "Semaforo per veicoli di trasporto pubblico",
+                    "content": "Un semaforo per i veicoli di trasporto pubblico vale solo per i veicoli in servizio di linea per trasporto di persone (autobus, tram, taxi, quindi non solo ai veicoli che marciano su rotaie). <br><br>Vengono posti negli incroci e funzionano in coordinamento con le luci degli altri semafori. <br><br><ul>    <li>impone l'arresto quando è accesa la barra bianca in alto</li>    <li>consente di proseguire quando è accesa la barra bianca in basso</li>    <li>consentono di procedere a destra o a sinistra se è accesa una barra bianca inclinata verso destra o verso sinistra </li>    <li>indica preavviso di arresto quando è acceso il triangolo giallo al centro</li></lu>"
                 },
                 {
                     "val": 5,
-                    "title": "",
+                    "title": "Semaforo per corsie reversibili",
                     "content": ""
                 },
                 {
