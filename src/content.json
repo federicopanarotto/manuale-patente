@@ -1113,42 +1113,42 @@
                 {
                     "val": 7,
                     "title": "Lanterne semaforiche gialle lampeggianti",
-                    "content": "La luce gialla lampeggiante, del tipo B o C in figura, è affiancata al semaforo veicolare per ricordare ai veicoli che nello svoltare a destra: - devono dare la precedenza alle biciclette (tipo C) - devono dare la precedenza ai pedoni (tipo B) Il tipo A, che si trova quando il semaforo è spento o guasto, prescrive di usare prudenza, diminuire la velocità e dare precedenza ai veicoli di destra. Una luce gialla lampeggiante, del tipo A, può essere posta in punti pericolosi della strada come segnale di pericolo generico che invita a procedere con particolare prudenza e moderare la velocità."
+                    "content": "La luce gialla lampeggiante, del tipo B o C in figura, è affiancata al semaforo veicolare per ricordare ai veicoli che nello svoltare a destra:<br><ul>    <li>devono dare la precedenza alle biciclette (tipo C)</li>    <li>devono dare la precedenza ai pedoni (tipo B)</li></ul><br>Il tipo A, che si trova quando il semaforo è spento o guasto, prescrive di usare prudenza, diminuire la velocità e dare precedenza ai veicoli di destra. <br><br>Una luce gialla lampeggiante, del tipo A, può essere posta in punti pericolosi della strada come segnale di pericolo generico che invita a procedere con particolare prudenza e moderare la velocità."
                 },
                 {
                     "val": 8,
-                    "title": "",
-                    "content": ""
+                    "title": "Lanterne semaforiche speciali",
+                    "content": "Quando in funzione si accendono alternativamente vietano il passaggio di veicoli e pedoni e obbligano ad arrestarsi e non superare la striscia trasversale d'arresto. <br><br>Si possono trovare in un passaggio a livello ferroviario con semibarriere o senza barriere, all'accesso di un pontile d'imbarco di navi traghetto o di un ponte mobile, quando vi sono aerei in atterraggio o in decollo (ad integrazione del segnale di pericolo AEROMOBILI A BASSA QUOTA).<br><br> Di norma, sono situate sul lato destro della strada e sono integrate da un dispositivo di segnalazione acustica. <br>Nei passaggi a livello sono poste nelle immediate vicinanze dei binari ed entrano in funzione poco prima dell'arrivo del treno, prima dell'inizio dell'abbassamento delle semibarriere, e rimangono accese fino alla fine del suo passaggio. <br><br>Quindi avvicinandosi ad un passaggio a livello con luci rosse lampeggianti alternativamente e semibarriera ancora alzata, occorre predisporsi all'arresto. <br><br>Non è vero che si trovano in vicinanza di un posto di blocco della polizia, lungo le linee ferroviarie, come semaforo per i conducenti dei treni, 150 metri prima di un passaggio a livello o sul primo dei pannelli distanziometrici."
                 },
                 {
                     "val": 9,
-                    "title": "",
-                    "content": ""
+                    "title": "Vigile a braccia aperte perpendicolarmente alla direzione di marcia",
+                    "content": "Il vigile si dispone con le braccia aperte verso la nostra direzione come in figura. <br><br>Equivale alla luce rossa del semaforo quindi bisogna arrestarsi prima della striscia trasversale di arresto ed è vietato il passaggio (quindi non si può svoltare a sinistra, destra o proseguire diritto)."
                 },
                 {
                     "val": 10,
-                    "title": "",
-                    "content": ""
+                    "title": "Vigile a braccia distese orizzontalmente lungo la nostra direzione di marcia",
+                    "content": "Il vigile si dispone di profilo con le braccia aperte come in figura.<br><br> Equivale alla luce verde del semaforo: è consentito il passaggio (usando comunque prudenza) delle correnti di traffico che scorrono parallele alle sue braccia (che provengono dalla sua destra o sinistra). <br><br>Quindi è possibile proseguire diritto, svoltare a destra (dando la precedenza ai pedoni che attraversano la strada trasversale), svoltare a sinistra (dando la precedenza ai veicoli provenienti di fronte e ai pedoni)."
                 },
                 {
                     "val": 11,
-                    "title": "",
-                    "content": ""
+                    "title": "Vigile con un braccio alzato verticalmente",
+                    "content": "Il vigile ha un braccio alzato come in figura. <br><br>Equivale alla luce gialla fissa del semaforo<br><br>Bisogna:<ul>    <li>arrestarsi prima dell'incrocio, se è possibile farlo senza creare pericolo</li>    <li>liberare velocemente l'incrocio, se già è stato impegnato</li></ul>"
                 },
                 {
                     "val": 12,
-                    "title": "",
-                    "content": ""
+                    "title": "Vigile con braccio ad angolo retto",
+                    "content": "Il vigile disposto con le braccia ad angolo retto, come in figura, consente ai veicoli che provengono dalla sua sinistra di proseguire verso tutte le direzioni, quindi di svoltare a sinistra e a destra, e di proseguire diritto. <br><br>Ferma, invece, i veicoli che provengono dalle altre direzioni (dalla sua destra, dalle sue spalle e di fronte)"
                 },
                 {
                     "val": 13,
-                    "title": "",
-                    "content": ""
+                    "title": "Il suono prolungato del fischietto da parte del vigile",
+                    "content": "Ha lo scopo di consentire il passaggio di veicoli di soccorso in servizio di emergenza (ambulanza, vigili del fuoco, polizia). <br><br>Significa che tutti i veicoli si devono arrestare, in condizioni di sicurezza.<br>Quindi:<ul><li>occorre arrestarsi, se non si è ancora occupato l'incrocio</li><li>impone a chi ha impegnato l'incrocio di liberarlo ed eventualmente di arrestarsi subito dopo</li></ul>"
                 },
                 {
                     "val": 14,
-                    "title": "",
-                    "content": ""
+                    "title": "Segni distintivi degli agenti del traffico e documenti da esibire in caso di controllo",
+                    "content": "Gli agenti del traffico possono essere riconosciuti dall'uniforme (la divisa) dal segnale distintivo e dalla 'paletta' bianca e rossa.<br><br> Non è vero che vengono riconosciuti dai guantoni e dalle strisce rifrangenti.<br><br> Chi guida autoveicoli o motocicli, a richiesta degli agenti, deve esibire (mostrare) i seguenti documenti: la patente di guida, la carta di circolazione, il certificato di assicurazione, il segnale mobile di pericolo (triangolo)"
                 }
             ]
         },
