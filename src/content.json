@@ -1103,17 +1103,17 @@
                 {
                     "val": 5,
                     "title": "Semaforo per corsie reversibili",
-                    "content": ""
+                    "content": "È posto su una carreggiata a doppio senso di circolazione con almeno tre corsie (con due luci rossa e verde anche caselli autostradali) per regolare l'uso delle corsie stesse da parte dei veicoli (tutti i tipi di veicoli).<br><br> <ul>    <li>consente di impegnare la corsia indicata dalla freccia verde</li>    <li>non consente di occupare la corsia indicata con luce rossa a forma di X </li>    <li>la luce gialla lampeggiante obbliga il conducente a spostarsi nella corsia indicata dalla freccia</li></ul><br>Non è vero che vale anche per i pedoni, mentre vale per le biciclette. <br>Non è vero che la corsia con luce rossa accesa impone di fermarsi ed attendere il segnale di via libera."
                 },
                 {
                     "val": 6,
-                    "title": "",
-                    "content": ""
+                    "title": "Lanterne semaforiche speciali - ONDA VERDE",
+                    "content": "I semafori di 'onda verde' sono semafori sincronizzati e sono installati su itinerari a più incroci. <br>Consigliano al conducente di mantenere la velocità indicata dal simbolo luminoso acceso per trovare la luce verde ai semafori successivi (usufruire dell'onda verde). <br><br>Quindi delle tre luci del semaforo se ne accende soltanto una per volta. <br>Attenzione non obbligano a mantenere la velocità indicata, lo consigliano. <br>Non è vero che viene posto su autostrade (non esistono incroci a raso)."
                 },
                 {
                     "val": 7,
-                    "title": "",
-                    "content": ""
+                    "title": "Lanterne semaforiche gialle lampeggianti",
+                    "content": "La luce gialla lampeggiante, del tipo B o C in figura, è affiancata al semaforo veicolare per ricordare ai veicoli che nello svoltare a destra: - devono dare la precedenza alle biciclette (tipo C) - devono dare la precedenza ai pedoni (tipo B) Il tipo A, che si trova quando il semaforo è spento o guasto, prescrive di usare prudenza, diminuire la velocità e dare precedenza ai veicoli di destra. Una luce gialla lampeggiante, del tipo A, può essere posta in punti pericolosi della strada come segnale di pericolo generico che invita a procedere con particolare prudenza e moderare la velocità."
                 },
                 {
                     "val": 8,
