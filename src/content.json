@@ -1265,133 +1265,133 @@
             "argomenti": [
                 {
                     "val": 0,
-                    "title": "",
-                    "content": ""
+                    "title": "Distanza",
+                    "content": "Indica la distanza (in metri o chilometri) tra il segnale sotto cui è posto ed il punto di inizio del pericolo, della prescrizione (divieto, obbligo o precedenza) o dell'indicazione."
                 },
                 {
                     "val": 1,
-                    "title": "",
-                    "content": ""
+                    "title": "Estesa",
+                    "content": "Indica la lunghezza (in metri o chilometri) del tratto di pericolo o di prescrizione (divieto o obbligo)."
                 },
                 {
                     "val": 2,
-                    "title": "",
-                    "content": ""
+                    "title": "Validità oraria",
+                    "content": "Indica, sia nei giorni festivi che in quelli lavorativi (feriali), le ore durante le quali vale la prescrizione imposta dal segnale sotto cui il pannello è applicato."
                 },
                 {
                     "val": 3,
-                    "title": "",
-                    "content": ""
+                    "title": "Validità oraria (giorni festivi)",
+                    "content": "Indica, che la prescrizione imposta dal segnale sotto cui il pannello è applicato è valida nei giorni festivi e nelle ore indicate. <br>Per giorno festivo non si intende solo la domenica."
                 },
                 {
                     "val": 4,
-                    "title": "",
-                    "content": ""
+                    "title": "Valida oraria (giorni feriali)",
+                    "content": "Indica, che la prescrizione imposta dal segnale sotto cui il pannello è applicato è valida nei giorni lavorativi (feriali) e nelle ore indicate."
                 },
                 {
                     "val": 5,
-                    "title": "",
-                    "content": ""
+                    "title": "Limitazione",
+                    "content": "Indica che il segnale di obbligo o di divieto al quale è abbinato vale solo per i veicoli rappresentati."
                 },
                 {
                     "val": 6,
-                    "title": "",
-                    "content": ""
+                    "title": "Eccezione",
+                    "content": "Indica che il segnale di obbligo o di divieto al quale è abbinato vale per tutti i veicoli tranne quelli rappresentati."
                 },
                 {
                     "val": 7,
-                    "title": "",
-                    "content": ""
+                    "title": "Inizio",
+                    "content": "Indica il punto di inizio del pericolo, della prescrizione (divieto, obbligo o precedenza) dell'indicazione imposta dal segnale a cui è abbinato."
                 },
                 {
                     "val": 8,
-                    "title": "",
-                    "content": ""
+                    "title": "Continuazione",
+                    "content": "Indica che il pericolo, la prescrizione (divieto, obbligo o precedenza) o l'indicazione imposta dal segnale a cui è abbinato continuano a valere sia prima che dopo il segnale stesso."
                 },
                 {
                     "val": 9,
-                    "title": "",
-                    "content": ""
+                    "title": "Fine",
+                    "content": "Indica il punto di fine del pericolo, della prescrizione (divieto, obbligo o precedenza) o dell'indicazione imposta dal segnale a cui è abbinato."
                 },
                 {
                     "val": 10,
-                    "title": "",
-                    "content": ""
+                    "title": "Segnale di corsia",
+                    "content": "Posto in alto sulla carreggiata insieme ad un segnale, specifica a quale corsia si riferisce il segnale, ad esempio se posto insieme ad un segnale indicante una località, segnala la corsia da prendere per raggiungere detta località. <br><br>Indica che il segnale a cui è abbinato vale solo per la corsia indicata."
                 },
                 {
                     "val": 11,
-                    "title": "",
-                    "content": ""
+                    "title": "Segnaletica orizzontale in rifacimento",
+                    "content": "Tale pannello viene applicato al segnale 'ALTRI PERICOLI' o 'LAVORI IN CORSO' e indica possibili lavori di rifacimento della segnaletica orizzontale. <br><br>Può quindi indicare una temporanea mancanza di segnaletica orizzontale e la presenza di cantieri temporanei di rifacimento della segnaletica orizzontale."
                 },
                 {
                     "val": 12,
-                    "title": "",
-                    "content": ""
+                    "title": "Incidente",
+                    "content": "Tale pannello viene posto sotto il segnale 'ALTRI PERICOLI' e indica la presenza di un incidente e quindi di veicoli incidentati sulla carreggiata. <br><br>Pertanto è opportuno moderare la velocità e, ove possibile, scegliere un percorso alternativo."
                 },
                 {
                     "val": 13,
-                    "title": "",
-                    "content": ""
+                    "title": "Attraversamento di binari di manovra",
+                    "content": "Tale pannello viene applicato al segnale 'ALTRI PERICOLI' e indica la presenza di un attraversamento di binari ferroviari. <br><br>Invita a moderare la velocità e prestare particolare attenzione. <br>Può trovarsi dove il veicolo su binari passa raramente, quindi nella vicinanza di raccordi portuali, scali merci o stabilimenti industriali.<br><br> Non è vero che indica la presenza di un passaggio a livello."
                 },
                 {
                     "val": 14,
-                    "title": "",
-                    "content": ""
+                    "title": "Sgombraneve in azione",
+                    "content": "Tale pannello viene applicato al segnale 'ALTRI PERICOLI' e indica la presenza di macchine sgombraneve a lavoro sulla strada (in genere posto su strade innevate). <br><br>Invita a moderare la velocità e a mantenere una distanza di almeno 20 metri dalle macchine sgombraneve in funzione. <br><br>Non è vero che indica l'obbligo di montare le catene o che la strada è percorribile solo dopo che è passato lo sgombraneve."
                 },
                 {
                     "val": 15,
-                    "title": "",
-                    "content": ""
+                    "title": "Mezzi di lavoro in azione",
+                    "content": "Indica la presenza di cantieri stradali con la possibilità che vi siano macchine operatrici (escavatori, pale meccaniche, etc) in azione sulla strada.<br><br> Invita a moderare la velocità e prestare particolare attenzione."
                 },
                 {
                     "val": 16,
-                    "title": "",
-                    "content": ""
+                    "title": "Zona soggetta ad allagamento",
+                    "content": "Indica che il tratto di strada su cui è posto può essere soggetto ad allagamenti a causa di forte pioggia o mareggiate. <br>Può essere collocato anche sotto il segnale 'Cunetta'."
                 },
                 {
                     "val": 17,
-                    "title": "",
-                    "content": ""
+                    "title": "Coda",
+                    "content": "Indica la possibilità di trovare traffico intenso, con formazione di colonne di veicoli. <br><br>Invita ad usare prudenza, per non tamponare veicoli fermi per intasamento del traffico, consiglia, ove possibile, di scegliere un percorso alternativo evitando così la coda. <br>Si può trovare ad esempio all'ingresso delle autostrade. <br><br>Non è vero che obbliga i veicoli a circolare a passo d'uomo."
                 },
                 {
                     "val": 18,
-                    "title": "",
-                    "content": ""
+                    "title": "Strada sdrucciolevole per ghiaccio",
+                    "content": "Indica la possibilità di trovare tratti di strada ghiacciati in caso di bassa temperatura, o su strade già coperte di neve. <br><br>Posto sotto il segnale 'STRADA SDRUCCIOLEVOLE' indica un tratto di strada sdrucciolevole per la formazione di ghiaccio in caso di abbassamento della temperatura. <br>Invita a moderare la velocità e prestare particolare attenzione. <br><br>Non è vero che indica una zona dove nevica spesso"
                 },
                 {
                     "val": 19,
-                    "title": "",
-                    "content": ""
+                    "title": "Strada sdrucciolevole per pioggia",
+                    "content": "Indica un tratto di strada pericoloso in caso di pioggia perché sdrucciolevole per la presenza di fango o detriti. <br>Invita, in caso di pioggia, a moderare la velocità ad aumentare la distanza di sicurezza. <br><br>Non è vero che indica una zona dove piove spesso."
                 },
                 {
                     "val": 20,
-                    "title": "",
-                    "content": ""
+                    "title": "Autocarri in rallentamento",
+                    "content": "Indica un tratto di strada in salita con probabile presenza di autocarri che marciano a bassa velocità a causa della ripida salita che costringe loro di rallentare. <br><br>Indica di circolare ad una velocità prudenziale, per evitare incidenti con gli autocarri che potrebbero stare davanti. <br><br>Non è vero che segnala la possibilità di poter essere trainati."
                 },
                 {
                     "val": 21,
-                    "title": "",
-                    "content": ""
+                    "title": "Zona Rimozione",
+                    "content": "Viene applicato al segnale 'DIVIETO DI SOSTA' e indica che il veicolo lasciato in sosta può essere portato in una depositeria comunale dal carro-attrezzi o bloccato con attrezzo a chiave (ganascia con catenaccio).<br><br> I veicoli al servizio di persone diversamente abili, muniti di apposito contrassegno, non possono essere portati via, né bloccati. <br><br>Non è vero che il veicolo viene rimosso o bloccato dopo tre ore."
                 },
                 {
                     "val": 22,
-                    "title": "",
-                    "content": ""
+                    "title": "Tornante",
+                    "content": "Indica la vicinanza di una o più curve strette (tornanti), particolarmente pericolose per l'assenza di visibilità. <br>Si può trovare sotto il segnale di CURVA o DOPPIA CURVA. <br><br>Da non confondere con il segnale complementare 'NUMERO DEL TORNANTE' (figura 144) che indica il numero progressivo del tornante. <br>Quest'ultimo si trova nel capitolo relativo ai segnali complementari."
                 },
                 {
                     "val": 23,
-                    "title": "",
-                    "content": ""
+                    "title": "Pulizia meccanica della strada",
+                    "content": "E' posto sotto il segnale 'DIVIETO DI SOSTA' e indica il giorno e le fasce orarie in cui vengono effettuate le pulizie della strada, limitando il divieto ai giorni e alle ore indicate. <br><br>Non è vero che il pannello indica un divieto di sosta per i mezzi di pulizia."
                 },
                 {
                     "val": 24,
-                    "title": "",
-                    "content": ""
+                    "title": "Andamento della strada principale",
+                    "content": "Sono posti sotto i segnali di diritto di precedenza. In vicinanza di una intersezione (incrocio), indicano l'andamento (lo schema) della strada principale (riga più larga) distinguendola da quelle secondarie.<br><br> Non possono essere posti in autostrada in quanto l'autostrada non prevede incroci a raso. <br><br>Non è vero che indicano delle curve pericolose o sottopassaggi o strade senza uscita o che le strade che si incrociano sono momentaneamente interrotte."
                 },
                 {
                     "val": 25,
-                    "title": "",
-                    "content": ""
+                    "title": "Numero del tornante",
+                    "content": "In una serie di tornanti, ne indica il numero progressivo (non il numero complessivo che può essere indicato, invece, sul pannello integrativo 'TORNANTE' di figura 143. <br><br>Indica quindi la vicinanza di una curva stretta e pericolosa (tornante).<br><br>Non è vero che indica a quanti chilometri di distanza si trova il prossimo tornante."
                 }
                 
             ]
