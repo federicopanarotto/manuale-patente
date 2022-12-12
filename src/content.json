@@ -1158,103 +1158,103 @@
             "argomenti": [
                 {
                     "val": 0,
-                    "title": "",
-                    "content": ""
+                    "title": "Delineatori normali di margine su strada a doppio senso",
+                    "content": "Sono segnali complementari posti ai margini della carreggiata su strade a doppio senso di circolazione (non sono usati su strade a senso unico). <br><br>Servono ad indicare a distanza i margini e quindi l'andamento della strada. Sono utili soprattutto in caso di scarsa visibilità (non solo nelle ore notturne). <br><br>Non è vero che vengono posti a 100 metri uno dall'altro."
                 },
                 {
                     "val": 1,
-                    "title": "",
-                    "content": ""
+                    "title": "Delineatori normali di margine su strada a senso unico",
+                    "content": "Sono segnali complementari posti ai margini della carreggiata su strade a senso unico di circolazione. <br><br>Servono ad indicare a distanza i margini e quindi l'andamento della strada.<br> Sono utili soprattutto in caso di scarsa visibilità (non solo nelle ore notturne).<br><br> Possono essere sostituiti da elementi rifrangenti nel caso in cui ai margini della carreggiata sono presenti muri o ringhiere."
                 },
                 {
                     "val": 2,
-                    "title": "",
-                    "content": ""
+                    "title": "Delineatori per gallerie",
+                    "content": "Sono segnali complementari utilizzati nelle gallerie a senso unico di circolazione per indicare il margine, sono obbligatori nelle gallerie con curve. <br><br>Si possono trovare anche in presenza di strettoie o deviazioni permanenti della carreggiata. <br><br>Non è vero che ha luce propria."
                 },
                 {
                     "val": 3,
-                    "title": "",
-                    "content": ""
+                    "title": "Delineatori per strade di montagna",
+                    "content": "Tale segnale complementare è posto ai lati della carreggiata nelle strade di montagna.<br><br> Viene utilizzato per rendere meglio visibili i bordi della carreggiata di una strada innevata."
                 },
                 {
                     "val": 4,
-                    "title": "",
-                    "content": ""
+                    "title": "Delineatore di curva stretta",
+                    "content": "Utilizzato sia su strade urbane che strade extraurbane (principali e secondarie). <br>Segnala l'andamento di curve strette e pericolose con mancanza di visibilità. <br><br>Invita il conducente a fare attenzione nel percorrere una curva.<br> Le frecce sono orientate nella direzione della curva. <br><br>Se in prossimità di un cantiere stradale è bianco e rosso, in tal caso indica una deviazione temporanea con curva. <br>Può essere preceduto dal segnale di pericolo 'CURVA PERICOLOSA A SINISTRA'."
                 },
                 {
                     "val": 5,
-                    "title": "",
-                    "content": ""
+                    "title": "Delineatore modulare di curva",
+                    "content": "Tale segnale complementare si trova in serie di più elementi per evidenziare il lato esterno di una curva pericolosa (migliorandone la visibilità).<br><br> Risulta utile ai fini di aumentare la visibilità dell'andamento della strada a distanza. <br>Se bianco e rosso indica una deviazione temporanea in presenza di cantieri stradali. <br><br>Non è vero che si trova 150 metri prima di una curva, o che si trova solo se la curva è su strada a senso unico."
                 },
                 {
                     "val": 6,
-                    "title": "",
-                    "content": ""
+                    "title": "Delineatore di incrocio a 'T'",
+                    "content": "Tale segnale è posto trasversalmente alla strada che si sta percorrendo in corrispondenza di incroci a 'T', ossia incroci dove non è possibile proseguire diritto. <br><br>Le frecce sono orientate nelle uniche direzioni possibili, pertanto indica la necessità di svoltare a destra o a sinistra. <br><br>Per segnalare deviazioni temporanee è di colore bianco e rosso."
                 },
                 {
                     "val": 7,
-                    "title": "",
-                    "content": ""
+                    "title": "Delineatore speciale di ostacolo",
+                    "content": "E' un pannello usato insieme al segnale di PASSAGGIO OBBLIGATORIO o PASSAGGIO CONSENTITO, posto all'interno della carreggiata, in presenza di un ostacolo (salvagente, isola di traffico, spartitraffico). <br><br>E' rifrangente, per una migliore visibilità nelle ore notturne. <br><br>Non è vero che è dotato di luce propria."
                 },
                 {
                     "val": 8,
-                    "title": "",
-                    "content": ""
+                    "title": "Lavori",
+                    "content": "Preavvisa lavori in corso e quindi la eventuale presenza di uomini che lavorano presso o sulla carreggiata o depositi temporanei di materiali o macchinari sulla strada. <br><br>In presenza di tale segnale è opportuno moderare la velocità e se occorre fermarsi, quindi circolare con prudenza.<br> Tale segnale può essere integrato dal pannello 'ESTESA' che indica la lunghezza del cantiere."
                 },
                 {
                     "val": 9,
-                    "title": "",
-                    "content": ""
+                    "title": "Semaforo temporaneo",
+                    "content": "Preavvisa un impianto semaforico in presenza di un cantiere stradale (ad esempio, posto prima di un restringimento provvisorio della carreggiata per lavori in corso). <br><br>Si può trovare sia su strade urbane che extraurbane. <br>Il disco al centro può essere a luce gialla lampeggiante. <br><br>In presenza di tale segnale è opportuno moderare la velocità e se occorre fermarsi al rosso."
                 },
                 {
                     "val": 10,
-                    "title": "",
-                    "content": ""
+                    "title": "Barriera normale",
+                    "content": "Segnala un'area occupata da un cantiere stradale ed è posta ai suoi bordi. <br><br>Può utilizzarsi anche nei passaggi a livello quando le barriere sono guaste. Può essere integrata da lanterna a luce rossa fissa in caso di scarsa visibilità"
                 },
                 {
                     "val": 11,
-                    "title": "",
-                    "content": ""
+                    "title": "Cono",
+                    "content": "Viene usato per delimitare zone di lavori di breve durata, deviazioni provvisorie, aree interessate da incidenti, separazione provvisoria dei sensi di marcia. <br><br>Non è vero che si può usare in presenza di lavori stradali superiori a 10 giorni (è usato come detto per lavori di breve durata)."
                 },
                 {
                     "val": 12,
-                    "title": "",
-                    "content": ""
+                    "title": "Direzione autocarri consigliata",
+                    "content": "Tale segnale indica la direzione consigliata (non obbligatoria) agli autocarri di massa complessiva a pieno carico superiore alle 3.5 T. <br><br>Si trova in genere in prossimità dei cantieri stradali, è posto nel punto esatto della deviazione e può essere preceduto da un segnale 'PREAVVISO DI DEVIAZIONE'.<br><br> Non è vero che indica un'area di sosta per gli autocarri."
                 },
                 {
                     "val": 13,
-                    "title": "",
-                    "content": ""
+                    "title": "Direzione obbligatoria",
+                    "content": "E' un segnale temporaneo e segnale di indicazione. <br>E' posto in prossimità di un cantiere stradale. <br><br>Indica la direzione obbligatoria solo per i veicoli indicati in figura (in questo caso autotreni ed autoarticolati)."
                 },
                 {
                     "val": 14,
-                    "title": "",
-                    "content": ""
+                    "title": "Preavviso di deviazione con limitazione di transito",
+                    "content": "Fa parte dei segnali temporanei per cantieri di lavoro sulla strada. <br>E' posto in prossimità di un incrocio che precede un cantiere stradale. <br><br>Vieta a tutti i veicoli con massa a pieno carico superiore a 7 T di proseguire diritto e indica il percorso sostitutivo (Lucca è comunque raggiungibile). <br>Tutti gli altri veicoli possono invece proseguire diritto."
                 },
                 {
                     "val": 15,
-                    "title": "",
-                    "content": ""
+                    "title": "Preavviso di deviazione",
+                    "content": "E' un segnale di preavviso e temporaneo di cantiere. <br>E' posto in prossimità di un incrocio che precede un cantiere stradale. <br><br>Vieta a tutti i veicoli di proseguire diritto e indica il percorso sostitutivo (Novara è comunque raggiungibile). <br>Integrato con il pannello 'ESTESA', indica che la deviazione è lunga 2 Km (non indica la distanza dalla deviazione)."
                 },
                 {
                     "val": 16,
-                    "title": "",
-                    "content": ""
+                    "title": "Corsia di destra chiusa",
+                    "content": "Indica restringimento temporaneo della carreggiata per lavori in corso, ossia diminuzione da due a una corsia di marcia (chiusura della corsia di destra). <br>E' posto nelle vicinanze di un cantiere stradale. <br><br>Può essere completato con pannello che indica la distanza dal punto di chiusura della corsia. <br><br>Non è vero che obbliga a dare la precedenza ai veicoli provenienti da destra."
                 },
                 {
                     "val": 17,
-                    "title": "",
-                    "content": ""
+                    "title": "Uso corsie disponibili",
+                    "content": "E' posto in presenza di lavori stradali, indica alle diverse categorie di veicoli quali corsie possono occupare. <br><br>In questo caso indica che gli autocarri di massa complessiva superiore a 3,5 tonnellate possono percorrere solo la corsia di destra. <br><br>Non è vero che obbliga gli autocarri a circolare per file parallele o che gli autocarri debbono solo sorpassare a destra."
                 },
                 {
                     "val": 18,
-                    "title": "",
-                    "content": ""
+                    "title": "Presegnale di cantiere mobile con restringimento della carreggiata",
+                    "content": "Può essere installato su un veicolo per preavvisare un cantiere mobile con strettoia a sinistra e indicare le corsie disponibili per la circolazione. <br>Può essere completato con luci gialle lampeggianti. <br><br>E' integrato dal pannello integrativo 'DISTANZA' che indica la distanza dal cantiere (500m)."
                 },
                 {
                     "val": 19,
-                    "title": "",
-                    "content": ""
+                    "title": "Pannello posto su veicoli per lavori stradali",
+                    "content": "Può essere posto sui veicoli per lavori stradali, in sosta o in lento movimento sulla carreggiata. <br>Indica il lato dal quale il veicolo su cui è posto deve essere sorpassato. <br><br>Invita i conducenti a diminuire la velocità per la possibile presenza dei suddetti veicoli."
                 }
                 
             ]
