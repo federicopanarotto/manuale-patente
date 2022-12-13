@@ -595,7 +595,7 @@
                 {
                     "val": 36,
                     "title": "Sosta consentita a particolari categorie",
-                    "content": "E' un segnale di prescrizione (divieto), rappresenta un'eccezione al divieto di sosta. <br>Consente la sosta e il parcheggio ad una particolare categoria di veicoli (in questo caso ai veicoli al servizio di persone invalide munite dell’apposito contrassegno) e la vieta a tutti gli altri veicoli."
+                    "content": "E' un segnale di prescrizione (divieto), rappresenta un'eccezione al divieto di sosta. <br>Consente la sosta e il parcheggio ad una particolare categoria di veicoli (in questo caso ai veicoli al servizio di persone invalide munite dell'apposito contrassegno) e la vieta a tutti gli altri veicoli."
                 },
                 {
                     "val": 37,
@@ -1138,7 +1138,7 @@
                 {
                     "val": 12,
                     "title": "Vigile con braccio ad angolo retto",
-                    "content": "Il vigile disposto con le braccia ad angolo retto, come in figura, consente ai veicoli che provengono dalla sua sinistra di proseguire verso tutte le direzioni, quindi di svoltare a sinistra e a destra, e di proseguire diritto. <br><br>Ferma, invece, i veicoli che provengono dalle altre direzioni (dalla sua destra, dalle sue spalle e di fronte)"
+                    "content": "Il vigile disposto con le braccia ad angolo retto, come in figura, consente ai veicoli che provengono dalla sua sinistra di proseguire verso tutte le direzioni, quindi di svoltare a sinistra e a destra, e di proseguire diritto. <br><br>Ferma, invece, i veicoli che provengono dalle altre direzioni (dalla sua destra, dalle sue spalle e di fronte)."
                 },
                 {
                     "val": 13,
@@ -1402,13 +1402,13 @@
             "argomenti": [
                 {
                     "val": 0,
-                    "title": "",
-                    "content": ""
+                    "title": "Separazione dei sensi di marcia - Striscia discontinua",
+                    "content": "Divide la carreggiata in due corsie. <br>Può essere oltrepassata se vengono rispettate tutte le altre norme di circolazione. <br>Non consente di circolare stando a cavallo di essa. <br><br>In una strada a doppio senso con due corsie divide i sensi di marcia e consente:<ul><li>in caso si voglia sorpassare, di occupare momentaneamente l'altra corsia di marcia (deve comunque esserci visibilità sufficiente e essere consentito su quel tratto di strada)</li><li>di effettuare l'inversione di marcia, in condizioni di sicurezza</li><li>la svolta a sinistra (spostandosi verso il centro della carreggiata)</li></ul><br>Non è vero che per effettuare l'inversione di marcia è necessario non occupare l'altra corsia. <br><br>In una carreggiata a senso unico, la striscia bianca discontinua serve a delimitare le corsie (la corsia di sinistra è, di norma, riservata al sorpasso), quindi consente: <br><ul><li>il sorpasso (anche in curva e in vicinanza o in corrispondenza di dossi) </li><li>la svolta a sinistra (spostandosi al margine sinistro della corsia di sinistra)</li></ul><br>Non è vero che si può sempre viaggiare per file parallele o effettuare l'inversione di marcia (è una strada a senso unico). <br>Non è vero che può essere sostituita da una serie di catadiottri o 'chiodi' per segnaletica stradale (questi possono integrare la striscia continua) o che si trova in vicinanza di un passaggio a livello (in genere in vicinanza di un pericolo quale un passaggio a livello si trova la linea continua)."
                 },
                 {
                     "val": 1,
-                    "title": "",
-                    "content": ""
+                    "title": "Separazione dei sensi di marcia - Striscia continua singola",
+                    "content": "Separa la carreggiata in due corsie e non permette di essere superata<br><br><ul><li>divide la carreggiata in due corsie</li><li>non può essere superata</li><li>permette la manovra di sorpasso senza superarla (se consentito dalle altre norme) </li><li>non consente di marciarvi a cavallo</li><li>non consente l'inversione di marcia</li><li>divide i sensi di marcia nelle strade a doppio senso</li></ul><br>Sulle strade a doppio senso si può trovare in vicinanza di un pericolo, come sul tratto in salita di un dosso o in vicinanza degli attraversamenti pedonali o ciclabili."
                 },
                 {
                     "val": 2,
