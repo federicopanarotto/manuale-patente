@@ -1412,13 +1412,13 @@
                 },
                 {
                     "val": 2,
-                    "title": "",
-                    "content": ""
+                    "title": "Separazione sensi di marcia - Doppia striscia continua",
+                    "content": "Serve a dividere i sensi di marcia sulle strade a doppio senso di circolazione. <br><br>Ad esempio con quattro corsie (due per senso di marcia): si avrà la striscia discontinua tra ognuna delle corsie sul singolo senso di marcia e la striscia doppia continua al centro per dividere i due sensi di marcia.<br><br><ul>    <li>non può essere superata</li>    <li>permette il sorpasso, se consentito, senza superarla</li>    <li>non consente l'inversione del senso di marcia</li>    <li>non consente di svoltare a sinistra </li></ul><br>Non è vero che si può trovare ai bordi della strada, per segnalare i margini o che indica il punto in cui i conducenti si debbono arrestare per la presenza del segnale di STOP."
                 },
                 {
                     "val": 3,
-                    "title": "",
-                    "content": ""
+                    "title": "Separazione sensi di marcia - Doppia striscia CONTINUA DISCONTINUA",
+                    "content": "Si trova su strade a doppio senso di circolazione. <br><br>La striscia continua dalla parte del veicolo indica che esso non ha ancora superato il pericolo e vige l'obbligo di non impegnare l'altra corsia (cioè oltrepassare le due strisce).<br><br> Ad esempio si può trovare:<ul>    <li>prima di una curva </li>    <li>sull'altro senso di marcia è discontinua in quanto ci si trova all'uscita della curva, quindi si ha maggiore visibilità</li>    <li>sul tratto in salita di un dosso</li>    <li>sull'altro senso di marcia è discontinua in quanto ci si trova nel tratto discendente, quindi si ha maggiore visibilità</li>    <li>prima di un incrocio</li>    <li>prima di un passaggio a livello</li></ul>"
                 },
                 {
                     "val": 4,
