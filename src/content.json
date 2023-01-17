@@ -1422,28 +1422,28 @@
                 },
                 {
                     "val": 4,
-                    "title": "",
-                    "content": ""
+                    "title": "Separazione sensi di marcia - Doppia striscia discontinua continua",
+                    "content": "Si trova su strade a doppio senso di circolazione.<br> La striscia discontinua dalla parte del veicolo indica che esso ha superato il pericolo e può eventualmente impegnare l'altra corsia (esempio per il sorpasso).<br><br> Ad esempio si può trovare <ul><li>dopo una curva</li><li>sull'altro senso di marcia è continua in quanto ci si trova prima della curva, quindi si ha minore visibilità</li><li>sul tratto in discesa di un dosso</li><li>sull'altro senso di marcia è continua in quanto ci si trova nel tratto in salita, quindi si ha minore visibilità</li><li>dopo un incrocio</li><li>dopo un passaggio a livello</li></ul>"
                 },
                 {
                     "val": 5,
-                    "title": "",
-                    "content": ""
+                    "title": "Strisce continue di margine",
+                    "content": "La striscia bianca continua, che separa la carreggiata dalla corsia di emergenza (corsia A), può essere superata solo in caso di necessità (guasto del veicolo, malessere dei viaggiatori), per un massimo di tre ore.<br><br> Quindi non si può occupare per le manovre di sorpasso o in caso di traffico intenso I veicoli che possono transitare sulla corsia di emergenza (corsia A), sono solo quelli di soccorso, in servizio.<br><br> Non è vero che è consentito il transito dei motocicli.<br>"
                 },
                 {
                     "val": 6,
-                    "title": "",
-                    "content": ""
+                    "title": "Strisce discontinue di margine",
+                    "content": "Le strisce laterali discontinue: <ul><li>delimitano il margine della strada principale in corrispondenza di diramazioni secondarie o strade con obbligo di precedenza</li><li>delimitano inoltre piazzole o zone di sosta, passi carrabili, corsie di accelerazione o decelerazione</li></ul>"
                 },
                 {
                     "val": 7,
-                    "title": "",
-                    "content": ""
+                    "title": "Strisce di guida negli incroci",
+                    "content": "Le strisce di guida sulle intersezioni (incroci) sono strisce discontinue (tratteggiate) curve di colore bianco e servono per effettuare correttamente la svolta a sinistra, evitando di entrare contromano.<br><br> Di norma, si trovano dove la svolta a sinistra si effettua lasciando alla nostra destra il centro dell'incrocio, quindi debbono essere lasciate alla sinistra del veicolo quando si svolta a sinistra.<br><br> Essendo costituite da linee bianche tratteggiate, possono quindi essere valicate dai veicoli (per proseguire diritto ad esempio).<br> <br>Nel caso della figura:<ul>  <li> il veicolo A può andare in qualsiasi direzione  <li> il veicolo B può svoltare a sinistra, dando però la precedenza al veicolo A  <li> il veicolo C può andare diritto</li></ul>"
                 },
                 {
                     "val": 8,
-                    "title": "",
-                    "content": ""
+                    "title": "Strisce di raccordo",
+                    "content": "L'isola di traffico è una zona delimitata da strisce bianche oblique e indica un tratto di strada vietato al transito ed alla sosta dei veicoli.<br><br> Nel caso della figura:<ul>  <li> il veicolo A deve andare diritto  </li><li> il veicolo B deve svoltare a destra  </li><li> il veicolo C deve svoltare a destra</li></ul>"
                 },
                 {
                     "val": 9,
