@@ -1417,7 +1417,7 @@
                 },
                 {
                     "val": 3,
-                    "title": "Separazione sensi di marcia - Doppia striscia CONTINUA DISCONTINUA",
+                    "title": "Separazione sensi di marcia - Doppia striscia continua discontinua",
                     "content": "Si trova su strade a doppio senso di circolazione. <br><br>La striscia continua dalla parte del veicolo indica che esso non ha ancora superato il pericolo e vige l'obbligo di non impegnare l'altra corsia (cioè oltrepassare le due strisce).<br><br> Ad esempio si può trovare:<ul>    <li>prima di una curva </li>    <li>sull'altro senso di marcia è discontinua in quanto ci si trova all'uscita della curva, quindi si ha maggiore visibilità</li>    <li>sul tratto in salita di un dosso</li>    <li>sull'altro senso di marcia è discontinua in quanto ci si trova nel tratto discendente, quindi si ha maggiore visibilità</li>    <li>prima di un incrocio</li>    <li>prima di un passaggio a livello</li></ul>"
                 },
                 {
@@ -1447,8 +1447,8 @@
                 },
                 {
                     "val": 9,
-                    "title": "",
-                    "content": ""
+                    "title": "Striscia trasversale continua - striscia d'arresto",
+                    "content": "La striscia trasversale continua indica il punto in cui i conducenti devono arrestarsi in presenza di segnalazioni di arresto (semaforo rosso, vigile in posizione di ALT, segnale di FERMARSI E DARE PRECEDENZA).<br><br> Può essere completata con la scritta STOP, dipinta sulla pavimentazione stradale.<br> Non è vero che indica il punto in cui dobbiamo arrestarci ad un incrocio, se non è regolato, o il punto in cui bisogna sempre arrestarsi in vicinanza di un incrocio stradale, o che è obbligatorio dare la precedenza ai veicoli provenienti sia da destra sia da sinistra (questo solo se vi è lo stop).<br>"
                 },
                 {
                     "val": 10,
