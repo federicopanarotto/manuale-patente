@@ -1452,18 +1452,18 @@
                 },
                 {
                     "val": 10,
-                    "title": "",
-                    "content": ""
+                    "title": "Zone di preselezione - Attestamento",
+                    "content": "In assenza di frecce direzionali tutte e tre le corsie consentono di proseguire diritto, inoltre:<ul>  <li> la corsia di sinistra consente anche di svoltare a sinistra  </li><li> la corsia di destra consente anche di svoltare a destra  </li><li> la corsia centrale consente solo di proseguire diritto È possibile cambiare corsia finché le strisce sono ancora discontinue (tratteggiate).<br><br> Non è vero che la corsia di destra è riservata ai veicoli lenti.<br>"
                 },
                 {
                     "val": 11,
-                    "title": "",
-                    "content": ""
+                    "title": "Frecce direzionali",
+                    "content": "Le frecce direzionali in figura si trovano all'interno delle corsie (di preselezione), prima di un incrocio.<br><br> Indicano ai conducenti le direzioni consentite all'incrocio:<ul>  <li> la corsia A consente al conducente solo di svoltare a sinistra  </li><li> la corsia B consente al conducente di proseguire diritto e di svoltare a sinistra  </li><li> la corsia C consente di svoltare a destra e proseguire diritto <br><br></ul>E' consentito immettersi nella corsia scelta quando le strisce sono ancora discontinue (tratteggiate), mentre è obbligatorio seguire la direzione indicata dalla freccia se le strisce di corsia sono continue.<br><br> Possono essere completate da scritte sulla pavimentazione che indicano la località raggiungibile.<br> Possono essere a freccia combinata, ad esempio diritta destra per corsie destinate a chi deve proseguire diritto o a destra.<br><br> Non è vero che le corsie A, B e C rappresentate in figura sono a doppio senso di circolazione.<br>"
                 },
                 {
                     "val": 12,
-                    "title": "",
-                    "content": ""
+                    "title": "Attraversamento pedonale",
+                    "content": "Tale segnaletica indica, sia dentro che fuori dei centri abitati, un attraversamento pedonale, in cui i pedoni hanno la precedenza sui veicoli.<br><br> Può essere completata con l'apposito segnale verticale di ATTRAVERSAMENTO PEDONALE. Su strade extraurbane secondarie deve essere preceduta dal segnale di PERICOLO ATTRAVERSAMENTO PEDONALE.<br><br> Può essere anche obliquo. Obbliga i conducenti a fermarsi e dare la precedenza ai pedoni che attraversano la carreggiata.<br> Un attraversamento pedonale può essere preceduto sulla destra da una striscia gialla a zig zag, come nella figura per migliorarne la visibilità.<br>"
                 },
                 {
                     "val": 13,
