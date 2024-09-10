@@ -1,4 +1,4 @@
-import data from "./content.json";
+import data from "./content.json" assert { type: "json"};
 import { img_dir, img_ext} from "./app_global.js";
 
 const list = document.querySelector("#list");
