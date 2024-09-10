@@ -1,6 +1,6 @@
 import { img_dir, img_ext} from "./app_global.js";
 
-fetch('./content.json')
+fetch('/src/content.json')
   .then(response => response.json())
   .then(data => {
     let capitolo = parseInt(localStorage.getItem("capitolo"));
